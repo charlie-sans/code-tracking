@@ -2,9 +2,9 @@
   "date": "2025-01-28",
   "projects": {
     "CMASM": {
-      "totalLinesAdded": 613,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 731,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 2,
       "files": {
         "t:\\git\\CMASM\\src\\C\\core\\interpreter.c": [
           {
@@ -19,6 +19,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "c"
+          }
+        ],
+        "t:\\git\\CMASM\\main.masm": [
+          {
+            "timestamp": "2025-01-28T07:13:16.966Z",
+            "fileName": "t:\\git\\CMASM\\main.masm",
+            "fileType": ".masm",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-01-28T07:13:27.065Z",
+            "fileName": "t:\\git\\CMASM\\main.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "CMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ],
+        "t:\\git\\CMASM\\src\\C\\core\\wrapper.c": [
+          {
+            "timestamp": "2025-01-28T07:14:03.174Z",
+            "fileName": "t:\\git\\CMASM\\src\\C\\core\\wrapper.c",
+            "fileType": ".c",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "CMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "c"
           }
         ]

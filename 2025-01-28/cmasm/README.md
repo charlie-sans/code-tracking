@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 613                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 613                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 731                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 729                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
 - **interpreter.c** (+613, -0)
+- **main.masm** (+3, -2)
+- **wrapper.c** (+115, -0)
 
 ## Visualizations
 
@@ -20,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".c" : 613
+".c" : 728
+".masm" : 5
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 1
+"18h" : 3
 ```
 
 
-> **Last Updated:** 1/28/2025, 5:50:29 PM
+> **Last Updated:** 1/28/2025, 6:15:29 PM
