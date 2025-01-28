@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1913                                          |
-| **Lines Removed** (➖) | 152                                        |
-| **Net Change** (↕)    | 1761                |
-| **Active Time** (⌚)   | 138 minutes |
+| **Lines Added** (➕)   | 2041                                          |
+| **Lines Removed** (➖) | 169                                        |
+| **Net Change** (↕)    | 1872                |
+| **Active Time** (⌚)   | 145 minutes |
 
 
 ## Modified Files
@@ -15,12 +15,13 @@
 - **index.mjs** (+53, -3)
 - **settings.json** (+370, -1)
 - **lib.rs** (+15, -0)
-- **App.jsx** (+685, -94)
+- **App.jsx** (+739, -94)
 - **App.css** (+599, -28)
 - **main.rs** (+17, -0)
 - **Cargo.toml** (+1, -0)
 - **Cargo.toml** (+53, -26)
-- **main.rs** (+85, -0)
+- **main.rs** (+109, -0)
+- **tauri.conf.json** (+50, -17)
 
 ## Visualizations
 
@@ -29,10 +30,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 406
+".json" : 473
 ".mjs" : 56
-".rs" : 117
-".jsx" : 779
+".rs" : 141
+".jsx" : 833
 ".css" : 627
 ".toml" : 80
 ```
@@ -44,8 +45,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 10
 "20h" : 49
-"21h" : 29
+"21h" : 34
 ```
 
 
-> **Last Updated:** 1/28/2025, 9:48:07 PM
+> **Last Updated:** 1/28/2025, 9:52:40 PM

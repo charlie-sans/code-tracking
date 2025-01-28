@@ -95,9 +95,9 @@
       "averageChangeSize": 613
     },
     "trollerboard": {
-      "totalLinesAdded": 1913,
-      "totalLinesRemoved": 152,
-      "totalActiveTime": 138,
+      "totalLinesAdded": 2041,
+      "totalLinesRemoved": 169,
+      "totalActiveTime": 145,
       "files": {
         "t:\\git\\trollerboard\\package.json": [
           {
@@ -835,6 +835,20 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-28T10:49:58.585Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "t:\\git\\trollerboard\\tauri-app\\src\\App.css": [
@@ -1349,6 +1363,64 @@
             },
             "duration": 3,
             "language": "rs"
+          },
+          {
+            "timestamp": "2025-01-28T10:50:00.490Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src-tauri\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rs"
+          }
+        ],
+        "t:\\git\\trollerboard\\tauri-app\\src-tauri\\tauri.conf.json": [
+          {
+            "timestamp": "2025-01-28T10:49:03.889Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src-tauri\\tauri.conf.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T10:50:00.467Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src-tauri\\tauri.conf.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T10:51:27.461Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src-tauri\\tauri.conf.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
