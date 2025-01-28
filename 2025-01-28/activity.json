@@ -95,9 +95,9 @@
       "averageChangeSize": 613
     },
     "trollerboard": {
-      "totalLinesAdded": 88,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 458,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 14,
       "files": {
         "t:\\git\\trollerboard\\package.json": [
           {
@@ -157,6 +157,92 @@
             },
             "duration": 1,
             "language": "mjs"
+          }
+        ],
+        "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json": [
+          {
+            "timestamp": "2025-01-28T08:53:30.200Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 366,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T08:53:37.379Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T08:54:08.656Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T08:54:17.695Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T08:54:19.313Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-28T08:54:21.821Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
