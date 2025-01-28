@@ -95,9 +95,9 @@
       "averageChangeSize": 613
     },
     "trollerboard": {
-      "totalLinesAdded": 2041,
-      "totalLinesRemoved": 169,
-      "totalActiveTime": 145,
+      "totalLinesAdded": 2043,
+      "totalLinesRemoved": 171,
+      "totalActiveTime": 149,
       "files": {
         "t:\\git\\trollerboard\\package.json": [
           {
@@ -1376,6 +1376,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-01-28T10:53:10.348Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src-tauri\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rs"
+          },
+          {
+            "timestamp": "2025-01-28T10:53:10.759Z",
+            "fileName": "t:\\git\\trollerboard\\tauri-app\\src-tauri\\src\\main.rs",
+            "fileType": ".rs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "trollerboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "rs"
           }
         ],
