@@ -2,9 +2,9 @@
   "date": "2025-01-30",
   "projects": {
     "masmsite": {
-      "totalLinesAdded": 454,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 550,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 3,
       "files": {
         "t:\\git\\masmsite\\public\\interp.js": [
           {
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "t:\\git\\masmsite\\src\\pages\\playground.astro": [
+          {
+            "timestamp": "2025-01-29T20:03:37.153Z",
+            "fileName": "t:\\git\\masmsite\\src\\pages\\playground.astro",
+            "fileType": ".astro",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "masmsite",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "astro"
+          },
+          {
+            "timestamp": "2025-01-29T20:03:40.568Z",
+            "fileName": "t:\\git\\masmsite\\src\\pages\\playground.astro",
+            "fileType": ".astro",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "masmsite",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "astro"
           }
         ]
       },
