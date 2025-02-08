@@ -869,9 +869,9 @@
       "averageChangeSize": 85.71428571428571
     },
     "koderunner": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 23,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\GAMER\\koderunner\\install.sh": [
           {
@@ -901,6 +901,36 @@
             },
             "duration": 2,
             "language": "sh"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\install.ps1": [
+          {
+            "timestamp": "2025-02-08T11:15:25.598Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\install.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-08T11:19:19.876Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\install.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ps1"
           }
         ]
       },

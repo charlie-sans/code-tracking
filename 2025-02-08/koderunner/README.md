@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8                                          |
+| **Lines Added** (➕)   | 23                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 8                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Net Change** (↕)    | 23                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **install.sh** (+8, -0)
+- **install.ps1** (+15, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".sh" : 8
+".ps1" : 15
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"22h" : 2
+"22h" : 4
 ```
 
 
-> **Last Updated:** 2/8/2025, 10:14:54 PM
+> **Last Updated:** 2/8/2025, 10:19:54 PM
