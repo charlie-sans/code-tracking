@@ -1,0 +1,137 @@
+{
+  "date": "2025-02-08",
+  "projects": {
+    "runner": {
+      "totalLinesAdded": 599,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 9,
+      "files": {
+        "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs": [
+          {
+            "timestamp": "2025-02-08T10:25:52.417Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-08T10:30:46.653Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs": [
+          {
+            "timestamp": "2025-02-08T10:26:15.669Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-08T10:26:15.486Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs": [
+          {
+            "timestamp": "2025-02-08T10:26:52.784Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-08T10:26:55.843Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-08T10:29:23.056Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 9
+      },
+      "changeFrequency": {
+        "21": 9
+      },
+      "topFiles": [
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+        "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs",
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs"
+      ],
+      "averageChangeSize": 85.71428571428571
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
