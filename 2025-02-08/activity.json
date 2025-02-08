@@ -2,9 +2,9 @@
   "date": "2025-02-08",
   "projects": {
     "runner": {
-      "totalLinesAdded": 934,
+      "totalLinesAdded": 1051,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 49,
+      "totalActiveTime": 67,
       "files": {
         "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs": [
           {
@@ -620,6 +620,230 @@
             "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
             "fileType": ".txt",
             "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:42:13.990Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:42:17.328Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:42:22.813Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:42:23.453Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:42:42.461Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:42:43.050Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:43:02.084Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:43:03.732Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:43:04.196Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:43:41.671Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:44:03.564Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:44:04.032Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:44:13.414Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:44:14.460Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:44:14.880Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "runner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-08T10:44:44.954Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Logs\\log_2025-02-08.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "runner",
             "content": {
