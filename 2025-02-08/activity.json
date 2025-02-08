@@ -867,6 +867,53 @@
         "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs"
       ],
       "averageChangeSize": 85.71428571428571
+    },
+    "koderunner": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\GAMER\\koderunner\\install.sh": [
+          {
+            "timestamp": "2025-02-08T11:13:18.478Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\install.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-02-08T11:14:29.791Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\install.sh",
+            "fileType": ".sh",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 2
+      },
+      "changeFrequency": {
+        "22": 2
+      },
+      "topFiles": [
+        "c:\\Users\\GAMER\\koderunner\\install.sh"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 8,
