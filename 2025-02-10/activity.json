@@ -1,0 +1,95 @@
+{
+  "date": "2025-02-10",
+  "projects": {
+    "koderunner": {
+      "totalLinesAdded": 601,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\GAMER\\koderunner\\KodeRunnerLibs\\Runnables\\Class1.cs": [
+          {
+            "timestamp": "2025-02-09T21:02:47.306Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\KodeRunnerLibs\\Runnables\\Class1.cs",
+            "fileType": ".cs",
+            "linesAdded": 235,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs": [
+          {
+            "timestamp": "2025-02-09T21:06:58.350Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-09T21:07:03.212Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs": [
+          {
+            "timestamp": "2025-02-09T21:07:26.341Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 7
+      },
+      "changeFrequency": {
+        "8": 7
+      },
+      "topFiles": [
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\BuildProcess.cs",
+        "c:\\Users\\GAMER\\koderunner\\KodeRunnerLibs\\Runnables\\Class1.cs",
+        "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs"
+      ],
+      "averageChangeSize": 150.25
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
