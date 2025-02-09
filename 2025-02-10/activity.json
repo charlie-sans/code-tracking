@@ -2,9 +2,9 @@
   "date": "2025-02-10",
   "projects": {
     "koderunner": {
-      "totalLinesAdded": 601,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 874,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\GAMER\\koderunner\\KodeRunnerLibs\\Runnables\\Class1.cs": [
           {
@@ -66,6 +66,124 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-09T21:07:36.220Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-09T21:07:41.666Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-09T21:08:01.779Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Processes\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\.gitignore": [
+          {
+            "timestamp": "2025-02-09T21:08:27.482Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-09T21:08:39.958Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs": [
+          {
+            "timestamp": "2025-02-09T21:09:24.086Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-09T21:09:40.219Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\Runnables\\TerminalProcess.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Config\\config.json": [
+          {
+            "timestamp": "2025-02-09T21:10:27.773Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\runner\\koderunner\\Config\\config.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
