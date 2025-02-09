@@ -3,7 +3,7 @@
   "projects": {
     "koderunner": {
       "totalLinesAdded": 2332,
-      "totalLinesRemoved": 191,
+      "totalLinesRemoved": 199,
       "totalActiveTime": 16,
       "files": {
         "c:\\Users\\GAMER\\koderunner\\runner\\Program.cs": [
@@ -177,6 +177,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-02-09T04:19:56.902Z",
+            "fileName": "c:\\Users\\GAMER\\koderunner\\KodeRunnerLibs\\Runnables\\Class1.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "koderunner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],
