@@ -1,0 +1,133 @@
+{
+  "date": "2025-02-11",
+  "projects": {
+    "MASM": {
+      "totalLinesAdded": 291,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "d:\\MASM\\pom.xml": [
+          {
+            "timestamp": "2025-02-11T03:04:35.356Z",
+            "fileName": "d:\\MASM\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-11T03:04:38.820Z",
+            "fileName": "d:\\MASM\\pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "d:\\MASM\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-02-11T03:04:44.886Z",
+            "fileName": "d:\\MASM\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "d:\\MASM\\src\\test\\java\\org\\Finite\\FunctionsTest.java": [
+          {
+            "timestamp": "2025-02-11T03:04:56.485Z",
+            "fileName": "d:\\MASM\\src\\test\\java\\org\\Finite\\FunctionsTest.java",
+            "fileType": ".java",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\MASM\\src\\test\\java\\org\\Finite\\InterpTest.java": [
+          {
+            "timestamp": "2025-02-11T03:05:20.099Z",
+            "fileName": "d:\\MASM\\src\\test\\java\\org\\Finite\\InterpTest.java",
+            "fileType": ".java",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\MASM\\src\\test\\java\\org\\Finite\\ArgumentParserTest.java": [
+          {
+            "timestamp": "2025-02-11T03:05:35.771Z",
+            "fileName": "d:\\MASM\\src\\test\\java\\org\\Finite\\ArgumentParserTest.java",
+            "fileType": ".java",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 1,
+        "json": 1,
+        "java": 3
+      },
+      "changeFrequency": {
+        "14": 5
+      },
+      "topFiles": [
+        "d:\\MASM\\pom.xml",
+        "d:\\MASM\\.vscode\\settings.json",
+        "d:\\MASM\\src\\test\\java\\org\\Finite\\FunctionsTest.java",
+        "d:\\MASM\\src\\test\\java\\org\\Finite\\InterpTest.java",
+        "d:\\MASM\\src\\test\\java\\org\\Finite\\ArgumentParserTest.java"
+      ],
+      "averageChangeSize": 48.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "java",
+    "xml",
+    "json"
+  ]
+}
