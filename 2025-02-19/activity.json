@@ -3,7 +3,7 @@
   "projects": {
     "MASM": {
       "totalLinesAdded": 3895,
-      "totalLinesRemoved": 259,
+      "totalLinesRemoved": 261,
       "totalActiveTime": -495,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
@@ -267,6 +267,20 @@
             "fileType": ".java",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T20:21:15.095Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "MASM",
             "content": {
               "added": [],
