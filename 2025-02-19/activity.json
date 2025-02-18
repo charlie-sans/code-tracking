@@ -2,9 +2,9 @@
   "date": "2025-02-19",
   "projects": {
     "MASM": {
-      "totalLinesAdded": 1647,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 1719,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 34,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
           {
@@ -178,6 +178,76 @@
             },
             "duration": 1,
             "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:38:51.898Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:38:53.373Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:39:13.190Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:39:47.673Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:39:51.265Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ],
         "/media/cat/MASM/src/test/java/org/Finite/FunctionsTest.java": [
@@ -214,6 +284,150 @@
             "fileName": "/media/cat/MASM/src/test/java/org/Finite/FunctionsTest.java",
             "fileType": ".java",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/extras.masm": [
+          {
+            "timestamp": "2025-02-18T15:39:33.388Z",
+            "fileName": "/media/cat/MASM/extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:39:36.289Z",
+            "fileName": "/media/cat/MASM/extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:39:40.743Z",
+            "fileName": "/media/cat/MASM/extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-18T15:39:53.525Z",
+            "fileName": "/media/cat/MASM/extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java": [
+          {
+            "timestamp": "2025-02-18T15:40:41.732Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T15:40:42.841Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T15:40:47.632Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T15:41:36.220Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T15:42:21.417Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T15:42:26.764Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "MASM",
             "content": {
