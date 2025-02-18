@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "finite.vercel.app": {
-      "totalLinesAdded": 2212,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 3864,
+      "totalLinesRemoved": 1480,
+      "totalActiveTime": 21,
       "files": {
         "/home/charlie/git/finite.vercel.app/src/styles/App.css": [
           {
@@ -76,6 +76,34 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-02-18T06:08:54.799Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/styles/App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-18T06:09:03.597Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/styles/App.css",
+            "fileType": ".css",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "/home/charlie/git/finite.vercel.app/src/styles/index.css": [
@@ -120,6 +148,34 @@
             },
             "duration": 2,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-02-18T06:08:54.776Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/styles/index.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-18T06:09:03.618Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/styles/index.css",
+            "fileType": ".css",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "/home/charlie/git/finite.vercel.app/src/styles/documentation.css": [
@@ -136,6 +192,150 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-02-18T06:08:54.820Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/styles/documentation.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1419,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-18T06:09:03.647Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/styles/documentation.css",
+            "fileType": ".css",
+            "linesAdded": 1419,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/home/charlie/git/finite.vercel.app/package.json": [
+          {
+            "timestamp": "2025-02-18T06:08:54.747Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/package.json",
+            "fileType": ".json",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-18T06:09:03.571Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/package.json",
+            "fileType": ".json",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js": [
+          {
+            "timestamp": "2025-02-18T06:08:54.870Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T06:09:03.669Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T06:10:05.058Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T06:10:59.006Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T06:12:55.642Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T06:13:05.659Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
