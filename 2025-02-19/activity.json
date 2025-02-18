@@ -2,9 +2,9 @@
   "date": "2025-02-19",
   "projects": {
     "MASM": {
-      "totalLinesAdded": 101,
+      "totalLinesAdded": 111,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 8,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
           {
@@ -78,6 +78,22 @@
             },
             "duration": 3,
             "language": "java"
+          }
+        ],
+        "/media/cat/MASM/main.masm": [
+          {
+            "timestamp": "2025-02-18T14:16:53.164Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "masm"
           }
         ]
       },
