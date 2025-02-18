@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3701                                          |
+| **Lines Added** (➕)   | 3824                                          |
 | **Lines Removed** (➖) | 168                                        |
-| **Net Change** (↕)    | 3533                |
-| **Active Time** (⌚)   | -519 minute |
+| **Net Change** (↕)    | 3656                |
+| **Active Time** (⌚)   | -513 minute |
 
 
 ## Modified Files
@@ -26,10 +26,12 @@
 - **ModuleInit.java** (+140, -3)
 - **common.java** (+354, -0)
 - **.classpath** (+58, -0)
-- **logback.xml** (+23, -22)
+- **logback.xml** (+49, -22)
 - **spotbugs-exclude.xml** (+61, -0)
 - **includemanager.java** (+143, -13)
 - **MASMException.java** (+12, -0)
+- **MASMConfig.java** (+50, -0)
+- **MemoryManager.java** (+47, -0)
 
 ## Visualizations
 
@@ -38,11 +40,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 3175
+".java" : 3272
 ".masm" : 122
 ".json" : 408
 "unknown" : 58
-".xml" : 106
+".xml" : 132
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,10 +56,11 @@ title Coding activity by hour (count of changes)
 "01h" : 6
 "02h" : 39
 "03h" : 14
-"04h" : 17
+"04h" : 19
+"05h" : 3
 "14h" : 29
 "23h" : 2
 ```
 
 
-> **Last Updated:** 19/02/2025, 04:52:37
+> **Last Updated:** 19/02/2025, 05:02:37
