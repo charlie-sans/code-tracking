@@ -353,9 +353,9 @@
       "averageChangeSize": 248.66666666666666
     },
     "MASM": {
-      "totalLinesAdded": 1849,
-      "totalLinesRemoved": 33,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 1888,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 11,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java": [
           {
@@ -408,6 +408,34 @@
             "fileType": ".java",
             "linesAdded": 341,
             "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T11:44:38.142Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Common/common.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T11:44:44.004Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Common/common.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "MASM",
             "content": {
               "added": [],
@@ -476,6 +504,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T11:44:08.974Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp/instructions.java",
+            "fileType": ".java",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
