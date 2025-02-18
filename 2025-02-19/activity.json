@@ -2,9 +2,9 @@
   "date": "2025-02-19",
   "projects": {
     "MASM": {
-      "totalLinesAdded": 6124,
+      "totalLinesAdded": 6501,
       "totalLinesRemoved": 267,
-      "totalActiveTime": -462,
+      "totalActiveTime": -456,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
           {
@@ -1346,6 +1346,34 @@
             "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
             "fileType": ".json",
             "linesAdded": 376,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-18T21:50:40.215Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 376,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-18T21:50:40.348Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "MASM",
             "content": {
