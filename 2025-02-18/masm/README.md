@@ -4,20 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3614                                          |
-| **Lines Removed** (➖) | 143                                        |
-| **Net Change** (↕)    | 3471                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 3668                                          |
+| **Lines Removed** (➖) | 154                                        |
+| **Net Change** (↕)    | 3514                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
 - **MasmException.java** (+34, -33)
 - **common.java** (+345, -3)
 - **Functions.java** (+1949, -55)
-- **interp.java** (+1042, -14)
+- **interp.java** (+1055, -25)
 - **instructions.java** (+77, -38)
 - **stringoperations.java** (+40, -0)
 - **ModuleInit.java** (+127, -0)
+- **Functions.java** (+41, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 3757
+".java" : 3822
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "22h" : 18
-"23h" : 11
+"23h" : 17
 ```
 
 
-> **Last Updated:** 18/02/2025, 23:10:30
+> **Last Updated:** 18/02/2025, 23:15:30
