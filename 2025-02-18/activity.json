@@ -351,6 +351,132 @@
         "/home/charlie/git/finite.vercel.app/src/styles/documentation.css"
       ],
       "averageChangeSize": 248.66666666666666
+    },
+    "MASM": {
+      "totalLinesAdded": 1848,
+      "totalLinesRemoved": 33,
+      "totalActiveTime": 8,
+      "files": {
+        "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java": [
+          {
+            "timestamp": "2025-02-18T11:34:21.729Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T11:34:42.002Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java",
+            "fileType": ".java",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T11:34:42.936Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/Finite/Common/common.java": [
+          {
+            "timestamp": "2025-02-18T11:34:32.464Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Common/common.java",
+            "fileType": ".java",
+            "linesAdded": 341,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/Finite/Functions.java": [
+          {
+            "timestamp": "2025-02-18T11:35:44.170Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 947,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T11:37:08.289Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
+          {
+            "timestamp": "2025-02-18T11:37:54.769Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 516,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 8
+      },
+      "changeFrequency": {
+        "22": 8
+      },
+      "topFiles": [
+        "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java",
+        "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+        "/media/cat/MASM/src/main/java/org/Finite/Common/common.java",
+        "/media/cat/MASM/src/main/java/org/Finite/interp.java"
+      ],
+      "averageChangeSize": 268.7142857142857
     }
   },
   "totalActiveTime": 10,
