@@ -353,9 +353,9 @@
       "averageChangeSize": 248.66666666666666
     },
     "MASM": {
-      "totalLinesAdded": 1969,
-      "totalLinesRemoved": 84,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 3614,
+      "totalLinesRemoved": 143,
+      "totalActiveTime": 28,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/Common/MasmException.java": [
           {
@@ -529,6 +529,48 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:06:48.952Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 947,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:52.334Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:57.337Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 45,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
@@ -538,6 +580,104 @@
             "fileType": ".java",
             "linesAdded": 516,
             "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:06:16.048Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 516,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:06:21.841Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:17.558Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:30.191Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:44.253Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:49.643Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T12:08:57.452Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "MASM",
             "content": {
               "added": [],
@@ -611,6 +751,22 @@
             "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
             "fileType": ".java",
             "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/Finite/ModuleManager/ModuleInit.java": [
+          {
+            "timestamp": "2025-02-18T12:06:58.700Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 127,
             "linesRemoved": 0,
             "projectName": "MASM",
             "content": {
