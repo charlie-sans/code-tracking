@@ -353,7 +353,7 @@
       "averageChangeSize": 248.66666666666666
     },
     "MASM": {
-      "totalLinesAdded": 1848,
+      "totalLinesAdded": 1849,
       "totalLinesRemoved": 33,
       "totalActiveTime": 8,
       "files": {
@@ -460,6 +460,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/Finite/interp/instructions.java": [
+          {
+            "timestamp": "2025-02-18T11:43:44.868Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/interp/instructions.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
