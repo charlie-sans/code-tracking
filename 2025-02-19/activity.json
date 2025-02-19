@@ -2617,6 +2617,101 @@
         "/media/cat/MASM/src/main/java/org/Finite/interp.java"
       ],
       "averageChangeSize": 10.5
+    },
+    "MicrOS": {
+      "totalLinesAdded": 222,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 4,
+      "files": {
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
+          {
+            "timestamp": "2025-02-19T08:58:33.726Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T08:59:01.306Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T08:59:37.418Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/MDIWindow.java": [
+          {
+            "timestamp": "2025-02-19T08:59:04.922Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/MDIWindow.java",
+            "fileType": ".java",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/TextEditorWindow.java": [
+          {
+            "timestamp": "2025-02-19T08:59:06.584Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/TextEditorWindow.java",
+            "fileType": ".java",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 4
+      },
+      "changeFrequency": {
+        "19": 4
+      },
+      "topFiles": [
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/MDIWindow.java",
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/TextEditorWindow.java"
+      ],
+      "averageChangeSize": 45.2
     }
   },
   "totalActiveTime": 1,
