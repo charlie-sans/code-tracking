@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6963                                          |
-| **Lines Removed** (➖) | 267                                        |
-| **Net Change** (↕)    | 6696                |
-| **Active Time** (⌚)   | -455 minute |
+| **Lines Added** (➕)   | 7436                                          |
+| **Lines Removed** (➖) | 312                                        |
+| **Net Change** (↕)    | 7124                |
+| **Active Time** (⌚)   | -446 minute |
 
 
 ## Modified Files
@@ -16,11 +16,11 @@
 - **main.masm** (+28, -17)
 - **FunctionsTest.java** (+489, -7)
 - **extras.masm** (+24, -23)
-- **stringoperations.java** (+151, -66)
+- **stringoperations.java** (+214, -111)
 - **MNIMethodObject.java** (+299, -0)
 - **launch.json** (+22, -1)
 - **settings.json** (+19, -0)
-- **settings.json** (+1130, -0)
+- **settings.json** (+1507, -0)
 - **main.masm** (+39, -4)
 - **extras.masm** (+22, -0)
 - **ModuleInit.java** (+141, -14)
@@ -36,6 +36,7 @@
 - **COMMIT_EDITMSG** (+2, -0)
 - **TODOS.c** (+56, -0)
 - **masm.tmLanguage.json** (+75, -0)
+- **stringhelpers.java** (+33, -0)
 
 ## Visualizations
 
@@ -44,9 +45,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 5559
+".java" : 5700
 ".masm" : 157
-".json" : 1247
+".json" : 1624
 "unknown" : 60
 ".xml" : 151
 ".c" : 56
@@ -68,9 +69,9 @@ title Coding activity by hour (count of changes)
 "08h" : 19
 "09h" : 1
 "14h" : 29
-"17h" : 3
+"17h" : 12
 "23h" : 2
 ```
 
 
-> **Last Updated:** 19/02/2025, 17:51:50
+> **Last Updated:** 19/02/2025, 17:55:09
