@@ -2619,9 +2619,9 @@
       "averageChangeSize": 10.5
     },
     "MicrOS": {
-      "totalLinesAdded": 1518,
+      "totalLinesAdded": 1608,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 31,
+      "totalActiveTime": 36,
       "files": {
         "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
           {
@@ -3000,6 +3000,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T11:22:16.103Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ],
