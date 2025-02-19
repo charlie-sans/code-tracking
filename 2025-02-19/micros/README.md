@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 222                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 218                |
+| **Lines Removed** (➖) | 9                                        |
+| **Net Change** (↕)    | 213                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **Main.java** (+74, -4)
+- **Main.java** (+74, -9)
 - **MDIWindow.java** (+74, -0)
 - **TextEditorWindow.java** (+74, -0)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 226
+".java" : 231
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 5
+"20h" : 1
 ```
 
 
-> **Last Updated:** 19/02/2025, 20:00:01
+> **Last Updated:** 19/02/2025, 20:30:01
