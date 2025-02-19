@@ -2619,7 +2619,7 @@
       "averageChangeSize": 10.5
     },
     "MicrOS": {
-      "totalLinesAdded": 1387,
+      "totalLinesAdded": 1487,
       "totalLinesRemoved": 43,
       "totalActiveTime": 27,
       "files": {
@@ -3004,6 +3004,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java": [
+          {
+            "timestamp": "2025-02-19T11:02:38.230Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
