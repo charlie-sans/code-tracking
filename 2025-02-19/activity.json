@@ -2620,7 +2620,7 @@
     },
     "MicrOS": {
       "totalLinesAdded": 888,
-      "totalLinesRemoved": 10,
+      "totalLinesRemoved": 31,
       "totalActiveTime": 13,
       "files": {
         "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
@@ -2720,6 +2720,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T10:38:15.875Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
