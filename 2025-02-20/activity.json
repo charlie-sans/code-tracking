@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 199,
+      "totalLinesAdded": 615,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -19,6 +19,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/VirtualFileSystem.java": [
+          {
+            "timestamp": "2025-02-19T23:40:39.665Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/VirtualFileSystem.java",
+            "fileType": ".java",
+            "linesAdded": 388,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/BackgroundPanel.java": [
+          {
+            "timestamp": "2025-02-19T23:41:42.777Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/BackgroundPanel.java",
+            "fileType": ".java",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
