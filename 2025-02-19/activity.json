@@ -2,9 +2,9 @@
   "date": "2025-02-19",
   "projects": {
     "MASM": {
-      "totalLinesAdded": 2477,
-      "totalLinesRemoved": 84,
-      "totalActiveTime": 78,
+      "totalLinesAdded": 2865,
+      "totalLinesRemoved": 130,
+      "totalActiveTime": 89,
       "files": {
         "/media/cat/MASM/src/main/java/org/Finite/interp.java": [
           {
@@ -388,6 +388,20 @@
             },
             "duration": 1,
             "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-19T03:28:04.169Z",
+            "fileName": "/media/cat/MASM/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ],
         "/media/cat/MASM/src/test/java/org/Finite/FunctionsTest.java": [
@@ -497,6 +511,20 @@
             "fileType": ".masm",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-19T03:28:06.324Z",
+            "fileName": "/media/cat/MASM/extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "MASM",
             "content": {
               "added": [],
@@ -800,6 +828,62 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T03:27:50.926Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T03:27:56.637Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T03:30:23.855Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T03:31:43.561Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/Finite/java/extentions/stringoperations.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MASM/src/main/java/org/Finite/ModuleManager/MNIMethodObject.java": [
@@ -895,6 +979,38 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/MASM/.vscode/settings.json": [
+          {
+            "timestamp": "2025-02-19T03:28:53.348Z",
+            "fileName": "/media/cat/MASM/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-02-19T03:31:14.433Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 376,
+            "linesRemoved": 0,
             "projectName": "MASM",
             "content": {
               "added": [],
