@@ -2,7 +2,7 @@
   "date": "2025-02-19",
   "projects": {
     "MASM": {
-      "totalLinesAdded": 6586,
+      "totalLinesAdded": 6963,
       "totalLinesRemoved": 267,
       "totalActiveTime": -455,
       "files": {
@@ -1395,6 +1395,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-19T06:50:08.967Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 377,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
