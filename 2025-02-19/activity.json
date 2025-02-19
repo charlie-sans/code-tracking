@@ -2619,9 +2619,9 @@
       "averageChangeSize": 10.5
     },
     "MicrOS": {
-      "totalLinesAdded": 1072,
+      "totalLinesAdded": 1387,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 21,
+      "totalActiveTime": 27,
       "files": {
         "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
           {
@@ -2972,6 +2972,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Console.java": [
+          {
+            "timestamp": "2025-02-19T10:54:24.440Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Console.java",
+            "fileType": ".java",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/ProcessManager.java": [
+          {
+            "timestamp": "2025-02-19T10:55:59.651Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/ProcessManager.java",
+            "fileType": ".java",
+            "linesAdded": 149,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1072                                          |
+| **Lines Added** (➕)   | 1387                                          |
 | **Lines Removed** (➖) | 43                                        |
-| **Net Change** (↕)    | 1029                |
-| **Active Time** (⌚)   | 21 minutes |
+| **Net Change** (↕)    | 1344                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **settings.json** (+377, -0)
 - **settings.json** (+3, -0)
 - **WindowManager.java** (+127, -12)
+- **Console.java** (+166, -0)
+- **ProcessManager.java** (+149, -0)
 
 ## Visualizations
 
@@ -27,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 526
+".java" : 841
 ".sh" : 5
 ".xml" : 204
 ".json" : 380
@@ -40,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 5
 "20h" : 9
-"21h" : 10
+"21h" : 12
 ```
 
 
-> **Last Updated:** 19/02/2025, 21:51:10
+> **Last Updated:** 19/02/2025, 21:56:10
