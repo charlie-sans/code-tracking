@@ -2619,9 +2619,9 @@
       "averageChangeSize": 10.5
     },
     "MicrOS": {
-      "totalLinesAdded": 222,
+      "totalLinesAdded": 712,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 4,
+      "totalActiveTime": 12,
       "files": {
         "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
           {
@@ -2679,6 +2679,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-19T09:30:20.426Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/home/charlie/IdeaProjects/MicrOS/src/main/java/org/Finite/MicrOS/MDIWindow.java": [
@@ -2711,6 +2725,82 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/start.sh": [
+          {
+            "timestamp": "2025-02-19T09:30:41.885Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/start.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-02-19T09:31:13.531Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/start.sh",
+            "fileType": ".sh",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "/home/charlie/IdeaProjects/MicrOS/pom.xml": [
+          {
+            "timestamp": "2025-02-19T09:31:58.572Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-19T09:34:16.962Z",
+            "fileName": "/home/charlie/IdeaProjects/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-02-19T09:34:00.654Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 377,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ]
       },
