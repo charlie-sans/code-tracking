@@ -3,8 +3,8 @@
   "projects": {
     "MicrOS": {
       "totalLinesAdded": 1426,
-      "totalLinesRemoved": 54,
-      "totalActiveTime": 24,
+      "totalLinesRemoved": 57,
+      "totalActiveTime": 28,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -105,6 +105,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T00:09:51.157Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/VirtualFileSystem.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ],
