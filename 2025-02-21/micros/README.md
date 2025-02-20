@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7507                                          |
-| **Lines Removed** (➖) | 275                                        |
-| **Net Change** (↕)    | 7232                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Lines Added** (➕)   | 7549                                          |
+| **Lines Removed** (➖) | 295                                        |
+| **Net Change** (↕)    | 7254                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
@@ -49,7 +49,7 @@
 - **DemoApp.java** (+45, -0)
 - **.gitignore** (+7, -0)
 - **manifest.json** (+22, -0)
-- **ProcessManager.java** (+151, -0)
+- **ProcessManager.java** (+193, -20)
 
 ## Visualizations
 
@@ -59,7 +59,7 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 7439
+".java" : 7501
 ".xml" : 232
 "unknown" : 14
 ".json" : 66
@@ -74,8 +74,8 @@ title Coding activity by hour (count of changes)
 "07h" : 13
 "08h" : 12
 "09h" : 1
-"10h" : 7
+"10h" : 16
 ```
 
 
-> **Last Updated:** 21/02/2025, 10:21:54
+> **Last Updated:** 21/02/2025, 10:26:54
