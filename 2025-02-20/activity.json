@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6926,
-      "totalLinesRemoved": 1787,
-      "totalActiveTime": 308,
+      "totalLinesAdded": 7164,
+      "totalLinesRemoved": 1826,
+      "totalActiveTime": 325,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -2998,6 +2998,34 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:41:43.151Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:44:30.020Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SettingsDialog.java": [
@@ -3145,6 +3173,124 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:41:43.201Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/TaskButton.java",
+            "fileType": ".java",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/StartMenu.java": [
+          {
+            "timestamp": "2025-02-20T05:40:41.851Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/StartMenu.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:41:43.395Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/StartMenu.java",
+            "fileType": ".java",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:44:30.150Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/StartMenu.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ClockPanel.java": [
+          {
+            "timestamp": "2025-02-20T05:42:42.513Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ClockPanel.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:44:29.881Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ClockPanel.java",
+            "fileType": ".java",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SystemTray.java": [
+          {
+            "timestamp": "2025-02-20T05:42:56.453Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SystemTray.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T05:44:30.301Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SystemTray.java",
+            "fileType": ".java",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
