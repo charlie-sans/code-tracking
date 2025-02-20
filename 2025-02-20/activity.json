@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 8457,
+      "totalLinesAdded": 9164,
       "totalLinesRemoved": 1840,
-      "totalActiveTime": 356,
+      "totalActiveTime": 364,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -3080,6 +3080,34 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T06:08:37.998Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 480,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T06:08:57.679Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java": [
@@ -3265,6 +3293,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T06:08:30.067Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SettingsDialog.java",
+            "fileType": ".java",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ],
@@ -3561,6 +3603,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/MicrOS/filesystem/system/texteditor/syntax/html.json": [
+          {
+            "timestamp": "2025-02-20T06:11:38.293Z",
+            "fileName": "/media/cat/MicrOS/filesystem/system/texteditor/syntax/html.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
