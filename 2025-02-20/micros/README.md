@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18882                                          |
-| **Lines Removed** (➖) | 1883                                        |
-| **Net Change** (↕)    | 16999                |
-| **Active Time** (⌚)   | 502 minutes |
+| **Lines Added** (➕)   | 19023                                          |
+| **Lines Removed** (➖) | 2011                                        |
+| **Net Change** (↕)    | 17012                |
+| **Active Time** (⌚)   | 511 minutes |
 
 
 ## Modified Files
-- **FileManager.java** (+1549, -7)
+- **FileManager.java** (+1551, -7)
 - **VirtualFileSystem.java** (+2433, -56)
 - **BackgroundPanel.java** (+274, -0)
 - **Main.java** (+683, -13)
@@ -35,9 +35,9 @@
 - **TextEditor.java** (+1206, -66)
 - **LineNumberComponent.java** (+89, -0)
 - **SyntaxHighlighter.java** (+443, -73)
-- **Settings.java** (+420, -173)
+- **Settings.java** (+422, -173)
 - **WindowManager.java** (+2041, -63)
-- **Taskbar.java** (+389, -58)
+- **Taskbar.java** (+506, -168)
 - **SettingsDialog.java** (+740, -2)
 - **WebViewer.java** (+375, -0)
 - **WrapLayout.java** (+186, -0)
@@ -54,7 +54,7 @@
 - **ApplicationLauncher.java** (+304, -4)
 - **DesktopIcon.java** (+45, -0)
 - **FileMetadata.java** (+45, -0)
-- **FileManager.java** (+304, -8)
+- **FileManager.java** (+324, -26)
 - **FileManager.java** (+277, -0)
 - **FileMetadata.java** (+45, -0)
 - **Settings.java** (+170, -0)
@@ -75,7 +75,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 19603
+".java" : 19872
 ".ts" : 110
 ".json" : 457
 ".sh" : 8
@@ -98,8 +98,8 @@ title Coding activity by hour (count of changes)
 "16h" : 46
 "17h" : 37
 "18h" : 37
-"19h" : 53
+"19h" : 59
 ```
 
 
-> **Last Updated:** 20/02/2025, 19:29:00
+> **Last Updated:** 20/02/2025, 19:34:00

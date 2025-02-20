@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 18882,
-      "totalLinesRemoved": 1883,
-      "totalActiveTime": 502,
+      "totalLinesAdded": 19023,
+      "totalLinesRemoved": 2011,
+      "totalActiveTime": 511,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -237,6 +237,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T08:29:54.132Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
               "added": [],
@@ -3414,6 +3428,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T08:29:53.832Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Settings.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/WindowManager.java": [
@@ -3887,6 +3915,34 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 7,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T08:29:53.971Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 110,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T08:29:54.426Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 117,
+            "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
               "added": [],
@@ -4900,6 +4956,34 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileManager.java",
             "fileType": ".java",
             "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T08:29:54.570Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T08:31:12.245Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 20,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
