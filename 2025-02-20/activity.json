@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 9164,
+      "totalLinesAdded": 9168,
       "totalLinesRemoved": 1840,
-      "totalActiveTime": 364,
+      "totalActiveTime": 366,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -915,6 +915,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-02-20T06:13:11.459Z",
+            "fileName": "/media/cat/MicrOS/start.sh",
+            "fileType": ".sh",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "sh"
           }
         ],
