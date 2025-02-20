@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 9443,
+      "totalLinesAdded": 9658,
       "totalLinesRemoved": 1840,
-      "totalActiveTime": 368,
+      "totalActiveTime": 377,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -1968,6 +1968,34 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T06:31:03.456Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Console.java",
+            "fileType": ".java",
+            "linesAdded": 181,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T06:31:36.189Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Console.java",
+            "fileType": ".java",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/CommandProcessor.java": [
@@ -2235,6 +2263,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T06:28:01.357Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/CommandProcessor.java",
+            "fileType": ".java",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ],
