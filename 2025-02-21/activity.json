@@ -2,8 +2,8 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 4119,
-      "totalLinesRemoved": 174,
+      "totalLinesAdded": 4145,
+      "totalLinesRemoved": 219,
       "totalActiveTime": 57,
       "files": {
         "/media/cat/MicrOS/apps/TextEditor.app/build.gradle": [
@@ -302,6 +302,20 @@
             },
             "duration": 3,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T19:56:27.352Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/apps/TextEditor.app/Contents/src/org/finite/texteditor/TextEditorApp.java": [
@@ -392,6 +406,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T19:56:27.069Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/StartMenu.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SettingsDialog.java": [
@@ -435,6 +463,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T19:56:27.213Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SettingsDialog.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 42,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],

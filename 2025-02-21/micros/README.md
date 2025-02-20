@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4119                                          |
-| **Lines Removed** (➖) | 174                                        |
-| **Net Change** (↕)    | 3945                |
+| **Lines Added** (➕)   | 4145                                          |
+| **Lines Removed** (➖) | 219                                        |
+| **Net Change** (↕)    | 3926                |
 | **Active Time** (⌚)   | 57 minutes |
 
 
@@ -26,11 +26,11 @@
 - **VirtualFileSystem.java** (+488, -0)
 - **WrapLayout.java** (+62, -0)
 - **SystemTray.java** (+20, -0)
-- **WindowManager.java** (+518, -39)
+- **WindowManager.java** (+544, -39)
 - **TextEditorApp.java** (+72, -0)
 - **ApplicationLauncher.java** (+151, -0)
-- **StartMenu.java** (+108, -0)
-- **SettingsDialog.java** (+323, -135)
+- **StartMenu.java** (+108, -3)
+- **SettingsDialog.java** (+323, -177)
 - **Main.java** (+183, -0)
 
 ## Visualizations
@@ -41,7 +41,7 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 4262
+".java" : 4333
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +49,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"06h" : 30
+"06h" : 33
 ```
 
 
-> **Last Updated:** 21/02/2025, 06:48:36
+> **Last Updated:** 21/02/2025, 06:58:37
