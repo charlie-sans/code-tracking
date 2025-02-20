@@ -2,7 +2,7 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 7125,
+      "totalLinesAdded": 7215,
       "totalLinesRemoved": 275,
       "totalActiveTime": 88,
       "files": {
@@ -880,6 +880,22 @@
             },
             "duration": 2,
             "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/apps/Demo.app/pom.xml": [
+          {
+            "timestamp": "2025-02-20T22:57:21.974Z",
+            "fileName": "/media/cat/MicrOS/apps/Demo.app/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
           }
         ]
       },
