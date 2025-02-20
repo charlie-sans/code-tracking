@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 3276,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 3354,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 39,
       "files": {
         "/media/cat/MicrOS/apps/TextEditor.app/build.gradle": [
           {
@@ -266,6 +266,64 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T19:30:23.112Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T19:32:59.285Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/apps/TextEditor.app/Contents/src/org/finite/texteditor/TextEditorApp.java": [
+          {
+            "timestamp": "2025-02-20T19:29:47.058Z",
+            "fileName": "/media/cat/MicrOS/apps/TextEditor.app/Contents/src/org/finite/texteditor/TextEditorApp.java",
+            "fileType": ".java",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T19:29:47.793Z",
+            "fileName": "/media/cat/MicrOS/apps/TextEditor.app/Contents/src/org/finite/texteditor/TextEditorApp.java",
+            "fileType": ".java",
+            "linesAdded": 39,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
