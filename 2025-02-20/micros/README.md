@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5896                                          |
-| **Lines Removed** (➖) | 1544                                        |
-| **Net Change** (↕)    | 4352                |
-| **Active Time** (⌚)   | 248 minutes |
+| **Lines Added** (➕)   | 5900                                          |
+| **Lines Removed** (➖) | 1590                                        |
+| **Net Change** (↕)    | 4310                |
+| **Active Time** (⌚)   | 260 minutes |
 
 
 ## Modified Files
 - **FileManager.java** (+445, -5)
-- **VirtualFileSystem.java** (+984, -47)
+- **VirtualFileSystem.java** (+984, -52)
 - **BackgroundPanel.java** (+31, -0)
-- **Main.java** (+261, -10)
+- **Main.java** (+261, -11)
 - **FileContextMenuProvider.ts** (+33, -32)
 - **FileExplorer.ts** (+23, -22)
 - **settings.json** (+377, -0)
@@ -27,17 +27,17 @@
 - **AsmRunner.java** (+141, -34)
 - **pom.xml** (+139, -40)
 - **Console.java** (+496, -134)
-- **CommandProcessor.java** (+548, -94)
+- **CommandProcessor.java** (+552, -94)
 - **ConsoleTextEditor.java** (+182, -181)
 - **NanoEditor.java** (+312, -311)
 - **VimEditor.java** (+485, -484)
 - **common.java** (+19, -18)
-- **TextEditor.java** (+438, -54)
+- **TextEditor.java** (+438, -66)
 - **LineNumberComponent.java** (+89, -0)
 - **SyntaxHighlighter.java** (+171, -69)
 - **Settings.java** (+172, -0)
-- **WindowManager.java** (+402, -9)
-- **Taskbar.java** (+77, -0)
+- **WindowManager.java** (+402, -31)
+- **Taskbar.java** (+77, -6)
 
 ## Visualizations
 
@@ -46,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 6721
+".java" : 6771
 ".ts" : 110
 ".json" : 377
 ".sh" : 4
@@ -65,8 +65,8 @@ title Coding activity by hour (count of changes)
 "12h" : 13
 "13h" : 34
 "14h" : 50
-"15h" : 36
+"15h" : 42
 ```
 
 
-> **Last Updated:** 20/02/2025, 15:45:36
+> **Last Updated:** 20/02/2025, 15:50:36
