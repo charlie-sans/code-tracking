@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6701                                          |
-| **Lines Removed** (➖) | 220                                        |
-| **Net Change** (↕)    | 6481                |
-| **Active Time** (⌚)   | 67 minutes |
+| **Lines Added** (➕)   | 6905                                          |
+| **Lines Removed** (➖) | 249                                        |
+| **Net Change** (↕)    | 6656                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **WrapLayout.java** (+62, -0)
 - **SystemTray.java** (+20, -0)
 - **WindowManager.java** (+1050, -39)
-- **TextEditorApp.java** (+72, -0)
+- **TextEditorApp.java** (+144, -29)
 - **ApplicationLauncher.java** (+302, -0)
 - **StartMenu.java** (+108, -3)
 - **SettingsDialog.java** (+323, -177)
@@ -38,7 +38,9 @@
 - **Console.java** (+236, -0)
 - **pom.xml** (+57, -0)
 - **.gitignore** (+7, -0)
-- **TextEditorPanel.java** (+388, -0)
+- **TextEditorPanel.java** (+389, -0)
+- **SyntaxHighlighter.java** (+42, -0)
+- **LineNumberComponent.java** (+89, -0)
 
 ## Visualizations
 
@@ -48,7 +50,7 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 6826
+".java" : 7059
 ".xml" : 57
 "unknown" : 7
 ```
@@ -60,7 +62,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "06h" : 33
 "07h" : 13
+"08h" : 6
 ```
 
 
-> **Last Updated:** 21/02/2025, 07:49:10
+> **Last Updated:** 21/02/2025, 08:09:10
