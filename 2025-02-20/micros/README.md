@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7292                                          |
-| **Lines Removed** (➖) | 1836                                        |
-| **Net Change** (↕)    | 5456                |
-| **Active Time** (⌚)   | 347 minutes |
+| **Lines Added** (➕)   | 8457                                          |
+| **Lines Removed** (➖) | 1840                                        |
+| **Net Change** (↕)    | 6617                |
+| **Active Time** (⌚)   | 356 minutes |
 
 
 ## Modified Files
 - **FileManager.java** (+720, -5)
-- **VirtualFileSystem.java** (+987, -55)
+- **VirtualFileSystem.java** (+1460, -55)
 - **BackgroundPanel.java** (+112, -0)
 - **Main.java** (+269, -11)
 - **FileContextMenuProvider.ts** (+33, -32)
@@ -25,16 +25,16 @@
 - **instructions.java** (+6, -0)
 - **common.java** (+6, -0)
 - **AsmRunner.java** (+141, -34)
-- **pom.xml** (+252, -40)
+- **pom.xml** (+370, -40)
 - **Console.java** (+496, -134)
 - **CommandProcessor.java** (+552, -94)
 - **ConsoleTextEditor.java** (+182, -181)
 - **NanoEditor.java** (+312, -311)
 - **VimEditor.java** (+485, -484)
 - **common.java** (+19, -18)
-- **TextEditor.java** (+438, -66)
+- **TextEditor.java** (+822, -66)
 - **LineNumberComponent.java** (+89, -0)
-- **SyntaxHighlighter.java** (+171, -69)
+- **SyntaxHighlighter.java** (+309, -73)
 - **Settings.java** (+253, -171)
 - **WindowManager.java** (+538, -58)
 - **Taskbar.java** (+161, -51)
@@ -45,8 +45,8 @@
 - **StartMenu.java** (+73, -0)
 - **ClockPanel.java** (+36, -0)
 - **SystemTray.java** (+20, -0)
-- **asm.json** (+1, -0)
-- **java.json** (+1, -0)
+- **asm.json** (+27, -0)
+- **java.json** (+27, -0)
 
 ## Visualizations
 
@@ -55,13 +55,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 8284
+".java" : 9283
 ".ts" : 110
-".json" : 379
+".json" : 431
 ".sh" : 4
 "unknown" : 41
 ".masm" : 18
-".xml" : 292
+".xml" : 410
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -76,8 +76,8 @@ title Coding activity by hour (count of changes)
 "14h" : 50
 "15h" : 43
 "16h" : 46
-"17h" : 1
+"17h" : 12
 ```
 
 
-> **Last Updated:** 20/02/2025, 17:00:52
+> **Last Updated:** 20/02/2025, 17:07:36
