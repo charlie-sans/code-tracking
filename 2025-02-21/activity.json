@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 7327,
+      "totalLinesAdded": 7334,
       "totalLinesRemoved": 275,
-      "totalActiveTime": 98,
+      "totalActiveTime": 100,
       "files": {
         "/media/cat/MicrOS/apps/TextEditor.app/build.gradle": [
           {
@@ -958,6 +958,22 @@
             },
             "duration": 3,
             "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/apps/Demo.app/.gitignore": [
+          {
+            "timestamp": "2025-02-20T23:07:23.057Z",
+            "fileName": "/media/cat/MicrOS/apps/Demo.app/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
