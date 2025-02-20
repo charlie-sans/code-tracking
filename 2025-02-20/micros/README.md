@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5900                                          |
+| **Lines Added** (➕)   | 5910                                          |
 | **Lines Removed** (➖) | 1590                                        |
-| **Net Change** (↕)    | 4310                |
+| **Net Change** (↕)    | 4320                |
 | **Active Time** (⌚)   | 260 minutes |
 
 
@@ -20,7 +20,7 @@
 - **settings.json** (+377, -0)
 - **start.sh** (+4, -0)
 - **.gitignore** (+41, -0)
-- **main.masm** (+8, -0)
+- **main.masm** (+18, -0)
 - **interp.java** (+6, -0)
 - **instructions.java** (+6, -0)
 - **common.java** (+6, -0)
@@ -51,7 +51,7 @@ title Lines changed by file type
 ".json" : 377
 ".sh" : 4
 "unknown" : 41
-".masm" : 8
+".masm" : 18
 ".xml" : 179
 ```
 
@@ -65,8 +65,8 @@ title Coding activity by hour (count of changes)
 "12h" : 13
 "13h" : 34
 "14h" : 50
-"15h" : 42
+"15h" : 43
 ```
 
 
-> **Last Updated:** 20/02/2025, 15:50:36
+> **Last Updated:** 20/02/2025, 15:55:36
