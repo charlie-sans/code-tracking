@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11980                                          |
+| **Lines Added** (➕)   | 13498                                          |
 | **Lines Removed** (➖) | 1843                                        |
-| **Net Change** (↕)    | 10137                |
-| **Active Time** (⌚)   | 416 minutes |
+| **Net Change** (↕)    | 11655                |
+| **Active Time** (⌚)   | 428 minutes |
 
 
 ## Modified Files
-- **FileManager.java** (+995, -5)
+- **FileManager.java** (+1272, -5)
 - **VirtualFileSystem.java** (+1945, -55)
 - **BackgroundPanel.java** (+193, -0)
-- **Main.java** (+405, -11)
+- **Main.java** (+541, -11)
 - **FileContextMenuProvider.ts** (+33, -32)
 - **FileExplorer.ts** (+23, -22)
 - **settings.json** (+377, -0)
@@ -36,9 +36,9 @@
 - **LineNumberComponent.java** (+89, -0)
 - **SyntaxHighlighter.java** (+309, -73)
 - **Settings.java** (+335, -171)
-- **WindowManager.java** (+1537, -61)
+- **WindowManager.java** (+1538, -61)
 - **Taskbar.java** (+271, -51)
-- **SettingsDialog.java** (+366, -0)
+- **SettingsDialog.java** (+549, -0)
 - **WebViewer.java** (+250, -0)
 - **WrapLayout.java** (+124, -0)
 - **TaskButton.java** (+200, -0)
@@ -51,6 +51,13 @@
 - **AppManifest.java** (+53, -0)
 - **AppLoader.java** (+135, -0)
 - **MicrOSApp.java** (+20, -0)
+- **ApplicationLauncher.java** (+150, -0)
+- **DesktopIcon.java** (+45, -0)
+- **FileMetadata.java** (+45, -0)
+- **FileManager.java** (+277, -0)
+- **FileManager.java** (+277, -0)
+- **FileMetadata.java** (+45, -0)
+- **Settings.java** (+82, -0)
 
 ## Visualizations
 
@@ -59,7 +66,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 12779
+".java" : 14297
 ".ts" : 110
 ".json" : 457
 ".sh" : 8
@@ -81,8 +88,8 @@ title Coding activity by hour (count of changes)
 "15h" : 43
 "16h" : 46
 "17h" : 37
-"18h" : 11
+"18h" : 25
 ```
 
 
-> **Last Updated:** 20/02/2025, 18:31:32
+> **Last Updated:** 20/02/2025, 18:36:32

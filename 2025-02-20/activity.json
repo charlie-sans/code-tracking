@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 11980,
+      "totalLinesAdded": 13498,
       "totalLinesRemoved": 1843,
-      "totalActiveTime": 416,
+      "totalActiveTime": 428,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -187,6 +187,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:35:28.960Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:35:48.157Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
@@ -851,6 +879,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:36:31.180Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
@@ -3346,6 +3388,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:36:18.571Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Taskbar.java": [
@@ -3559,6 +3615,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:36:31.310Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SettingsDialog.java",
+            "fileType": ".java",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
@@ -4066,6 +4136,146 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/MicrOSApp.java",
             "fileType": ".java",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/ApplicationLauncher.java": [
+          {
+            "timestamp": "2025-02-20T07:35:29.033Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/ApplicationLauncher.java",
+            "fileType": ".java",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:35:48.181Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/ApplicationLauncher.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/DesktopIcon.java": [
+          {
+            "timestamp": "2025-02-20T07:35:50.167Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/DesktopIcon.java",
+            "fileType": ".java",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T07:35:53.122Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/DesktopIcon.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileMetadata.java": [
+          {
+            "timestamp": "2025-02-20T07:35:54.766Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileMetadata.java",
+            "fileType": ".java",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileManager.java": [
+          {
+            "timestamp": "2025-02-20T07:35:59.718Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 277,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
+          {
+            "timestamp": "2025-02-20T07:36:20.156Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 277,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileMetadata.java": [
+          {
+            "timestamp": "2025-02-20T07:36:24.679Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileMetadata.java",
+            "fileType": ".java",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/Settings.java": [
+          {
+            "timestamp": "2025-02-20T07:36:31.398Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/Settings.java",
+            "fileType": ".java",
+            "linesAdded": 82,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
