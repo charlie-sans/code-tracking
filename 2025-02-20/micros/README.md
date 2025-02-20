@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10789                                          |
+| **Lines Added** (➕)   | 11763                                          |
 | **Lines Removed** (➖) | 1843                                        |
-| **Net Change** (↕)    | 8946                |
-| **Active Time** (⌚)   | 405 minutes |
+| **Net Change** (↕)    | 9920                |
+| **Active Time** (⌚)   | 412 minutes |
 
 
 ## Modified Files
 - **FileManager.java** (+995, -5)
-- **VirtualFileSystem.java** (+1460, -55)
+- **VirtualFileSystem.java** (+1933, -55)
 - **BackgroundPanel.java** (+193, -0)
 - **Main.java** (+405, -11)
 - **FileContextMenuProvider.ts** (+33, -32)
@@ -36,7 +36,7 @@
 - **LineNumberComponent.java** (+89, -0)
 - **SyntaxHighlighter.java** (+309, -73)
 - **Settings.java** (+335, -171)
-- **WindowManager.java** (+1039, -61)
+- **WindowManager.java** (+1537, -61)
 - **Taskbar.java** (+271, -51)
 - **SettingsDialog.java** (+366, -0)
 - **WebViewer.java** (+250, -0)
@@ -48,6 +48,9 @@
 - **asm.json** (+27, -0)
 - **java.json** (+27, -0)
 - **html.json** (+26, -0)
+- **AppManifest.java** (+1, -0)
+- **AppLoader.java** (+1, -0)
+- **MicrOSApp.java** (+1, -0)
 
 ## Visualizations
 
@@ -56,7 +59,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 11588
+".java" : 12562
 ".ts" : 110
 ".json" : 457
 ".sh" : 8
@@ -78,7 +81,8 @@ title Coding activity by hour (count of changes)
 "15h" : 43
 "16h" : 46
 "17h" : 37
+"18h" : 5
 ```
 
 
-> **Last Updated:** 20/02/2025, 17:37:36
+> **Last Updated:** 20/02/2025, 18:16:32
