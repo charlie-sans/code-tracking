@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 7290,
+      "totalLinesAdded": 7292,
       "totalLinesRemoved": 1836,
-      "totalActiveTime": 346,
+      "totalActiveTime": 347,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -3376,6 +3376,38 @@
             },
             "duration": 2,
             "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/resources/default_configs/system/texteditor/syntax/asm.json": [
+          {
+            "timestamp": "2025-02-20T05:59:59.389Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/default_configs/system/texteditor/syntax/asm.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/resources/default_configs/system/texteditor/syntax/java.json": [
+          {
+            "timestamp": "2025-02-20T06:00:02.436Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/default_configs/system/texteditor/syntax/java.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
