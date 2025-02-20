@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1531                                          |
-| **Lines Removed** (➖) | 58                                        |
-| **Net Change** (↕)    | 1473                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 1670                                          |
+| **Lines Removed** (➖) | 95                                        |
+| **Net Change** (↕)    | 1575                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,7 @@
 - **instructions.java** (+6, -0)
 - **common.java** (+6, -0)
 - **AsmRunner.java** (+39, -1)
+- **pom.xml** (+139, -37)
 
 ## Visualizations
 
@@ -39,6 +40,7 @@ title Lines changed by file type
 ".sh" : 4
 "unknown" : 41
 ".masm" : 3
+".xml" : 176
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +49,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 16
-"11h" : 18
+"11h" : 30
 ```
 
 
-> **Last Updated:** 20/02/2025, 11:33:37
+> **Last Updated:** 20/02/2025, 11:48:37
