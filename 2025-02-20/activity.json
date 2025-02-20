@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 3967,
-      "totalLinesRemoved": 1408,
-      "totalActiveTime": 191,
+      "totalLinesAdded": 4135,
+      "totalLinesRemoved": 1462,
+      "totalActiveTime": 208,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/FileManager.java": [
           {
@@ -536,6 +536,34 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
             "fileType": ".java",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:00:39.696Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:01:02.026Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
@@ -2134,6 +2162,48 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:01:08.570Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/TextEditor.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 48,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:05:11.095Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/TextEditor.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:05:12.510Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/TextEditor.java",
+            "fileType": ".java",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/LineNumberComponent.java": [
@@ -2142,6 +2212,78 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/LineNumberComponent.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:01:08.288Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/LineNumberComponent.java",
+            "fileType": ".java",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:02:31.012Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/LineNumberComponent.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:05:12.446Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/LineNumberComponent.java",
+            "fileType": ".java",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SyntaxHighlighter.java": [
+          {
+            "timestamp": "2025-02-20T04:00:39.353Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SyntaxHighlighter.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T04:01:08.476Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/SyntaxHighlighter.java",
+            "fileType": ".java",
+            "linesAdded": 87,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
