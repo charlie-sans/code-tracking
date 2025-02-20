@@ -4,33 +4,33 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3385                                          |
-| **Lines Removed** (➖) | 1075                                        |
-| **Net Change** (↕)    | 2310                |
-| **Active Time** (⌚)   | 150 minutes |
+| **Lines Added** (➕)   | 3419                                          |
+| **Lines Removed** (➖) | 1365                                        |
+| **Net Change** (↕)    | 2054                |
+| **Active Time** (⌚)   | 163 minutes |
 
 
 ## Modified Files
 - **FileManager.java** (+445, -5)
 - **VirtualFileSystem.java** (+513, -47)
 - **BackgroundPanel.java** (+31, -0)
-- **Main.java** (+104, -4)
+- **Main.java** (+120, -10)
 - **FileContextMenuProvider.ts** (+33, -32)
 - **FileExplorer.ts** (+23, -22)
 - **settings.json** (+377, -0)
 - **start.sh** (+4, -0)
 - **.gitignore** (+41, -0)
-- **main.masm** (+7, -0)
+- **main.masm** (+8, -0)
 - **interp.java** (+6, -0)
 - **instructions.java** (+6, -0)
 - **common.java** (+6, -0)
 - **AsmRunner.java** (+54, -9)
 - **pom.xml** (+139, -40)
 - **Console.java** (+315, -134)
-- **CommandProcessor.java** (+302, -56)
+- **CommandProcessor.java** (+319, -90)
 - **ConsoleTextEditor.java** (+182, -181)
 - **NanoEditor.java** (+312, -311)
-- **VimEditor.java** (+485, -234)
+- **VimEditor.java** (+485, -484)
 
 ## Visualizations
 
@@ -39,12 +39,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 3742
+".java" : 4065
 ".ts" : 110
 ".json" : 377
 ".sh" : 4
 "unknown" : 41
-".masm" : 7
+".masm" : 8
 ".xml" : 179
 ```
 
@@ -57,8 +57,8 @@ title Coding activity by hour (count of changes)
 "11h" : 35
 "12h" : 13
 "13h" : 34
-"14h" : 16
+"14h" : 28
 ```
 
 
-> **Last Updated:** 20/02/2025, 14:12:20
+> **Last Updated:** 20/02/2025, 14:17:20
