@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6230,
+      "totalLinesAdded": 6573,
       "totalLinesRemoved": 1553,
-      "totalActiveTime": 330,
+      "totalActiveTime": 334,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -2544,6 +2544,20 @@
             },
             "duration": 0,
             "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-21T23:14:19.709Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 335,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/GLWindow.java": [
@@ -3228,6 +3242,36 @@
             },
             "duration": 5,
             "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json": [
+          {
+            "timestamp": "2025-02-21T23:14:22.194Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-21T23:17:16.077Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ]
       },
