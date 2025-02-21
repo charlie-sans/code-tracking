@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 591,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 663,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 23,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -132,6 +132,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T15:36:23.715Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\AssemblyInterface.java": [
@@ -206,6 +220,22 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\profiles\\-25067dec\\settings.json": [
+          {
+            "timestamp": "2025-02-21T15:41:05.599Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\profiles\\-25067dec\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
           }
         ]
       },
