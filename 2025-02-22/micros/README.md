@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1053                                          |
-| **Lines Removed** (➖) | 521                                        |
-| **Net Change** (↕)    | 532                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Lines Added** (➕)   | 1159                                          |
+| **Lines Removed** (➖) | 522                                        |
+| **Net Change** (↕)    | 637                |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,8 @@
 - **settings.json** (+72, -0)
 - **Taskbar.java** (+72, -0)
 - **AsmRunner.java** (+38, -0)
-- **Main.java** (+274, -138)
+- **Main.java** (+275, -139)
+- **Settings.java** (+105, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1502
+".java" : 1609
 ".json" : 72
 ```
 
@@ -36,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "02h" : 26
-"03h" : 3
+"03h" : 11
 ```
 
 
-> **Last Updated:** 2/22/2025, 3:11:19 AM
+> **Last Updated:** 2/22/2025, 3:16:19 AM
