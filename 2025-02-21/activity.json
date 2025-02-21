@@ -2,8 +2,8 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 9498,
-      "totalLinesRemoved": 390,
+      "totalLinesAdded": 9516,
+      "totalLinesRemoved": 399,
       "totalActiveTime": 211,
       "files": {
         "/media/cat/MicrOS/apps/TextEditor.app/build.gradle": [
@@ -399,6 +399,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T02:41:06.892Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T02:41:07.745Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
