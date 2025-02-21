@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 5302,
+      "totalLinesAdded": 5430,
       "totalLinesRemoved": 801,
-      "totalActiveTime": 216,
+      "totalActiveTime": 228,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -1264,6 +1264,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T21:01:35.324Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/StartMenu.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
@@ -1754,6 +1768,34 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T20:59:12.553Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/NativeProcessWindow.java",
+            "fileType": ".java",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T21:01:35.808Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/NativeProcessWindow.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java": [
@@ -1797,6 +1839,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T20:59:12.441Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java",
+            "fileType": ".java",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ],
@@ -2260,6 +2316,20 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/WindowCapture.java",
             "fileType": ".java",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T20:59:12.620Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/WindowCapture.java",
+            "fileType": ".java",
+            "linesAdded": 71,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
