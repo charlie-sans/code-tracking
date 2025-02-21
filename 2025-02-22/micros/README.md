@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3916                                          |
-| **Lines Removed** (➖) | 700                                        |
-| **Net Change** (↕)    | 3216                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Lines Added** (➕)   | 4459                                          |
+| **Lines Removed** (➖) | 713                                        |
+| **Net Change** (↕)    | 3746                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **d:\MicrOS\apps\Monster\dependency-reduced-pom.xml** (+72, -0)
 - **d:\MicrOS\apps\Monster\pom.xml** (+90, -0)
 - **Taskbar.java** (+175, -0)
-- **StartMenu.java** (+119, -0)
+- **StartMenu.java** (+120, -0)
 - **Main.java** (+276, -0)
 - **StartMenu.java** (+106, -0)
 - **FontLoader.java** (+47, -0)
@@ -41,9 +41,13 @@
 - **AppType.java** (+38, -0)
 - **pom.xml** (+111, -0)
 - **MicrOSApp.java** (+54, -0)
-- **WindowManager.java** (+623, -0)
+- **WindowManager.java** (+663, -0)
 - **MaverLauncher.java** (+200, -0)
 - **manifest.json** (+22, -0)
+- **NativeWindow.java** (+1, -0)
+- **NativeProcessWindow.java** (+68, -0)
+- **ProcessManager.java** (+272, -13)
+- **ApplicationLauncher.java** (+161, -0)
 
 ## Visualizations
 
@@ -52,7 +56,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 3786
+".java" : 4342
 ".json" : 94
 ".gradle" : 174
 ".xml" : 562
@@ -66,8 +70,8 @@ title Coding activity by hour (count of changes)
 "02h" : 26
 "03h" : 53
 "06h" : 23
-"07h" : 3
+"07h" : 15
 ```
 
 
-> **Last Updated:** 22/02/2025, 07:02:31
+> **Last Updated:** 22/02/2025, 07:17:31
