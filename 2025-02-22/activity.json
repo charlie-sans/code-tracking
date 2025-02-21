@@ -2,7 +2,7 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 5659,
+      "totalLinesAdded": 5660,
       "totalLinesRemoved": 1097,
       "totalActiveTime": 247,
       "files": {
@@ -2523,6 +2523,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/NativeWindowHandler.java": [
+          {
+            "timestamp": "2025-02-21T21:27:11.435Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/NativeWindowHandler.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

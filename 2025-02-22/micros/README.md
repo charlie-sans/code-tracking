@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5659                                          |
+| **Lines Added** (➕)   | 5660                                          |
 | **Lines Removed** (➖) | 1097                                        |
-| **Net Change** (↕)    | 4562                |
+| **Net Change** (↕)    | 4563                |
 | **Active Time** (⌚)   | 247 minutes |
 
 
@@ -53,6 +53,7 @@
 - **WindowCapture.java** (+298, -12)
 - **X11Extension.java** (+11, -10)
 - **WinGDIConstants.java** (+1, -0)
+- **NativeWindowHandler.java** (+1, -0)
 
 ## Visualizations
 
@@ -61,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 5634
+".java" : 5635
 ".json" : 94
 ".gradle" : 174
 ".xml" : 854
@@ -76,8 +77,8 @@ title Coding activity by hour (count of changes)
 "03h" : 53
 "06h" : 23
 "07h" : 61
-"08h" : 11
+"08h" : 12
 ```
 
 
-> **Last Updated:** 22/02/2025, 08:22:32
+> **Last Updated:** 22/02/2025, 08:27:42
