@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 8421,
-      "totalLinesRemoved": 373,
-      "totalActiveTime": 133,
+      "totalLinesAdded": 8887,
+      "totalLinesRemoved": 374,
+      "totalActiveTime": 148,
       "files": {
         "/media/cat/MicrOS/apps/TextEditor.app/build.gradle": [
           {
@@ -570,6 +570,34 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
             "fileType": ".java",
             "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:40:54.182Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:41:12.693Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 60,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
@@ -1398,6 +1426,124 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/media/cat/MicrOS/build.ps1": [
+          {
+            "timestamp": "2025-02-21T00:37:04.757Z",
+            "fileName": "/media/cat/MicrOS/build.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-21T00:37:24.961Z",
+            "fileName": "/media/cat/MicrOS/build.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-21T00:37:44.025Z",
+            "fileName": "/media/cat/MicrOS/build.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "/media/cat/MicrOS/pom.xml": [
+          {
+            "timestamp": "2025-02-21T00:40:37.291Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-21T00:40:39.170Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-21T00:40:42.925Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "xml"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/cli/CommandLineArgs.java": [
+          {
+            "timestamp": "2025-02-21T00:40:43.351Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/cli/CommandLineArgs.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:41:45.030Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/cli/CommandLineArgs.java",
+            "fileType": ".java",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },

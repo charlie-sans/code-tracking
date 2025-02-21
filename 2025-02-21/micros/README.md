@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8421                                          |
-| **Lines Removed** (➖) | 373                                        |
-| **Net Change** (↕)    | 8048                |
-| **Active Time** (⌚)   | 133 minutes |
+| **Lines Added** (➕)   | 8887                                          |
+| **Lines Removed** (➖) | 374                                        |
+| **Net Change** (↕)    | 8513                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **ApplicationLauncher.java** (+302, -0)
 - **StartMenu.java** (+108, -3)
 - **SettingsDialog.java** (+323, -177)
-- **Main.java** (+183, -0)
+- **Main.java** (+426, -0)
 - **Console.java** (+235, -1)
 - **VirtualFileSystem.java** (+489, -0)
 - **VirtualFileSystem.java** (+488, -0)
@@ -57,6 +57,9 @@
 - **java.json** (+38, -0)
 - **SyntaxHighlighter.java** (+89, -0)
 - **filesystem.json** (+57, -0)
+- **build.ps1** (+63, -0)
+- **pom.xml** (+129, -1)
+- **CommandLineArgs.java** (+31, -0)
 
 ## Visualizations
 
@@ -66,10 +69,11 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 8227
-".xml" : 232
+".java" : 8501
+".xml" : 362
 "unknown" : 14
 ".json" : 290
+".ps1" : 63
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -82,8 +86,8 @@ title Coding activity by hour (count of changes)
 "08h" : 12
 "09h" : 1
 "10h" : 30
-"11h" : 4
+"11h" : 14
 ```
 
 
-> **Last Updated:** 21/02/2025, 11:11:54
+> **Last Updated:** 21/02/2025, 11:41:54
