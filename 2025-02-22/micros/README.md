@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 5755                                          |
-| **Lines Removed** (➖) | 1097                                        |
-| **Net Change** (↕)    | 4658                |
-| **Active Time** (⌚)   | 255 minutes |
+| **Lines Removed** (➖) | 1099                                        |
+| **Net Change** (↕)    | 4656                |
+| **Active Time** (⌚)   | 258 minutes |
 
 
 ## Modified Files
@@ -45,7 +45,7 @@
 - **MaverLauncher.java** (+200, -0)
 - **manifest.json** (+22, -0)
 - **NativeWindow.java** (+1, -0)
-- **NativeProcessWindow.java** (+435, -295)
+- **NativeProcessWindow.java** (+435, -297)
 - **ProcessManager.java** (+306, -13)
 - **ApplicationLauncher.java** (+161, -10)
 - **pom.xml** (+280, -12)
@@ -62,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 5730
+".java" : 5732
 ".json" : 94
 ".gradle" : 174
 ".xml" : 854
@@ -77,8 +77,8 @@ title Coding activity by hour (count of changes)
 "03h" : 53
 "06h" : 23
 "07h" : 61
-"08h" : 14
+"08h" : 16
 ```
 
 
-> **Last Updated:** 22/02/2025, 08:32:32
+> **Last Updated:** 22/02/2025, 08:37:32
