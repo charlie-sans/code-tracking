@@ -2,7 +2,7 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 5110,
+      "totalLinesAdded": 5144,
       "totalLinesRemoved": 731,
       "totalActiveTime": 184,
       "files": {
@@ -1887,6 +1887,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T20:44:06.308Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/GLWindow.java",
+            "fileType": ".java",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
