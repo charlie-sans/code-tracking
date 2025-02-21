@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 8224,
-      "totalLinesRemoved": 295,
-      "totalActiveTime": 119,
+      "totalLinesAdded": 8363,
+      "totalLinesRemoved": 373,
+      "totalActiveTime": 129,
       "files": {
         "/media/cat/MicrOS/apps/TextEditor.app/build.gradle": [
           {
@@ -1192,6 +1192,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-02-20T23:59:17.646Z",
+            "fileName": "/media/cat/MicrOS/filesystem/system/texteditor/syntax/markdown.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/media/cat/MicrOS/src/main/resources/default_configs/system/texteditor/themes.json": [
@@ -1251,6 +1265,94 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:01:42.617Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/TextEditor.app/Contents/src/org/finite/texteditor/ui/TextEditorPanel.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 78,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/filesystem/system/texteditor/syntax/java.json": [
+          {
+            "timestamp": "2025-02-20T23:58:17.898Z",
+            "fileName": "/media/cat/MicrOS/filesystem/system/texteditor/syntax/java.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-20T23:59:17.421Z",
+            "fileName": "/media/cat/MicrOS/filesystem/system/texteditor/syntax/java.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/syntax/SyntaxHighlighter.java": [
+          {
+            "timestamp": "2025-02-20T23:58:29.697Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/syntax/SyntaxHighlighter.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:59:17.763Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/syntax/SyntaxHighlighter.java",
+            "fileType": ".java",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:59:25.730Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/syntax/SyntaxHighlighter.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
