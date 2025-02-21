@@ -2,8 +2,8 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 5635,
-      "totalLinesRemoved": 975,
+      "totalLinesAdded": 5641,
+      "totalLinesRemoved": 1083,
       "totalActiveTime": 237,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
@@ -1852,6 +1852,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T21:16:19.870Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/NativeProcessWindow.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 108,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java": [
@@ -2053,6 +2067,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-21T21:16:19.950Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "xml"
           }
         ],
