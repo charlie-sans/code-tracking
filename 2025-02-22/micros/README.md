@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5755                                          |
-| **Lines Removed** (➖) | 1099                                        |
-| **Net Change** (↕)    | 4656                |
-| **Active Time** (⌚)   | 258 minutes |
+| **Lines Added** (➕)   | 5879                                          |
+| **Lines Removed** (➖) | 1552                                        |
+| **Net Change** (↕)    | 4327                |
+| **Active Time** (⌚)   | 290 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **d:\MicrOS\apps\Monster\dependency-reduced-pom.xml** (+72, -0)
 - **d:\MicrOS\apps\Monster\pom.xml** (+90, -0)
 - **Taskbar.java** (+175, -0)
-- **StartMenu.java** (+179, -45)
+- **StartMenu.java** (+179, -51)
 - **Main.java** (+276, -0)
 - **StartMenu.java** (+106, -0)
 - **FontLoader.java** (+47, -0)
@@ -41,19 +41,19 @@
 - **AppType.java** (+38, -0)
 - **pom.xml** (+111, -0)
 - **MicrOSApp.java** (+54, -0)
-- **WindowManager.java** (+663, -0)
+- **WindowManager.java** (+663, -25)
 - **MaverLauncher.java** (+200, -0)
 - **manifest.json** (+22, -0)
 - **NativeWindow.java** (+1, -0)
-- **NativeProcessWindow.java** (+435, -297)
-- **ProcessManager.java** (+306, -13)
-- **ApplicationLauncher.java** (+161, -10)
-- **pom.xml** (+280, -12)
-- **GLWindow.java** (+183, -0)
-- **WindowCapture.java** (+298, -12)
+- **NativeProcessWindow.java** (+544, -434)
+- **ProcessManager.java** (+306, -47)
+- **ApplicationLauncher.java** (+171, -10)
+- **pom.xml** (+285, -19)
+- **GLWindow.java** (+183, -35)
+- **WindowCapture.java** (+298, -159)
 - **X11Extension.java** (+11, -10)
 - **WinGDIConstants.java** (+1, -0)
-- **NativeWindowHandler.java** (+63, -0)
+- **NativeWindowHandler.java** (+63, -62)
 
 ## Visualizations
 
@@ -62,10 +62,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 5732
+".java" : 6297
 ".json" : 94
 ".gradle" : 174
-".xml" : 854
+".xml" : 866
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -77,8 +77,8 @@ title Coding activity by hour (count of changes)
 "03h" : 53
 "06h" : 23
 "07h" : 61
-"08h" : 16
+"08h" : 43
 ```
 
 
-> **Last Updated:** 22/02/2025, 08:37:32
+> **Last Updated:** 22/02/2025, 08:42:33
