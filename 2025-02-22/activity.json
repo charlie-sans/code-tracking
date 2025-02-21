@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 664,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 915,
+      "totalLinesRemoved": 383,
+      "totalActiveTime": 30,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -234,6 +234,48 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T15:48:33.804Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 371,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T15:48:34.157Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T15:48:36.591Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\profiles\\-25067dec\\settings.json": [
@@ -250,6 +292,68 @@
             },
             "duration": 5,
             "language": "json"
+          }
+        ],
+        "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\Taskbar.java": [
+          {
+            "timestamp": "2025-02-21T15:48:57.493Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T15:49:01.010Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\AsmRunner.java": [
+          {
+            "timestamp": "2025-02-21T15:49:15.468Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\AsmRunner.java",
+            "fileType": ".java",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\Main.java": [
+          {
+            "timestamp": "2025-02-21T15:50:02.502Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },
