@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11149                                          |
+| **Lines Added** (➕)   | 11544                                          |
 | **Lines Removed** (➖) | 430                                        |
-| **Net Change** (↕)    | 10719                |
-| **Active Time** (⌚)   | 254 minutes |
+| **Net Change** (↕)    | 11114                |
+| **Active Time** (⌚)   | 269 minutes |
 
 
 ## Modified Files
@@ -60,16 +60,17 @@
 - **build.ps1** (+95, -12)
 - **pom.xml** (+129, -1)
 - **CommandLineArgs.java** (+31, -0)
-- **pom.xml** (+111, -0)
+- **pom.xml** (+222, -0)
 - **MaverSettingsWindow.form** (+187, -0)
 - **MaverSettings.java** (+31, -0)
 - **MaverSettingsWindow.java** (+52, -0)
 - **MaverLauncher.java** (+297, -0)
 - **DemoApp.java** (+45, -0)
-- **MicrOSApp.java** (+30, -0)
-- **AppType.java** (+38, -0)
-- **AppManifest.java** (+71, -0)
-- **Taskbar.java** (+297, -0)
+- **MicrOSApp.java** (+60, -0)
+- **AppType.java** (+76, -0)
+- **AppManifest.java** (+142, -0)
+- **Taskbar.java** (+315, -0)
+- **TaskButton.java** (+127, -0)
 
 ## Visualizations
 
@@ -79,8 +80,8 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 10447
-".xml" : 473
+".java" : 10731
+".xml" : 584
 "unknown" : 14
 ".json" : 320
 ".ps1" : 107
@@ -101,8 +102,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "13h" : 20
 "14h" : 10
-"15h" : 21
+"15h" : 28
 ```
 
 
-> **Last Updated:** 21/02/2025, 15:35:03
+> **Last Updated:** 21/02/2025, 15:40:03
