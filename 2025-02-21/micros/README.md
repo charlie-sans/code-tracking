@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9537                                          |
-| **Lines Removed** (➖) | 399                                        |
-| **Net Change** (↕)    | 9138                |
-| **Active Time** (⌚)   | 211 minutes |
+| **Lines Added** (➕)   | 9796                                          |
+| **Lines Removed** (➖) | 402                                        |
+| **Net Change** (↕)    | 9394                |
+| **Active Time** (⌚)   | 222 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **ApplicationLauncher.java** (+302, -0)
 - **StartMenu.java** (+108, -3)
 - **SettingsDialog.java** (+323, -177)
-- **Main.java** (+426, -0)
+- **Main.java** (+430, -3)
 - **Console.java** (+235, -1)
 - **VirtualFileSystem.java** (+489, -0)
 - **VirtualFileSystem.java** (+488, -0)
@@ -67,6 +67,9 @@
 - **MaverLauncher.java** (+97, -0)
 - **DemoApp.java** (+45, -0)
 - **MicrOSApp.java** (+30, -0)
+- **AppType.java** (+38, -0)
+- **AppManifest.java** (+71, -0)
+- **Taskbar.java** (+146, -0)
 
 ## Visualizations
 
@@ -76,7 +79,7 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 8828
+".java" : 9090
 ".xml" : 473
 "unknown" : 14
 ".json" : 296
@@ -97,8 +100,8 @@ title Coding activity by hour (count of changes)
 "11h" : 16
 "12h" : 1
 "13h" : 20
-"14h" : 1
+"14h" : 9
 ```
 
 
-> **Last Updated:** 21/02/2025, 14:32:50
+> **Last Updated:** 21/02/2025, 14:52:51
