@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6749,
-      "totalLinesRemoved": 1598,
-      "totalActiveTime": 366,
+      "totalLinesAdded": 6773,
+      "totalLinesRemoved": 1599,
+      "totalActiveTime": 382,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -2600,6 +2600,20 @@
             },
             "duration": 1,
             "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-21T23:34:57.288Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "xml"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/GLWindow.java": [
@@ -3397,6 +3411,48 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-21T23:34:57.106Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-21T23:38:29.897Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-21T23:38:30.825Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
