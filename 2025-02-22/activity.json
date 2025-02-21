@@ -1162,6 +1162,53 @@
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\AssemblyInterface.java"
       ],
       "averageChangeSize": 24.22222222222222
+    },
+    "MASM": {
+      "totalLinesAdded": 7,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "d:\\MASM\\msrc\\extras.masm": [
+          {
+            "timestamp": "2025-02-21T17:04:59.032Z",
+            "fileName": "d:\\MASM\\msrc\\extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-02-21T17:04:59.840Z",
+            "fileName": "d:\\MASM\\msrc\\extras.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ]
+      },
+      "languageStats": {
+        "masm": 1
+      },
+      "changeFrequency": {
+        "4": 1
+      },
+      "topFiles": [
+        "d:\\MASM\\msrc\\extras.masm"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 10,
