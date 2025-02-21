@@ -1164,9 +1164,9 @@
       "averageChangeSize": 24.22222222222222
     },
     "MASM": {
-      "totalLinesAdded": 52,
+      "totalLinesAdded": 536,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 3,
+      "totalActiveTime": 5,
       "files": {
         "d:\\MASM\\msrc\\extras.masm": [
           {
@@ -1228,6 +1228,36 @@
             },
             "duration": 2,
             "language": "yml"
+          }
+        ],
+        "d:\\MASM\\src\\test\\java\\org\\finite\\FunctionsTest.java": [
+          {
+            "timestamp": "2025-02-21T18:30:45.562Z",
+            "fileName": "d:\\MASM\\src\\test\\java\\org\\finite\\FunctionsTest.java",
+            "fileType": ".java",
+            "linesAdded": 483,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T18:31:54.311Z",
+            "fileName": "d:\\MASM\\src\\test\\java\\org\\finite\\FunctionsTest.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ]
       },
