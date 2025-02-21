@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 663,
+      "totalLinesAdded": 664,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 23,
+      "totalActiveTime": 24,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -213,6 +213,20 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T15:41:59.483Z",
+            "fileName": "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
               "added": [],
