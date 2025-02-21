@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9196                                          |
-| **Lines Removed** (➖) | 386                                        |
-| **Net Change** (↕)    | 8810                |
-| **Active Time** (⌚)   | 156 minutes |
+| **Lines Added** (➕)   | 9291                                          |
+| **Lines Removed** (➖) | 388                                        |
+| **Net Change** (↕)    | 8903                |
+| **Active Time** (⌚)   | 164 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **VirtualFileSystem.java** (+488, -0)
 - **WrapLayout.java** (+62, -0)
 - **SystemTray.java** (+20, -0)
-- **WindowManager.java** (+1050, -39)
+- **WindowManager.java** (+1062, -39)
 - **TextEditorApp.java** (+144, -29)
 - **ApplicationLauncher.java** (+302, -0)
 - **StartMenu.java** (+108, -3)
@@ -48,7 +48,7 @@
 - **DemoApp.java** (+45, -0)
 - **DemoApp.java** (+45, -0)
 - **.gitignore** (+7, -0)
-- **manifest.json** (+22, -0)
+- **manifest.json** (+22, -2)
 - **ProcessManager.java** (+284, -20)
 - **markdown.json** (+34, -0)
 - **markdown.json** (+46, -0)
@@ -62,6 +62,8 @@
 - **CommandLineArgs.java** (+31, -0)
 - **pom.xml** (+90, -0)
 - **MaverSettingsWindow.form** (+187, -0)
+- **MaverSettings.java** (+31, -0)
+- **MaverSettingsWindow.java** (+52, -0)
 
 ## Visualizations
 
@@ -71,10 +73,10 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 8501
+".java" : 8596
 ".xml" : 452
 "unknown" : 14
-".json" : 290
+".json" : 292
 ".ps1" : 107
 ".form" : 187
 ```
@@ -91,8 +93,8 @@ title Coding activity by hour (count of changes)
 "10h" : 30
 "11h" : 16
 "12h" : 1
-"13h" : 2
+"13h" : 7
 ```
 
 
-> **Last Updated:** 21/02/2025, 13:11:57
+> **Last Updated:** 21/02/2025, 13:16:59
