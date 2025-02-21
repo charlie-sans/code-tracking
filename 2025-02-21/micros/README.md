@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10734                                          |
+| **Lines Added** (➕)   | 10927                                          |
 | **Lines Removed** (➖) | 417                                        |
-| **Net Change** (↕)    | 10317                |
-| **Active Time** (⌚)   | 235 minutes |
+| **Net Change** (↕)    | 10510                |
+| **Active Time** (⌚)   | 241 minutes |
 
 
 ## Modified Files
@@ -26,12 +26,12 @@
 - **VirtualFileSystem.java** (+488, -0)
 - **WrapLayout.java** (+62, -0)
 - **SystemTray.java** (+20, -0)
-- **WindowManager.java** (+1690, -48)
+- **WindowManager.java** (+1724, -48)
 - **TextEditorApp.java** (+144, -29)
 - **ApplicationLauncher.java** (+302, -0)
 - **StartMenu.java** (+214, -3)
 - **SettingsDialog.java** (+323, -177)
-- **Main.java** (+681, -18)
+- **Main.java** (+691, -18)
 - **Console.java** (+235, -1)
 - **VirtualFileSystem.java** (+489, -0)
 - **VirtualFileSystem.java** (+488, -0)
@@ -69,7 +69,7 @@
 - **MicrOSApp.java** (+30, -0)
 - **AppType.java** (+38, -0)
 - **AppManifest.java** (+71, -0)
-- **Taskbar.java** (+148, -0)
+- **Taskbar.java** (+297, -0)
 
 ## Visualizations
 
@@ -79,7 +79,7 @@
 pie showData
 title Lines changed by file type
 ".gradle" : 31
-".java" : 10041
+".java" : 10234
 ".xml" : 473
 "unknown" : 14
 ".json" : 298
@@ -101,8 +101,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "13h" : 20
 "14h" : 10
-"15h" : 11
+"15h" : 15
 ```
 
 
-> **Last Updated:** 21/02/2025, 15:10:03
+> **Last Updated:** 21/02/2025, 15:15:03
