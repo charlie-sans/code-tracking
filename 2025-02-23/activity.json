@@ -2,9 +2,9 @@
   "date": "2025-02-23",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 3511,
+      "totalLinesAdded": 3763,
       "totalLinesRemoved": 70,
-      "totalActiveTime": 116,
+      "totalActiveTime": 128,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java": [
           {
@@ -468,6 +468,34 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppManifest.java",
             "fileType": ".java",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:18:41.001Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppManifest.java",
+            "fileType": ".java",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:19:30.165Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppManifest.java",
+            "fileType": ".java",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
@@ -1138,6 +1166,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:19:30.078Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/src/org/finite/Konsole/Main.java",
+            "fileType": ".java",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/MessageBus.java": [
@@ -1257,6 +1299,96 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/CLIRegistry.java": [
+          {
+            "timestamp": "2025-02-22T18:18:47.629Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/CLIRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:19:30.254Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/CLIRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/filesystem/apps/Calculator.app/Contents/manifest.json": [
+          {
+            "timestamp": "2025-02-22T18:18:54.824Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Calculator.app/Contents/manifest.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-22T18:19:29.994Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Calculator.app/Contents/manifest.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/MicrOS/filesystem/apps/Calculator.app/Contents/src/org/finite/calculator/Main.java": [
+          {
+            "timestamp": "2025-02-22T18:19:04.287Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Calculator.app/Contents/src/org/finite/calculator/Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:19:30.328Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Calculator.app/Contents/src/org/finite/calculator/Main.java",
+            "fileType": ".java",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

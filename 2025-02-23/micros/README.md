@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3511                                          |
+| **Lines Added** (➕)   | 3763                                          |
 | **Lines Removed** (➖) | 70                                        |
-| **Net Change** (↕)    | 3441                |
-| **Active Time** (⌚)   | 116 minutes |
+| **Net Change** (↕)    | 3693                |
+| **Active Time** (⌚)   | 128 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **MicrOSApp.java** (+175, -0)
 - **WindowManager.java** (+1494, -26)
 - **AppLoader.java** (+206, -7)
-- **AppManifest.java** (+80, -0)
+- **AppManifest.java** (+170, -0)
 - **DemoApp.java** (+81, -5)
 - **Konsole.java** (+76, -0)
 - **SettingsDialog.java** (+192, -1)
@@ -31,11 +31,14 @@
 - **MainClass.java** (+4, -0)
 - **MainC.java** (+45, -0)
 - **DemoApp.java** (+45, -0)
-- **Main.java** (+95, -0)
+- **Main.java** (+117, -0)
 - **MessageBus.java** (+30, -0)
 - **Registry.java** (+26, -0)
 - **Intent.java** (+30, -0)
 - **FileWatcher.java** (+49, -0)
+- **CLIRegistry.java** (+56, -0)
+- **manifest.json** (+17, -0)
+- **Main.java** (+67, -0)
 
 ## Visualizations
 
@@ -44,8 +47,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 3404
-".json" : 67
+".java" : 3639
+".json" : 84
 ".sh" : 20
 ".xml" : 90
 ```
@@ -60,8 +63,8 @@ title Coding activity by hour (count of changes)
 "02h" : 13
 "03h" : 3
 "04h" : 13
-"05h" : 13
+"05h" : 22
 ```
 
 
-> **Last Updated:** 23/02/2025, 05:18:01
+> **Last Updated:** 23/02/2025, 05:23:01
