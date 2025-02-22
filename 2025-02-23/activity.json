@@ -2,7 +2,7 @@
   "date": "2025-02-23",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 4752,
+      "totalLinesAdded": 5089,
       "totalLinesRemoved": 350,
       "totalActiveTime": 173,
       "files": {
@@ -975,6 +975,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T20:13:30.975Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 337,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
