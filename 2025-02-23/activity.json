@@ -2,9 +2,9 @@
   "date": "2025-02-23",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 7349,
+      "totalLinesAdded": 7625,
       "totalLinesRemoved": 1427,
-      "totalActiveTime": 227,
+      "totalActiveTime": 230,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java": [
           {
@@ -474,6 +474,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T22:05:06.318Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppLoader.java",
+            "fileType": ".java",
+            "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppManifest.java": [
@@ -728,6 +742,34 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/cli/LaunchOptions.java",
             "fileType": ".java",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T22:04:29.849Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/cli/LaunchOptions.java",
+            "fileType": ".java",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T22:05:01.403Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/cli/LaunchOptions.java",
+            "fileType": ".java",
+            "linesAdded": 7,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
@@ -1185,6 +1227,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T22:05:46.650Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
