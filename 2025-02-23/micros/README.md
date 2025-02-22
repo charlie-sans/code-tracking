@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6702                                          |
+| **Lines Added** (➕)   | 7271                                          |
 | **Lines Removed** (➖) | 1427                                        |
-| **Net Change** (↕)    | 5275                |
-| **Active Time** (⌚)   | 218 minutes |
+| **Net Change** (↕)    | 5844                |
+| **Active Time** (⌚)   | 226 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **Konsole.java** (+76, -0)
 - **SettingsDialog.java** (+192, -1)
 - **LaunchOptions.java** (+20, -0)
-- **Main.java** (+1463, -677)
+- **Main.java** (+1749, -677)
 - **manifest.json** (+22, -0)
 - **manifest.json** (+44, -1)
 - **Konsole.java** (+76, -0)
@@ -44,7 +44,7 @@
 - **history.ts** (+54, -53)
 - **StartMenu.java** (+107, -0)
 - **StartMenu.java** (+132, -0)
-- **pom.xml** (+382, -283)
+- **pom.xml** (+665, -283)
 
 ## Visualizations
 
@@ -53,10 +53,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 7163
+".java" : 7449
 ".json" : 84
 ".sh" : 20
-".xml" : 755
+".xml" : 1038
 ".ts" : 107
 ```
 
@@ -72,8 +72,8 @@ title Coding activity by hour (count of changes)
 "04h" : 13
 "05h" : 39
 "06h" : 11
-"07h" : 31
+"07h" : 33
 ```
 
 
-> **Last Updated:** 23/02/2025, 07:43:41
+> **Last Updated:** 23/02/2025, 07:48:41
