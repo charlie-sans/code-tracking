@@ -2,9 +2,9 @@
   "date": "2025-02-22",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 7244,
-      "totalLinesRemoved": 1653,
-      "totalActiveTime": 441,
+      "totalLinesAdded": 7265,
+      "totalLinesRemoved": 1673,
+      "totalActiveTime": 447,
       "files": {
         "d:\\MicrOS\\src\\main\\java\\org\\Finite\\MicrOS\\FileManager.java": [
           {
@@ -3020,6 +3020,20 @@
             },
             "duration": 0,
             "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-22T01:20:01.743Z",
+            "fileName": "/media/cat/MicrOS/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "xml"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/GLWindow.java": [
@@ -3901,6 +3915,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-22T01:20:01.656Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-22T01:21:56.952Z",
+            "fileName": "/media/cat/MicrOS/src/main/resources/META-INF/native-image/reflect-config.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
