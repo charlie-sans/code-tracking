@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7224                                          |
-| **Lines Removed** (➖) | 1651                                        |
-| **Net Change** (↕)    | 5573                |
-| **Active Time** (⌚)   | 440 minutes |
+| **Lines Added** (➕)   | 7244                                          |
+| **Lines Removed** (➖) | 1653                                        |
+| **Net Change** (↕)    | 5591                |
+| **Active Time** (⌚)   | 441 minutes |
 
 
 ## Modified Files
@@ -48,14 +48,14 @@
 - **NativeProcessWindow.java** (+544, -434)
 - **ProcessManager.java** (+306, -47)
 - **ApplicationLauncher.java** (+171, -10)
-- **pom.xml** (+1124, -71)
+- **pom.xml** (+1124, -73)
 - **GLWindow.java** (+183, -35)
 - **WindowCapture.java** (+298, -159)
 - **X11Extension.java** (+11, -10)
 - **WinGDIConstants.java** (+1, -0)
 - **NativeWindowHandler.java** (+63, -62)
 - **SplashScreen.java** (+144, -0)
-- **reflect-config.json** (+180, -21)
+- **reflect-config.json** (+200, -21)
 - **resource-config.json** (+13, -12)
 - **proxy-config.json** (+6, -5)
 - **jni-config.json** (+9, -8)
@@ -69,9 +69,9 @@
 pie showData
 title Lines changed by file type
 ".java" : 6580
-".json" : 364
+".json" : 384
 ".gradle" : 174
-".xml" : 1757
+".xml" : 1759
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -87,8 +87,8 @@ title Coding activity by hour (count of changes)
 "09h" : 18
 "10h" : 26
 "11h" : 20
-"12h" : 11
+"12h" : 13
 ```
 
 
-> **Last Updated:** 22/02/2025, 12:14:03
+> **Last Updated:** 22/02/2025, 12:19:03
