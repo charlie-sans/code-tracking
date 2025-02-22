@@ -2,9 +2,9 @@
   "date": "2025-02-23",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 4138,
-      "totalLinesRemoved": 70,
-      "totalActiveTime": 136,
+      "totalLinesAdded": 4318,
+      "totalLinesRemoved": 78,
+      "totalActiveTime": 146,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java": [
           {
@@ -892,6 +892,48 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:29:58.229Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:29:58.839Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:30:45.094Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/filesystem/apps/Maver.app/Contents/manifest.json": [
@@ -1440,6 +1482,50 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/ErrorDialog.java",
             "fileType": ".java",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SplashScreen.java": [
+          {
+            "timestamp": "2025-02-22T18:29:42.365Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SplashScreen.java",
+            "fileType": ".java",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:30:09.834Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SplashScreen.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T18:30:11.138Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SplashScreen.java",
+            "fileType": ".java",
+            "linesAdded": 22,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
