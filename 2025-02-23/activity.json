@@ -2,9 +2,9 @@
   "date": "2025-02-23",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 2444,
-      "totalLinesRemoved": 69,
-      "totalActiveTime": 97,
+      "totalLinesAdded": 2488,
+      "totalLinesRemoved": 70,
+      "totalActiveTime": 99,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java": [
           {
@@ -826,6 +826,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-02-22T17:59:20.204Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/manifest.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/src/org/finite/Konsole.java": [
@@ -1016,6 +1030,36 @@
             "fileName": "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/src/org/finite/DemoApp.java",
             "fileType": ".java",
             "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/src/org/finite/Konsole/Main.java": [
+          {
+            "timestamp": "2025-02-22T17:58:23.669Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/src/org/finite/Konsole/Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-22T17:58:58.309Z",
+            "fileName": "/media/cat/MicrOS/filesystem/apps/Konsole.app/Contents/src/org/finite/Konsole/Main.java",
+            "fileType": ".java",
+            "linesAdded": 43,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
