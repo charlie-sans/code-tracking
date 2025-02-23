@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 307                                          |
-| **Lines Removed** (➖) | 202                                        |
-| **Net Change** (↕)    | 105                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Lines Added** (➕)   | 429                                          |
+| **Lines Removed** (➖) | 305                                        |
+| **Net Change** (↕)    | 124                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
 - **manifest.json** (+22, -0)
-- **DemoApp.java** (+285, -202)
+- **DemoApp.java** (+306, -213)
+- **Main.java** (+101, -92)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 22
-".java" : 487
+".java" : 712
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 16
-"14h" : 10
+"14h" : 23
 ```
 
 
-> **Last Updated:** 23/02/2025, 14:20:19
+> **Last Updated:** 23/02/2025, 14:25:19
