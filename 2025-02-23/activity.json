@@ -3662,7 +3662,7 @@
       "averageChangeSize": 22
     },
     "MASM": {
-      "totalLinesAdded": 858,
+      "totalLinesAdded": 880,
       "totalLinesRemoved": 49,
       "totalActiveTime": 4,
       "files": {
@@ -3737,6 +3737,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T04:08:18.536Z",
+            "fileName": "/media/cat/MASM/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T04:08:18.825Z",
+            "fileName": "/media/cat/MASM/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "xml"
           }
         ]
