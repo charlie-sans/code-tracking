@@ -2,7 +2,7 @@
   "date": "2025-02-23",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 8473,
+      "totalLinesAdded": 8851,
       "totalLinesRemoved": 1439,
       "totalActiveTime": 284,
       "files": {
@@ -2884,6 +2884,22 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-02-23T04:01:58.527Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 378,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
