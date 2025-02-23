@@ -2915,9 +2915,9 @@
       "averageChangeSize": 259
     },
     "CodePack": {
-      "totalLinesAdded": 1049,
-      "totalLinesRemoved": 310,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 1050,
+      "totalLinesRemoved": 311,
+      "totalActiveTime": 69,
       "files": {
         "/media/cat/CodePack/Demo.app/Contents/manifest.json": [
           {
@@ -3538,6 +3538,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T05:22:26.432Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T05:22:26.995Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
