@@ -2899,9 +2899,9 @@
       "averageChangeSize": 259
     },
     "CodePack": {
-      "totalLinesAdded": 632,
+      "totalLinesAdded": 639,
       "totalLinesRemoved": 310,
-      "totalActiveTime": 65,
+      "totalActiveTime": 68,
       "files": {
         "/media/cat/CodePack/Demo.app/Contents/manifest.json": [
           {
@@ -3599,6 +3599,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/media/cat/CodePack/Demo.app/.gitignore": [
+          {
+            "timestamp": "2025-02-23T03:37:31.687Z",
+            "fileName": "/media/cat/CodePack/Demo.app/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },
