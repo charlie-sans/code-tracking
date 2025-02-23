@@ -2799,9 +2799,9 @@
       "averageChangeSize": 259
     },
     "CodePack": {
-      "totalLinesAdded": 22,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 279,
+      "totalLinesRemoved": 196,
+      "totalActiveTime": 14,
       "files": {
         "/media/cat/CodePack/Demo.app/Contents/manifest.json": [
           {
@@ -2817,6 +2817,148 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java": [
+          {
+            "timestamp": "2025-02-23T02:50:30.904Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:50:38.054Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:51:11.305Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 56,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:51:21.766Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 132,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:51:32.615Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:51:49.651Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:52:00.595Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:52:02.023Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:54:52.286Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T02:55:03.504Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/DemoApp.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ]
       },
