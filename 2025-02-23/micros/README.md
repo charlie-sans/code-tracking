@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8280                                          |
-| **Lines Removed** (➖) | 1434                                        |
-| **Net Change** (↕)    | 6846                |
-| **Active Time** (⌚)   | 265 minutes |
+| **Lines Added** (➕)   | 8287                                          |
+| **Lines Removed** (➖) | 1439                                        |
+| **Net Change** (↕)    | 6848                |
+| **Active Time** (⌚)   | 271 minutes |
 
 
 ## Modified Files
@@ -44,11 +44,12 @@
 - **history.ts** (+54, -53)
 - **StartMenu.java** (+107, -0)
 - **StartMenu.java** (+132, -0)
-- **pom.xml** (+687, -283)
+- **pom.xml** (+687, -288)
 - **.gitignore** (+41, -0)
 - **Taskbar.java** (+188, -0)
 - **TaskButton.java** (+164, -0)
 - **Main.java** (+247, -6)
+- **.gitignore** (+7, -0)
 
 ## Visualizations
 
@@ -60,9 +61,9 @@ title Lines changed by file type
 ".java" : 8402
 ".json" : 84
 ".sh" : 20
-".xml" : 1060
+".xml" : 1065
 ".ts" : 107
-"unknown" : 41
+"unknown" : 48
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -82,8 +83,8 @@ title Coding activity by hour (count of changes)
 "09h" : 14
 "10h" : 12
 "11h" : 4
-"13h" : 1
+"13h" : 3
 ```
 
 
-> **Last Updated:** 23/02/2025, 13:44:55
+> **Last Updated:** 23/02/2025, 13:49:55
