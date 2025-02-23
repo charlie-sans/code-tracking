@@ -2899,9 +2899,9 @@
       "averageChangeSize": 259
     },
     "CodePack": {
-      "totalLinesAdded": 429,
-      "totalLinesRemoved": 305,
-      "totalActiveTime": 45,
+      "totalLinesAdded": 611,
+      "totalLinesRemoved": 309,
+      "totalActiveTime": 57,
       "files": {
         "/media/cat/CodePack/Demo.app/Contents/manifest.json": [
           {
@@ -3453,6 +3453,110 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T03:25:29.542Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/CodePack/Demo.app/pom.xml": [
+          {
+            "timestamp": "2025-02-23T03:26:37.209Z",
+            "fileName": "/media/cat/CodePack/Demo.app/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T03:27:51.551Z",
+            "fileName": "/media/cat/CodePack/Demo.app/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T03:30:18.349Z",
+            "fileName": "/media/cat/CodePack/Demo.app/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T03:30:18.657Z",
+            "fileName": "/media/cat/CodePack/Demo.app/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "xml"
+          }
+        ],
+        "/media/cat/CodePack/Demo.app/dependency-reduced-pom.xml": [
+          {
+            "timestamp": "2025-02-23T03:26:55.240Z",
+            "fileName": "/media/cat/CodePack/Demo.app/dependency-reduced-pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "/media/cat/CodePack/.vscode/settings.json": [
+          {
+            "timestamp": "2025-02-23T03:27:54.555Z",
+            "fileName": "/media/cat/CodePack/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
