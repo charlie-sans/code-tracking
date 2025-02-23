@@ -2783,6 +2783,39 @@
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ProcessManager.java"
       ],
       "averageChangeSize": 259
+    },
+    "CodePack": {
+      "totalLinesAdded": 22,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/media/cat/CodePack/Demo.app/Contents/manifest.json": [
+          {
+            "timestamp": "2025-02-23T02:48:27.661Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/manifest.json",
+            "fileType": ".json",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/media/cat/CodePack/Demo.app/Contents/manifest.json"
+      ],
+      "averageChangeSize": 22
     }
   },
   "totalActiveTime": 0,
