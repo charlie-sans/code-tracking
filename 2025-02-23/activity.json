@@ -3628,6 +3628,99 @@
         "/media/cat/CodePack/Demo.app/Contents/manifest.json"
       ],
       "averageChangeSize": 22
+    },
+    "MASM": {
+      "totalLinesAdded": 858,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 4,
+      "files": {
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-02-23T04:01:58.362Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 377,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-23T04:01:58.436Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/MASM/pom.xml": [
+          {
+            "timestamp": "2025-02-23T04:02:48.035Z",
+            "fileName": "/media/cat/MASM/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 375,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T04:02:57.979Z",
+            "fileName": "/media/cat/MASM/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-23T04:02:58.418Z",
+            "fileName": "/media/cat/MASM/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "xml": 3
+      },
+      "changeFrequency": {
+        "15": 4
+      },
+      "topFiles": [
+        "/media/cat/MASM/pom.xml",
+        "/home/charlie/.config/Code - Insiders/User/settings.json"
+      ],
+      "averageChangeSize": 181.4
     }
   },
   "totalActiveTime": 0,
