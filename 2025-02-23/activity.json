@@ -2915,7 +2915,7 @@
       "averageChangeSize": 259
     },
     "CodePack": {
-      "totalLinesAdded": 1017,
+      "totalLinesAdded": 1049,
       "totalLinesRemoved": 310,
       "totalActiveTime": 68,
       "files": {
@@ -3524,6 +3524,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T05:17:19.878Z",
+            "fileName": "/media/cat/CodePack/Demo.app/Contents/src/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "CodePack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
