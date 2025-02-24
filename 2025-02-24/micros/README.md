@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4246                                          |
-| **Lines Removed** (➖) | 434                                        |
-| **Net Change** (↕)    | 3812                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Lines Added** (➕)   | 4525                                          |
+| **Lines Removed** (➖) | 442                                        |
+| **Net Change** (↕)    | 4083                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -23,8 +23,9 @@
 - **invoke>** (+3, -0)
 - **AppLoader.java** (+10, -0)
 - **settings.json** (+385, -0)
-- **Taskbar.java** (+198, -6)
-- **TaskButton.java** (+164, -62)
+- **Taskbar.java** (+198, -12)
+- **TaskButton.java** (+172, -64)
+- **AppLoader.java** (+271, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 171
 ".xml" : 399
-".java" : 3725
+".java" : 4012
 ".json" : 385
 ```
 
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "13h" : 7
 "14h" : 2
 "15h" : 17
-"16h" : 34
+"16h" : 40
 ```
 
 
-> **Last Updated:** 24/02/2025, 16:18:50
+> **Last Updated:** 24/02/2025, 16:23:50
