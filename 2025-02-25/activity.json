@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 1294,
-      "totalLinesRemoved": 70,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 1384,
+      "totalLinesRemoved": 73,
+      "totalActiveTime": 28,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -104,6 +104,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T19:30:34.238Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ],
         "/home/charlie/.config/Code - Insiders/User/settings.json": [
@@ -192,6 +206,94 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/.gitignore": [
+          {
+            "timestamp": "2025-02-24T19:33:49.717Z",
+            "fileName": "/media/cat/MicrOS/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-24T19:33:58.930Z",
+            "fileName": "/media/cat/MicrOS/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-24T19:34:19.419Z",
+            "fileName": "/media/cat/MicrOS/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/media/cat/MicrOS/.gitmodules": [
+          {
+            "timestamp": "2025-02-24T19:34:30.190Z",
+            "fileName": "/media/cat/MicrOS/.gitmodules",
+            "fileType": "unknown",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-24T19:34:31.455Z",
+            "fileName": "/media/cat/MicrOS/.gitmodules",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-24T19:34:36.598Z",
+            "fileName": "/media/cat/MicrOS/.gitmodules",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
