@@ -93,9 +93,9 @@
       "averageChangeSize": 210
     },
     "MicrOS": {
-      "totalLinesAdded": 5069,
-      "totalLinesRemoved": 956,
-      "totalActiveTime": 187,
+      "totalLinesAdded": 5078,
+      "totalLinesRemoved": 1122,
+      "totalActiveTime": 193,
       "files": {
         "/media/cat/MicrOS/.git/COMMIT_EDITMSG": [
           {
@@ -1000,6 +1000,20 @@
             "fileType": ".java",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T06:42:55.973Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 71,
             "projectName": "MicrOS",
             "content": {
               "added": [],
@@ -1934,6 +1948,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T06:42:24.107Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/DragAndDropApp.java",
+            "fileType": ".java",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T06:42:42.871Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/DragAndDropApp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 95,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
