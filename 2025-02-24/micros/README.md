@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5426                                          |
-| **Lines Removed** (➖) | 1193                                        |
-| **Net Change** (↕)    | 4233                |
-| **Active Time** (⌚)   | 229 minutes |
+| **Lines Added** (➕)   | 5435                                          |
+| **Lines Removed** (➖) | 1210                                        |
+| **Net Change** (↕)    | 4225                |
+| **Active Time** (⌚)   | 240 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **DragAndDropApp.java** (+96, -95)
 - **AppInstaller.java** (+38, -0)
 - **StartMenu.java** (+132, -5)
-- **SplashScreen.java** (+118, -8)
+- **SplashScreen.java** (+127, -25)
 
 ## Visualizations
 
@@ -41,7 +41,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 214
 ".xml" : 399
-".java" : 5617
+".java" : 5643
 ".json" : 389
 ```
 
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "15h" : 17
 "16h" : 75
 "17h" : 41
-"18h" : 14
+"18h" : 19
 ```
 
 
-> **Last Updated:** 24/02/2025, 18:23:55
+> **Last Updated:** 24/02/2025, 18:28:58
