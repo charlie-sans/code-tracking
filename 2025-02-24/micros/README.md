@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 5807                                          |
-| **Lines Removed** (➖) | 1517                                        |
-| **Net Change** (↕)    | 4290                |
+| **Lines Removed** (➖) | 1519                                        |
+| **Net Change** (↕)    | 4288                |
 | **Active Time** (⌚)   | 269 minutes |
 
 
@@ -17,7 +17,7 @@
 - **WindowManager.java** (+1742, -259)
 - **AppInstaller.java** (+139, -9)
 - **AppType.java** (+48, -10)
-- **FileManager.java** (+799, -454)
+- **FileManager.java** (+799, -456)
 - **Main.java** (+615, -124)
 - **AppPackager.java** (+270, -269)
 - **invoke>** (+3, -0)
@@ -41,7 +41,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 214
 ".xml" : 399
-".java" : 6322
+".java" : 6324
 ".json" : 389
 ```
 
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "15h" : 17
 "16h" : 75
 "17h" : 41
-"18h" : 33
+"18h" : 34
 ```
 
 
-> **Last Updated:** 24/02/2025, 18:48:55
+> **Last Updated:** 24/02/2025, 18:54:07
