@@ -93,9 +93,9 @@
       "averageChangeSize": 210
     },
     "MicrOS": {
-      "totalLinesAdded": 2298,
-      "totalLinesRemoved": 96,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 2306,
+      "totalLinesRemoved": 100,
+      "totalActiveTime": 18,
       "files": {
         "/media/cat/MicrOS/.git/COMMIT_EDITMSG": [
           {
@@ -325,6 +325,48 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java",
             "fileType": ".java",
             "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T04:49:29.102Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T04:49:29.276Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T04:50:13.648Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java",
+            "fileType": ".java",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
