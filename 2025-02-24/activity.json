@@ -94,7 +94,7 @@
     },
     "MicrOS": {
       "totalLinesAdded": 4577,
-      "totalLinesRemoved": 593,
+      "totalLinesRemoved": 594,
       "totalActiveTime": 121,
       "files": {
         "/media/cat/MicrOS/.git/COMMIT_EDITMSG": [
@@ -1528,6 +1528,20 @@
           },
           {
             "timestamp": "2025-02-24T05:52:16.578Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppLoader.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T06:01:55.989Z",
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/AppLoader.java",
             "fileType": ".java",
             "linesAdded": 0,
