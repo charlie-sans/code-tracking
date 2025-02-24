@@ -4,28 +4,29 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4577                                          |
-| **Lines Removed** (➖) | 594                                        |
-| **Net Change** (↕)    | 3983                |
-| **Active Time** (⌚)   | 121 minutes |
+| **Lines Added** (➕)   | 4890                                          |
+| **Lines Removed** (➖) | 691                                        |
+| **Net Change** (↕)    | 4199                |
+| **Active Time** (⌚)   | 152 minutes |
 
 
 ## Modified Files
 - **COMMIT_EDITMSG** (+85, -83)
 - **pom.xml** (+399, -0)
 - **MicrOSApp.java** (+99, -0)
-- **WindowManager.java** (+1565, -259)
+- **WindowManager.java** (+1740, -259)
 - **AppInstaller.java** (+139, -9)
-- **AppType.java** (+48, -8)
-- **FileManager.java** (+381, -6)
-- **Main.java** (+505, -21)
+- **AppType.java** (+48, -10)
+- **FileManager.java** (+381, -100)
+- **Main.java** (+511, -21)
 - **AppPackager.java** (+270, -25)
 - **invoke>** (+3, -0)
 - **AppLoader.java** (+10, -0)
 - **settings.json** (+387, -2)
-- **Taskbar.java** (+198, -12)
-- **TaskButton.java** (+172, -64)
-- **AppLoader.java** (+316, -105)
+- **Taskbar.java** (+200, -12)
+- **TaskButton.java** (+228, -64)
+- **AppLoader.java** (+348, -105)
+- **.gitignore** (+42, -1)
 
 ## Visualizations
 
@@ -34,9 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 171
+"unknown" : 214
 ".xml" : 399
-".java" : 4212
+".java" : 4579
 ".json" : 389
 ```
 
@@ -49,8 +50,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 17
 "16h" : 75
-"17h" : 1
+"17h" : 11
 ```
 
 
-> **Last Updated:** 24/02/2025, 17:03:50
+> **Last Updated:** 24/02/2025, 17:08:51
