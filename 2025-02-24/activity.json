@@ -93,9 +93,9 @@
       "averageChangeSize": 210
     },
     "MicrOS": {
-      "totalLinesAdded": 583,
-      "totalLinesRemoved": 83,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 1325,
+      "totalLinesRemoved": 86,
+      "totalActiveTime": 6,
       "files": {
         "/media/cat/MicrOS/.git/COMMIT_EDITMSG": [
           {
@@ -192,6 +192,36 @@
             "fileType": ".java",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java": [
+          {
+            "timestamp": "2025-02-24T03:09:38.426Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 742,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T03:09:47.981Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "MicrOS",
             "content": {
               "added": [],

@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 583                                          |
-| **Lines Removed** (➖) | 83                                        |
-| **Net Change** (↕)    | 500                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 1325                                          |
+| **Lines Removed** (➖) | 86                                        |
+| **Net Change** (↕)    | 1239                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **COMMIT_EDITMSG** (+85, -83)
 - **pom.xml** (+399, -0)
 - **MicrOSApp.java** (+99, -0)
+- **WindowManager.java** (+742, -3)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 168
 ".xml" : 399
-".java" : 99
+".java" : 844
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 7
+"14h" : 2
 ```
 
 
-> **Last Updated:** 24/02/2025, 13:27:07
+> **Last Updated:** 24/02/2025, 14:12:07
