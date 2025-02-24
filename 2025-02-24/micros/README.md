@@ -4,22 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2560                                          |
-| **Lines Removed** (➖) | 104                                        |
-| **Net Change** (↕)    | 2456                |
-| **Active Time** (⌚)   | 21 minutes |
+| **Lines Added** (➕)   | 3390                                          |
+| **Lines Removed** (➖) | 210                                        |
+| **Net Change** (↕)    | 3180                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
 - **COMMIT_EDITMSG** (+85, -83)
 - **pom.xml** (+399, -0)
 - **MicrOSApp.java** (+99, -0)
-- **WindowManager.java** (+742, -3)
+- **WindowManager.java** (+1481, -90)
 - **AppInstaller.java** (+126, -0)
 - **AppType.java** (+48, -8)
 - **FileManager.java** (+381, -6)
 - **Main.java** (+495, -4)
-- **AppPackager.java** (+185, -0)
+- **AppPackager.java** (+263, -19)
+- **invoke>** (+3, -0)
+- **AppLoader.java** (+10, -0)
 
 ## Visualizations
 
@@ -28,9 +30,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 168
+"unknown" : 171
 ".xml" : 399
-".java" : 2097
+".java" : 3030
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,7 +43,8 @@ title Coding activity by hour (count of changes)
 "13h" : 7
 "14h" : 2
 "15h" : 17
+"16h" : 8
 ```
 
 
-> **Last Updated:** 24/02/2025, 15:58:50
+> **Last Updated:** 24/02/2025, 16:03:50
