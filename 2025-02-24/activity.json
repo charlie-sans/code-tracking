@@ -93,9 +93,9 @@
       "averageChangeSize": 210
     },
     "MicrOS": {
-      "totalLinesAdded": 4982,
+      "totalLinesAdded": 5069,
       "totalLinesRemoved": 956,
-      "totalActiveTime": 177,
+      "totalActiveTime": 187,
       "files": {
         "/media/cat/MicrOS/.git/COMMIT_EDITMSG": [
           {
@@ -1905,6 +1905,36 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/DragAndDropApp.java": [
+          {
+            "timestamp": "2025-02-24T06:34:35.640Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/DragAndDropApp.java",
+            "fileType": ".java",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T06:38:43.003Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/DragAndDropApp.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
           }
         ]
       },
