@@ -91,6 +91,67 @@
         "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Konsole.java"
       ],
       "averageChangeSize": 210
+    },
+    "MicrOS": {
+      "totalLinesAdded": 85,
+      "totalLinesRemoved": 73,
+      "totalActiveTime": 2,
+      "files": {
+        "/media/cat/MicrOS/.git/COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-02-24T02:12:31.262Z",
+            "fileName": "/media/cat/MicrOS/.git/COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-24T02:12:45.222Z",
+            "fileName": "/media/cat/MicrOS/.git/COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 73,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-24T02:12:49.967Z",
+            "fileName": "/media/cat/MicrOS/.git/COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "/media/cat/MicrOS/.git/COMMIT_EDITMSG"
+      ],
+      "averageChangeSize": 52.666666666666664
     }
   },
   "totalActiveTime": 0,
