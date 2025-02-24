@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 2332,
+      "totalLinesAdded": 2342,
       "totalLinesRemoved": 143,
-      "totalActiveTime": 50,
+      "totalActiveTime": 56,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -444,6 +444,34 @@
             "fileName": "/media/cat/MicrOS/build.ps1",
             "fileType": ".ps1",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-24T19:48:36.941Z",
+            "fileName": "/media/cat/MicrOS/build.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-24T19:48:48.406Z",
+            "fileName": "/media/cat/MicrOS/build.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
