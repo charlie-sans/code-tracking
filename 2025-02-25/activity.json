@@ -598,6 +598,137 @@
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/VirtualFileSystem.java"
       ],
       "averageChangeSize": 142.77777777777777
+    },
+    "finite.vercel.app": {
+      "totalLinesAdded": 174,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 9,
+      "files": {
+        "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js": [
+          {
+            "timestamp": "2025-02-24T20:13:13.714Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 149,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:13:49.621Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:15:21.336Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:15:40.926Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:16:47.102Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:17:37.759Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:17:43.295Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T20:17:51.800Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 9
+      },
+      "changeFrequency": {
+        "7": 9
+      },
+      "topFiles": [
+        "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js"
+      ],
+      "averageChangeSize": 22.5
     }
   },
   "totalActiveTime": 9,
