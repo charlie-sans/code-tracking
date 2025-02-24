@@ -2,9 +2,9 @@
   "date": "2025-02-24",
   "projects": {
     "Konsole": {
-      "totalLinesAdded": 424,
+      "totalLinesAdded": 525,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Konsole.java": [
           {
@@ -47,6 +47,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Commands.java": [
+          {
+            "timestamp": "2025-02-24T00:03:46.890Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Commands.java",
+            "fileType": ".java",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-24T00:05:13.779Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Commands.java",
+            "fileType": ".java",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
