@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6374,
+      "totalLinesAdded": 6988,
       "totalLinesRemoved": 1720,
-      "totalActiveTime": 170,
+      "totalActiveTime": 177,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -1867,6 +1867,54 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ApplicationAssociation.java": [
+          {
+            "timestamp": "2025-02-25T07:23:05.726Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ApplicationAssociation.java",
+            "fileType": ".java",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ApplicationAssociationManager.java": [
+          {
+            "timestamp": "2025-02-25T07:24:11.849Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/ApplicationAssociationManager.java",
+            "fileType": ".java",
+            "linesAdded": 296,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/ApplicationChooserDialog.java": [
+          {
+            "timestamp": "2025-02-25T07:25:26.573Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/ApplicationChooserDialog.java",
+            "fileType": ".java",
+            "linesAdded": 252,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
