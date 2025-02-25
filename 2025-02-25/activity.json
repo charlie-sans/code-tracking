@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 8132,
+      "totalLinesAdded": 8167,
       "totalLinesRemoved": 1722,
-      "totalActiveTime": 191,
+      "totalActiveTime": 193,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -1126,6 +1126,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T07:43:15.334Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXPanel.java",
+            "fileType": ".java",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/JavaFXApp.java": [
@@ -1964,6 +1978,20 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/ApplicationChooserDialog.java",
             "fileType": ".java",
             "linesAdded": 252,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T07:44:24.684Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/ApplicationChooserDialog.java",
+            "fileType": ".java",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {

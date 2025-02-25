@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8132                                          |
+| **Lines Added** (➕)   | 8167                                          |
 | **Lines Removed** (➖) | 1722                                        |
-| **Net Change** (↕)    | 6410                |
-| **Active Time** (⌚)   | 191 minutes |
+| **Net Change** (↕)    | 6445                |
+| **Active Time** (⌚)   | 193 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **TaskButton.java** (+227, -34)
 - **AppLoader.java** (+243, -104)
 - **ErrorDialog.java** (+48, -7)
-- **JavaFXPanel.java** (+54, -0)
+- **JavaFXPanel.java** (+75, -0)
 - **JavaFXApp.java** (+36, -0)
 - **WindowManager.java** (+1106, -8)
 - **TextEditorFX.java** (+73, -0)
@@ -49,7 +49,7 @@
 - **InternalConsoleHandler.java** (+51, -0)
 - **ApplicationAssociation.java** (+66, -0)
 - **ApplicationAssociationManager.java** (+296, -0)
-- **ApplicationChooserDialog.java** (+252, -0)
+- **ApplicationChooserDialog.java** (+266, -0)
 - **ExternalConsoleHandler.java** (+60, -0)
 - **TerminalHandlerFactory.java** (+85, -0)
 - **Console.java** (+336, -0)
@@ -61,7 +61,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 8592
+".java" : 8627
 ".json" : 388
 "unknown" : 71
 ".xml" : 397
@@ -77,8 +77,8 @@ title Coding activity by hour (count of changes)
 "06h" : 40
 "16h" : 36
 "17h" : 36
-"18h" : 27
+"18h" : 29
 ```
 
 
-> **Last Updated:** 25/02/2025, 18:37:46
+> **Last Updated:** 25/02/2025, 18:47:48
