@@ -2,7 +2,7 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 8717,
+      "totalLinesAdded": 9013,
       "totalLinesRemoved": 1722,
       "totalActiveTime": 201,
       "files": {
@@ -2090,6 +2090,22 @@
             },
             "duration": 1,
             "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/changes-report.ps1": [
+          {
+            "timestamp": "2025-02-25T08:25:15.391Z",
+            "fileName": "/media/cat/MicrOS/changes-report.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 296,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
           }
         ]
       },
