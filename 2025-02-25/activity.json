@@ -2,7 +2,7 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 3787,
+      "totalLinesAdded": 3841,
       "totalLinesRemoved": 593,
       "totalActiveTime": 79,
       "files": {
@@ -955,6 +955,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXPanel.java": [
+          {
+            "timestamp": "2025-02-25T05:52:34.511Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXPanel.java",
+            "fileType": ".java",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
