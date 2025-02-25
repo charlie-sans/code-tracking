@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5768                                          |
+| **Lines Added** (➕)   | 6182                                          |
 | **Lines Removed** (➖) | 1218                                        |
-| **Net Change** (↕)    | 4550                |
-| **Active Time** (⌚)   | 119 minutes |
+| **Net Change** (↕)    | 4964                |
+| **Active Time** (⌚)   | 126 minutes |
 
 
 ## Modified Files
@@ -41,6 +41,9 @@
 - **SystemTrayFX.java** (+38, -37)
 - **DesktopFX.java** (+79, -78)
 - **javafx-desktop.css** (+76, -75)
+- **JavaFXStartMenu.java** (+112, -0)
+- **JavaFXMenuItem.java** (+56, -0)
+- **JavaFXTaskbar.java** (+246, -0)
 
 ## Visualizations
 
@@ -49,7 +52,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 5724
+".java" : 6138
 ".json" : 388
 "unknown" : 71
 ".xml" : 397
@@ -64,8 +67,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "06h" : 40
 "16h" : 36
-"17h" : 22
+"17h" : 25
 ```
 
 
-> **Last Updated:** 25/02/2025, 17:42:46
+> **Last Updated:** 25/02/2025, 17:47:47
