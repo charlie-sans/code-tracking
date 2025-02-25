@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 2995,
-      "totalLinesRemoved": 204,
-      "totalActiveTime": 66,
+      "totalLinesAdded": 3248,
+      "totalLinesRemoved": 234,
+      "totalActiveTime": 74,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -711,6 +711,106 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:23:14.156Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:25:32.945Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:26:51.747Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/Taskbar.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/TaskButton.java": [
+          {
+            "timestamp": "2025-02-25T05:23:57.998Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/TaskButton.java",
+            "fileType": ".java",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:24:16.345Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/TaskButton.java",
+            "fileType": ".java",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:26:00.728Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/TaskButton.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:26:02.730Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/TaskButton.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

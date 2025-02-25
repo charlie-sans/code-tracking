@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2995                                          |
-| **Lines Removed** (➖) | 204                                        |
-| **Net Change** (↕)    | 2791                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Lines Added** (➕)   | 3248                                          |
+| **Lines Removed** (➖) | 234                                        |
+| **Net Change** (↕)    | 3014                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,8 @@
 - **AndroidInitializer.java** (+18, -17)
 - **Main.java** (+850, -65)
 - **StartMenu.java** (+107, -0)
-- **Taskbar.java** (+188, -0)
+- **Taskbar.java** (+243, -25)
+- **TaskButton.java** (+198, -5)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2243
+".java" : 2526
 ".json" : 388
 "unknown" : 71
 ".xml" : 397
@@ -43,8 +44,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "06h" : 40
-"16h" : 9
+"16h" : 16
 ```
 
 
-> **Last Updated:** 25/02/2025, 16:22:45
+> **Last Updated:** 25/02/2025, 16:27:45
