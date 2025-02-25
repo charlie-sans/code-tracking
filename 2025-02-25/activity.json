@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6274,
+      "totalLinesAdded": 6374,
       "totalLinesRemoved": 1720,
-      "totalActiveTime": 169,
+      "totalActiveTime": 170,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -1829,6 +1829,38 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 27,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/terminal/TerminalHandler.java": [
+          {
+            "timestamp": "2025-02-25T07:19:40.201Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/terminal/TerminalHandler.java",
+            "fileType": ".java",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/terminal/InternalConsoleHandler.java": [
+          {
+            "timestamp": "2025-02-25T07:20:15.717Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/terminal/InternalConsoleHandler.java",
+            "fileType": ".java",
+            "linesAdded": 51,
+            "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
               "added": [],
