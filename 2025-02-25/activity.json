@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 9013,
-      "totalLinesRemoved": 1722,
-      "totalActiveTime": 201,
+      "totalLinesAdded": 9031,
+      "totalLinesRemoved": 1724,
+      "totalActiveTime": 208,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -2105,6 +2105,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-25T08:28:43.805Z",
+            "fileName": "/media/cat/MicrOS/changes-report.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-02-25T08:31:28.282Z",
+            "fileName": "/media/cat/MicrOS/changes-report.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ps1"
           }
         ]
