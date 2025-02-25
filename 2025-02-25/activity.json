@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 3841,
-      "totalLinesRemoved": 593,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 4758,
+      "totalLinesRemoved": 597,
+      "totalActiveTime": 89,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -971,6 +971,124 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/JavaFXApp.java": [
+          {
+            "timestamp": "2025-02-25T05:52:57.199Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/JavaFXApp.java",
+            "fileType": ".java",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java": [
+          {
+            "timestamp": "2025-02-25T05:53:28.538Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 744,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:53:45.402Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:53:47.098Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:56:54.336Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/core/WindowManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/javafx/TextEditorFX.java": [
+          {
+            "timestamp": "2025-02-25T05:54:39.643Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/javafx/TextEditorFX.java",
+            "fileType": ".java",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:57:12.288Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/javafx/TextEditorFX.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T05:57:12.475Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/javafx/TextEditorFX.java",
+            "fileType": ".java",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
