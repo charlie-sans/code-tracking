@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6265,
+      "totalLinesAdded": 6274,
       "totalLinesRemoved": 1232,
-      "totalActiveTime": 154,
+      "totalActiveTime": 158,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -1630,6 +1630,20 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/JavaFXTaskbar.java",
             "fileType": ".java",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T07:03:23.206Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Desktop/JavaFXTaskbar.java",
+            "fileType": ".java",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
