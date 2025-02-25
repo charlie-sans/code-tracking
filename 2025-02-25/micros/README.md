@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 6274                                          |
-| **Lines Removed** (➖) | 1232                                        |
-| **Net Change** (↕)    | 5042                |
-| **Active Time** (⌚)   | 158 minutes |
+| **Lines Removed** (➖) | 1720                                        |
+| **Net Change** (↕)    | 4554                |
+| **Active Time** (⌚)   | 169 minutes |
 
 
 ## Modified Files
@@ -19,9 +19,9 @@
 - **pom.xml** (+348, -49)
 - **build.ps1** (+100, -0)
 - **AndroidInitializer.java** (+18, -17)
-- **Main.java** (+1110, -314)
+- **Main.java** (+1110, -325)
 - **StartMenu.java** (+107, -0)
-- **Taskbar.java** (+276, -55)
+- **Taskbar.java** (+276, -58)
 - **TaskButton.java** (+227, -34)
 - **AppLoader.java** (+243, -104)
 - **ErrorDialog.java** (+48, -7)
@@ -41,10 +41,10 @@
 - **SystemTrayFX.java** (+38, -37)
 - **DesktopFX.java** (+79, -78)
 - **javafx-desktop.css** (+76, -75)
-- **JavaFXStartMenu.java** (+124, -0)
-- **JavaFXMenuItem.java** (+64, -4)
-- **JavaFXTaskbar.java** (+266, -0)
-- **TaskbarInterface.java** (+28, -0)
+- **JavaFXStartMenu.java** (+124, -123)
+- **JavaFXMenuItem.java** (+64, -63)
+- **JavaFXTaskbar.java** (+266, -265)
+- **TaskbarInterface.java** (+28, -27)
 
 ## Visualizations
 
@@ -53,7 +53,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 6244
+".java" : 6732
 ".json" : 388
 "unknown" : 71
 ".xml" : 397
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "06h" : 40
 "16h" : 36
 "17h" : 36
-"18h" : 2
+"18h" : 14
 ```
 
 
-> **Last Updated:** 25/02/2025, 18:07:46
+> **Last Updated:** 25/02/2025, 18:17:46
