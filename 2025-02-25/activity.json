@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 6237,
-      "totalLinesRemoved": 1228,
-      "totalActiveTime": 140,
+      "totalLinesAdded": 6254,
+      "totalLinesRemoved": 1232,
+      "totalActiveTime": 148,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
           {
@@ -1522,6 +1522,20 @@
             },
             "duration": 5,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T06:55:49.490Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXStartMenu.java",
+            "fileType": ".java",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXMenuItem.java": [
@@ -1537,6 +1551,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T06:54:29.314Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXMenuItem.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T06:54:31.642Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/JavaFXMenuItem.java",
+            "fileType": ".java",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ],
