@@ -2,9 +2,9 @@
   "date": "2025-02-26",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 3956,
-      "totalLinesRemoved": 83,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 4005,
+      "totalLinesRemoved": 84,
+      "totalActiveTime": 56,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
           {
@@ -306,6 +306,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-26T06:31:54.086Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/util/AppInstaller.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManager.java": [
@@ -379,6 +393,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-26T06:31:52.781Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManagerFX.java",
+            "fileType": ".java",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ],
@@ -469,6 +497,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-26T06:31:56.526Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/JavaFXApp.java",
+            "fileType": ".java",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-26T06:33:15.698Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/apps/JavaFXApp.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
