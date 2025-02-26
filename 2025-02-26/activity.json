@@ -2,9 +2,9 @@
   "date": "2025-02-26",
   "projects": {
     "MicrOS": {
-      "totalLinesAdded": 1396,
+      "totalLinesAdded": 1502,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 13,
+      "totalActiveTime": 21,
       "files": {
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java": [
           {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-26T06:07:12.394Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Main.java",
+            "fileType": ".java",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ],
@@ -184,6 +198,20 @@
             "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SplashScreen.java",
             "fileType": ".java",
             "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "MicrOS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-26T06:03:48.391Z",
+            "fileName": "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/ui/SplashScreen.java",
+            "fileType": ".java",
+            "linesAdded": 54,
             "linesRemoved": 0,
             "projectName": "MicrOS",
             "content": {
