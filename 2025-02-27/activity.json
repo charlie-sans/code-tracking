@@ -2,9 +2,9 @@
   "date": "2025-02-27",
   "projects": {
     "Konsole": {
-      "totalLinesAdded": 327,
+      "totalLinesAdded": 562,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 10,
       "files": {
         "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Konsole.java": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T05:23:49.473Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Konsole.java",
+            "fileType": ".java",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
@@ -52,6 +66,112 @@
             },
             "duration": 0,
             "language": "java"
+          }
+        ],
+        "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Theme.java": [
+          {
+            "timestamp": "2025-02-27T05:22:33.589Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Theme.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T05:23:11.414Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Theme.java",
+            "fileType": ".java",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/ThemeManager.java": [
+          {
+            "timestamp": "2025-02-27T05:23:05.887Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/ThemeManager.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T05:23:45.629Z",
+            "fileName": "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/ThemeManager.java",
+            "fileType": ".java",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/Konsole/build.gradle": [
+          {
+            "timestamp": "2025-02-27T05:23:30.624Z",
+            "fileName": "/media/cat/Konsole/build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-02-27T05:23:46.665Z",
+            "fileName": "/media/cat/Konsole/build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "/media/cat/Konsole/pom.xml": [
+          {
+            "timestamp": "2025-02-27T05:23:34.587Z",
+            "fileName": "/media/cat/Konsole/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },
