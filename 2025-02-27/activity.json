@@ -3,7 +3,7 @@
   "projects": {
     "Konsole": {
       "totalLinesAdded": 564,
-      "totalLinesRemoved": 2,
+      "totalLinesRemoved": 7,
       "totalActiveTime": 14,
       "files": {
         "/media/cat/Konsole/Konsole.app/Contents/src/org/finite/Konsole/Konsole.java": [
@@ -199,6 +199,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-02-27T05:40:44.158Z",
+            "fileName": "/media/cat/Konsole/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "Konsole",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "xml"
           }
         ]
