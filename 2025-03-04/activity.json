@@ -2,9 +2,9 @@
   "date": "2025-03-04",
   "projects": {
     "MASM": {
-      "totalLinesAdded": 26,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 94,
+      "totalLinesRemoved": 200,
+      "totalActiveTime": 203,
       "files": {
         "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java": [
           {
@@ -334,6 +334,42 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:14:44.161Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:15:41.334Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java": [
@@ -434,6 +470,2858 @@
             "projectName": "MASM",
             "content": {
               "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:14:44.099Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:15:41.306Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:05.837Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.004Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:05.912Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.160Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.122Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.087Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.046Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.369Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.332Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.296Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.268Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.230Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.191Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.667Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.635Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.605Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.573Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.538Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.499Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.448Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.406Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:06.702Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.508Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.540Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.583Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.620Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.708Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.671Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.798Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.738Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.920Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.879Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.839Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:09.129Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:09.084Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:09.049Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:09.013Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:08.969Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:09.971Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:10.007Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:10.057Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:11.827Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:11.869Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:11.918Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:11.958Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.083Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.116Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.160Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.242Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.200Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.351Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.320Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.278Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.537Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.499Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.467Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.428Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.388Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.002Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.966Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.938Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.899Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.862Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.806Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.753Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.715Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.663Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:12.582Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.517Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.488Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.456Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.419Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.385Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.353Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.318Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.281Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.246Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.209Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.172Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.134Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.093Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.051Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.611Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.573Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.546Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.512Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.470Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.437Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.398Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.366Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.334Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.293Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.230Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.173Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.103Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.036Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.998Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.964Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.926Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.886Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.844Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.801Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.763Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.717Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.670Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.622Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:13.574Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.064Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.028Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.984Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.933Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.898Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.859Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.826Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.783Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.748Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.725Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.694Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.661Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.625Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.591Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.560Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.530Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.501Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.471Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.439Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.404Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.373Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.332Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.300Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.265Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.232Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.188Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.148Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.116Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.083Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.050Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:15.025Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.995Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.968Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.939Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.909Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.880Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.849Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.814Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.790Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.757Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.713Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.673Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:14.637Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.366Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.313Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.262Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.208Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.175Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.137Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.728Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.685Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.656Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.631Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.604Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.572Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.533Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.480Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.426Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.866Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.816Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.778Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:16.908Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:31.448Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:33.095Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 33,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "import java.io.IOException;",
+                "import java.util.HashSet;",
+                "import java.util.Set;",
+                "scanAndRegisterInternalModules();",
+                "",
+                "private static void scanAndRegisterInternalModules() throws IOException, ClassNotFoundException {",
+                "logger.info(\"Scanning for internal MNI modules\");",
+                "Set<Class<?>> mniClasses = new HashSet<>();",
+                "String classpath = System.getProperty(\"java.class.path\");",
+                "String[] classpathEntries = classpath.split(System.getProperty(\"path.separator\"));",
+                "",
+                "for (String entry : classpathEntries) {",
+                "if (entry.endsWith(\".jar\")) {",
+                "try (JarFile jarFile = new JarFile(entry)) {",
+                "Enumeration<JarEntry> entries = jarFile.entries();",
+                "while (entries.hasMoreElements()) {",
+                "JarEntry jarEntry = entries.nextElement();",
+                "if (jarEntry.getName().endsWith(\".class\")) {",
+                "String className = jarEntry.getName().replace('/', '.').replace(\".class\", \"\");",
+                "Class<?> clazz = Class.forName(className);",
+                "if (clazz.isAnnotationPresent(MNIClass.class)) {",
+                "mniClasses.add(clazz);",
+                "}",
+                "}",
+                "}",
+                "}",
+                "}",
+                "}",
+                "",
+                "for (Class<?> mniClass : mniClasses) {",
+                "registerClassMethods(\"internal\", mniClass);",
+                "}",
+                "}"
+              ],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:16:33.145Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 33,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "import java.io.IOException;",
+                "import java.util.HashSet;",
+                "import java.util.Set;",
+                "scanAndRegisterInternalModules();",
+                "",
+                "private static void scanAndRegisterInternalModules() throws IOException, ClassNotFoundException {",
+                "logger.info(\"Scanning for internal MNI modules\");",
+                "Set<Class<?>> mniClasses = new HashSet<>();",
+                "String classpath = System.getProperty(\"java.class.path\");",
+                "String[] classpathEntries = classpath.split(System.getProperty(\"path.separator\"));",
+                "",
+                "for (String entry : classpathEntries) {",
+                "if (entry.endsWith(\".jar\")) {",
+                "try (JarFile jarFile = new JarFile(entry)) {",
+                "Enumeration<JarEntry> entries = jarFile.entries();",
+                "while (entries.hasMoreElements()) {",
+                "JarEntry jarEntry = entries.nextElement();",
+                "if (jarEntry.getName().endsWith(\".class\")) {",
+                "String className = jarEntry.getName().replace('/', '.').replace(\".class\", \"\");",
+                "Class<?> clazz = Class.forName(className);",
+                "if (clazz.isAnnotationPresent(MNIClass.class)) {",
+                "mniClasses.add(clazz);",
+                "}",
+                "}",
+                "}",
+                "}",
+                "}",
+                "}",
+                "",
+                "for (Class<?> mniClass : mniClasses) {",
+                "registerClassMethods(\"internal\", mniClass);",
+                "}",
+                "}"
+              ],
               "removed": [
                 "import org.finite.ModuleManager.examples.WindowModule;"
               ]
