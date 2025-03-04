@@ -3376,6 +3376,61 @@
         "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java"
       ],
       "averageChangeSize": 2.0833333333333335
+    },
+    "MacroEditor": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 1,
+      "files": {
+        "/home/charlie/StudioProjects/MacroEditor/gradle/libs.versions.toml": [
+          {
+            "timestamp": "2025-03-04T02:16:04.732Z",
+            "fileName": "/home/charlie/StudioProjects/MacroEditor/gradle/libs.versions.toml",
+            "fileType": ".toml",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MacroEditor",
+            "content": {
+              "added": [
+                "agp = \"8.8.2\""
+              ],
+              "removed": [
+                "agp = \"8.10.0-alpha07\""
+              ]
+            },
+            "duration": 0,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-03-04T02:16:04.968Z",
+            "fileName": "/home/charlie/StudioProjects/MacroEditor/gradle/libs.versions.toml",
+            "fileType": ".toml",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MacroEditor",
+            "content": {
+              "added": [
+                "agp = \"8.8.2\""
+              ],
+              "removed": [
+                "agp = \"8.10.0-alpha07\""
+              ]
+            },
+            "duration": 1,
+            "language": "toml"
+          }
+        ]
+      },
+      "languageStats": {
+        "toml": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "/home/charlie/StudioProjects/MacroEditor/gradle/libs.versions.toml"
+      ],
+      "averageChangeSize": 2
     }
   },
   "totalActiveTime": 23,
