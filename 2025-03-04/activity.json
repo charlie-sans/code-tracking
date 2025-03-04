@@ -1,0 +1,468 @@
+{
+  "date": "2025-03-04",
+  "projects": {
+    "MASM": {
+      "totalLinesAdded": 26,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 23,
+      "files": {
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java": [
+          {
+            "timestamp": "2025-03-04T01:12:03.063Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE:"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:03.128Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE:"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:03.905Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE:"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:03.976Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE:"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:04.428Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:04.503Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:05.850Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:05.942Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:06.523Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:06.583Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:07.125Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:07.184Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:07.664Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject",
+                "import org.finite.ModuleManager.MNIMethodObject;"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:07.756Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject",
+                "import org.finite.ModuleManager.MNIMethodObject;"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:08.955Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject",
+                "import org.finite.ModuleManager.MNIMethodObject;"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:09.032Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject",
+                "import org.finite.ModuleManager.MNIMethodObject;"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:09.318Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:09.408Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                "// DONE: Add import for MNIMethodObject"
+              ],
+              "removed": [
+                "//TODO: make this actualy a thing that people can use."
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java": [
+          {
+            "timestamp": "2025-03-04T01:12:18.454Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                ""
+              ],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:18.516Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                ""
+              ],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:21.207Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                ""
+              ],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:21.266Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [
+                ""
+              ],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:21.668Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-04T01:12:21.809Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": [
+                "import org.finite.ModuleManager.examples.WindowModule;"
+              ]
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 23
+      },
+      "changeFrequency": {
+        "12": 23
+      },
+      "topFiles": [
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleRegistry.java",
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java"
+      ],
+      "averageChangeSize": 2.0833333333333335
+    }
+  },
+  "totalActiveTime": 23,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
