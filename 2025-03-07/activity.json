@@ -2,9 +2,9 @@
   "date": "2025-03-07",
   "projects": {
     "MacroEditor": {
-      "totalLinesAdded": 18,
+      "totalLinesAdded": 63,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 6,
       "files": {
         "/home/charlie/StudioProjects/MacroEditor/app/src/main/res/layout/fragment_slideshow.xml": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-07T05:41:44.084Z",
+            "fileName": "/home/charlie/StudioProjects/MacroEditor/app/src/main/res/layout/fragment_slideshow.xml",
+            "fileType": ".xml",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "MacroEditor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-07T05:42:29.015Z",
+            "fileName": "/home/charlie/StudioProjects/MacroEditor/app/src/main/res/layout/fragment_slideshow.xml",
+            "fileType": ".xml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MacroEditor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "xml"
           }
         ]
