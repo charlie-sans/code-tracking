@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-07",
+  "projects": {
+    "MacroEditor": {
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/home/charlie/StudioProjects/MacroEditor/app/src/main/res/layout/fragment_slideshow.xml": [
+          {
+            "timestamp": "2025-03-07T05:37:12.819Z",
+            "fileName": "/home/charlie/StudioProjects/MacroEditor/app/src/main/res/layout/fragment_slideshow.xml",
+            "fileType": ".xml",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MacroEditor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/home/charlie/StudioProjects/MacroEditor/app/src/main/res/layout/fragment_slideshow.xml"
+      ],
+      "averageChangeSize": 18
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "xml"
+  ]
+}
