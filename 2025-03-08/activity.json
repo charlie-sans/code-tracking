@@ -1,0 +1,316 @@
+{
+  "date": "2025-03-08",
+  "projects": {
+    "MASM": {
+      "totalLinesAdded": 2847,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/media/cat/MASM/src/main/java/org/finite/Functions.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.422Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 966,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/finite/Modules/extentions/IO.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.399Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/Modules/extentions/IO.java",
+            "fileType": ".java",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/test/java/org/finite/FunctionsTest.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.383Z",
+            "fileName": "/media/cat/MASM/src/test/java/org/finite/FunctionsTest.java",
+            "fileType": ".java",
+            "linesAdded": 483,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/MNIMethodObject.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.365Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/MNIMethodObject.java",
+            "fileType": ".java",
+            "linesAdded": 195,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/finite/interp.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.349Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 589,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.303Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/src/main/java/org/finite/Main.java": [
+          {
+            "timestamp": "2025-03-08T06:21:53.281Z",
+            "fileName": "/media/cat/MASM/src/main/java/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/MASM/pom.xml": [
+          {
+            "timestamp": "2025-03-08T06:21:53.261Z",
+            "fileName": "/media/cat/MASM/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 357,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0,
+        "xml": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/media/cat/MASM/src/main/java/org/finite/Functions.java",
+        "/media/cat/MASM/src/main/java/org/finite/Modules/extentions/IO.java",
+        "/media/cat/MASM/src/test/java/org/finite/FunctionsTest.java",
+        "/media/cat/MASM/src/main/java/org/finite/ModuleManager/MNIMethodObject.java",
+        "/media/cat/MASM/src/main/java/org/finite/interp.java"
+      ],
+      "averageChangeSize": 355.875
+    },
+    "jmasm": {
+      "totalLinesAdded": 2813,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/media/cat/jmasm/src/test/java/org/finite/FunctionsTest.java": [
+          {
+            "timestamp": "2025-03-08T06:24:11.965Z",
+            "fileName": "/media/cat/jmasm/src/test/java/org/finite/FunctionsTest.java",
+            "fileType": ".java",
+            "linesAdded": 483,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/MNIMethodObject.java": [
+          {
+            "timestamp": "2025-03-08T06:24:11.908Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/MNIMethodObject.java",
+            "fileType": ".java",
+            "linesAdded": 195,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/ModuleInit.java": [
+          {
+            "timestamp": "2025-03-08T06:24:11.926Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/interp.java": [
+          {
+            "timestamp": "2025-03-08T06:24:11.949Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 589,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/Main.java": [
+          {
+            "timestamp": "2025-03-08T06:24:11.891Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/pom.xml": [
+          {
+            "timestamp": "2025-03-08T06:24:11.847Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 357,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/Functions.java": [
+          {
+            "timestamp": "2025-03-08T06:24:11.874Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 966,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/.vscode/settings.json": [
+          {
+            "timestamp": "2025-03-08T06:24:15.798Z",
+            "fileName": "/media/cat/jmasm/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0,
+        "xml": 0,
+        "json": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "/media/cat/jmasm/src/test/java/org/finite/FunctionsTest.java",
+        "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/MNIMethodObject.java",
+        "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+        "/media/cat/jmasm/src/main/java/org/finite/interp.java",
+        "/media/cat/jmasm/src/main/java/org/finite/Main.java"
+      ],
+      "averageChangeSize": 351.625
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 8,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "java",
+    "xml"
+  ]
+}
