@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3044                                          |
-| **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 3024                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 3048                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 3026                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
@@ -16,10 +16,11 @@
 - **pom.xml** (+375, -18)
 - **FunctionsTest.java** (+484, -1)
 - **ModuleInit.java** (+139, -0)
-- **interp.java** (+589, -0)
+- **interp.java** (+589, -2)
 - **MNIMethodObject.java** (+195, -0)
 - **Main.java** (+81, -0)
 - **Functions.java** (+966, -0)
+- **start.sh** (+4, -0)
 
 ## Visualizations
 
@@ -28,8 +29,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2671
+".java" : 2673
 ".xml" : 393
+".sh" : 4
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +39,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 13
+"17h" : 15
 ```
 
 
-> **Last Updated:** 09/03/2025, 17:20:06
+> **Last Updated:** 09/03/2025, 17:25:06
