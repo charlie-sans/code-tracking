@@ -168,9 +168,9 @@
       "averageChangeSize": 18.857142857142858
     },
     "jmasm": {
-      "totalLinesAdded": 357,
+      "totalLinesAdded": 364,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "/media/cat/jmasm/pom.xml": [
           {
@@ -186,6 +186,22 @@
             },
             "duration": 0,
             "language": "xml"
+          }
+        ],
+        "/media/cat/jmasm/msrc/main.masm": [
+          {
+            "timestamp": "2025-03-11T06:20:12.608Z",
+            "fileName": "/media/cat/jmasm/msrc/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "masm"
           }
         ]
       },
