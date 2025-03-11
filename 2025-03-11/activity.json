@@ -168,9 +168,9 @@
       "averageChangeSize": 18.857142857142858
     },
     "jmasm": {
-      "totalLinesAdded": 632,
+      "totalLinesAdded": 634,
       "totalLinesRemoved": 241,
-      "totalActiveTime": 9,
+      "totalActiveTime": 14,
       "files": {
         "/media/cat/jmasm/pom.xml": [
           {
@@ -262,6 +262,34 @@
             "fileName": "/media/cat/jmasm/pom.xml",
             "fileType": ".xml",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:36:28.392Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:36:34.635Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "jmasm",
             "content": {
