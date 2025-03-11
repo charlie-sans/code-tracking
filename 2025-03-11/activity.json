@@ -168,9 +168,9 @@
       "averageChangeSize": 18.857142857142858
     },
     "jmasm": {
-      "totalLinesAdded": 2421,
-      "totalLinesRemoved": 246,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 2438,
+      "totalLinesRemoved": 250,
+      "totalActiveTime": 36,
       "files": {
         "/media/cat/jmasm/pom.xml": [
           {
@@ -473,6 +473,118 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:24:42.884Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:24:51.740Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:24:53.136Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:25:37.174Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:25:42.211Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:26:59.259Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:27:25.836Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T09:28:33.636Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
