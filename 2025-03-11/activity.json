@@ -166,6 +166,39 @@
         "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json"
       ],
       "averageChangeSize": 18.857142857142858
+    },
+    "jmasm": {
+      "totalLinesAdded": 357,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/media/cat/jmasm/pom.xml": [
+          {
+            "timestamp": "2025-03-11T06:16:53.403Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 357,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/media/cat/jmasm/pom.xml"
+      ],
+      "averageChangeSize": 357
     }
   },
   "totalActiveTime": 0,
