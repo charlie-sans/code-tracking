@@ -2,7 +2,7 @@
   "date": "2025-03-11",
   "projects": {
     "finite.vercel.app": {
-      "totalLinesAdded": 168,
+      "totalLinesAdded": 216,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/home/charlie/git/finite.vercel.app/src/components/docs/DocMetadata.jsx": [
+          {
+            "timestamp": "2025-03-11T03:41:47.239Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/components/docs/DocMetadata.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ]
       },
