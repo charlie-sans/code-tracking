@@ -463,6 +463,196 @@
         "/media/cat/MicrOS/src/main/java/org/Finite/MicrOS/Files/FileManagerFX.java"
       ],
       "averageChangeSize": 205.75
+    },
+    "Mylighter-uhigh": {
+      "totalLinesAdded": 219,
+      "totalLinesRemoved": 72,
+      "totalActiveTime": 13,
+      "files": {
+        "/home/charlie/git/Mylighter-uhigh/package.json": [
+          {
+            "timestamp": "2025-03-11T07:01:25.328Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/package.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json": [
+          {
+            "timestamp": "2025-03-11T07:03:06.885Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:03:13.120Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:04:15.715Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:04:50.787Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:04:52.962Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:05:01.094Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:05:37.127Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:05:53.491Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:05:58.992Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:06:11.273Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:06:24.422Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 13
+      },
+      "changeFrequency": {
+        "18": 13
+      },
+      "topFiles": [
+        "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+        "/home/charlie/git/Mylighter-uhigh/package.json"
+      ],
+      "averageChangeSize": 24.25
     }
   },
   "totalActiveTime": 0,
