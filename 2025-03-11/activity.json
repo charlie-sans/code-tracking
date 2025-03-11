@@ -466,8 +466,8 @@
     },
     "Mylighter-uhigh": {
       "totalLinesAdded": 219,
-      "totalLinesRemoved": 72,
-      "totalActiveTime": 13,
+      "totalLinesRemoved": 86,
+      "totalActiveTime": 14,
       "files": {
         "/home/charlie/git/Mylighter-uhigh/package.json": [
           {
@@ -632,6 +632,20 @@
             "fileType": ".json",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T07:06:27.847Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/syntaxes/uhigh.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "Mylighter-uhigh",
             "content": {
               "added": [],

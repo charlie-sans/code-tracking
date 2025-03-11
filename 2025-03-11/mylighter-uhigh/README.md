@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 219                                          |
-| **Lines Removed** (➖) | 72                                        |
-| **Net Change** (↕)    | 147                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Lines Removed** (➖) | 86                                        |
+| **Net Change** (↕)    | 133                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
 - **package.json** (+26, -0)
-- **uhigh.tmLanguage.json** (+193, -72)
+- **uhigh.tmLanguage.json** (+193, -86)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 291
+".json" : 305
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"18h" : 12
+"18h" : 13
 ```
 
 
-> **Last Updated:** 11/03/2025, 18:06:25
+> **Last Updated:** 11/03/2025, 18:11:25
