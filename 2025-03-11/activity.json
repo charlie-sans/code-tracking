@@ -168,9 +168,9 @@
       "averageChangeSize": 18.857142857142858
     },
     "jmasm": {
-      "totalLinesAdded": 364,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 632,
+      "totalLinesRemoved": 241,
+      "totalActiveTime": 9,
       "files": {
         "/media/cat/jmasm/pom.xml": [
           {
@@ -185,6 +185,90 @@
               "removed": []
             },
             "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:31:06.203Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 238,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:31:42.043Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 238,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:32:10.905Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:32:26.490Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:32:27.024Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-03-11T06:32:51.236Z",
+            "fileName": "/media/cat/jmasm/pom.xml",
+            "fileType": ".xml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "xml"
           }
         ],
