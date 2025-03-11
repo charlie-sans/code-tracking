@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2438                                          |
+| **Lines Added** (➕)   | 2582                                          |
 | **Lines Removed** (➖) | 260                                        |
-| **Net Change** (↕)    | 2178                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Net Change** (↕)    | 2322                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,8 @@
 - **masm.js** (+1355, -0)
 - **PythonIntergrations.java** (+47, -10)
 - **common.java** (+399, -6)
+- **Main.java** (+89, -0)
+- **ArgumentParser.java** (+55, -0)
 
 ## Visualizations
 
@@ -27,7 +29,7 @@ title Lines changed by file type
 ".xml" : 874
 ".masm" : 7
 ".js" : 1355
-".java" : 462
+".java" : 606
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 14
-"20h" : 17
+"20h" : 23
 ```
 
 
-> **Last Updated:** 11/03/2025, 20:34:40
+> **Last Updated:** 11/03/2025, 20:39:40
