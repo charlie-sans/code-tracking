@@ -465,7 +465,7 @@
       "averageChangeSize": 205.75
     },
     "Mylighter-uhigh": {
-      "totalLinesAdded": 219,
+      "totalLinesAdded": 221,
       "totalLinesRemoved": 86,
       "totalActiveTime": 14,
       "files": {
@@ -653,6 +653,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/home/charlie/git/Mylighter-uhigh/.gitignore": [
+          {
+            "timestamp": "2025-03-11T07:11:48.761Z",
+            "fileName": "/home/charlie/git/Mylighter-uhigh/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Mylighter-uhigh",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
