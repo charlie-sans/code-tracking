@@ -49,6 +49,123 @@
         "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js"
       ],
       "averageChangeSize": 168
+    },
+    "MASM": {
+      "totalLinesAdded": 131,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 7,
+      "files": {
+        "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json": [
+          {
+            "timestamp": "2025-03-11T05:20:19.889Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T05:20:50.849Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T05:21:58.749Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T05:22:35.385Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T05:22:42.961Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T05:23:11.646Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T05:23:20.359Z",
+            "fileName": "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json",
+            "fileType": ".json",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "MASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 7
+      },
+      "changeFrequency": {
+        "16": 7
+      },
+      "topFiles": [
+        "/home/charlie/git/MASM/syntaxes/masm.tmLanguage.json"
+      ],
+      "averageChangeSize": 18.857142857142858
     }
   },
   "totalActiveTime": 0,
