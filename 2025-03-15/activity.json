@@ -2,9 +2,9 @@
   "date": "2025-03-15",
   "projects": {
     "SharpMASM": {
-      "totalLinesAdded": 471,
+      "totalLinesAdded": 875,
       "totalLinesRemoved": 47,
-      "totalActiveTime": 14,
+      "totalActiveTime": 23,
       "files": {
         "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs": [
           {
@@ -119,6 +119,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T03:15:52.955Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ],
@@ -238,6 +252,66 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T03:15:49.059Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json": [
+          {
+            "timestamp": "2025-03-15T03:16:14.870Z",
+            "fileName": "c:\\Users\\GAMER\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 379,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\main.masm": [
+          {
+            "timestamp": "2025-03-15T03:17:23.262Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\main.masm",
+            "fileType": ".masm",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-03-15T03:17:46.969Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\main.masm",
+            "fileType": ".masm",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ]
       },
