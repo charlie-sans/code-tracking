@@ -2,9 +2,9 @@
   "date": "2025-03-15",
   "projects": {
     "SharpMASM": {
-      "totalLinesAdded": 321,
+      "totalLinesAdded": 471,
       "totalLinesRemoved": 47,
-      "totalActiveTime": 12,
+      "totalActiveTime": 14,
       "files": {
         "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs": [
           {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T03:11:53.439Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs",
+            "fileType": ".cs",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],
@@ -150,6 +164,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T03:11:53.405Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Interp.cs",
+            "fileType": ".cs",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
           }
         ],
         "d:\\SharpMasm\\SharpMASM\\Core\\Exceptions\\MASMException.cs": [
@@ -172,6 +200,36 @@
             "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Exceptions\\MASMException.cs",
             "fileType": ".cs",
             "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\Program.cs": [
+          {
+            "timestamp": "2025-03-15T03:11:57.907Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T03:12:22.477Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 43,
             "linesRemoved": 0,
             "projectName": "SharpMASM",
             "content": {
