@@ -1,0 +1,210 @@
+{
+  "date": "2025-03-15",
+  "projects": {
+    "SharpMASM": {
+      "totalLinesAdded": 321,
+      "totalLinesRemoved": 47,
+      "totalActiveTime": 12,
+      "files": {
+        "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs": [
+          {
+            "timestamp": "2025-03-15T02:25:34.749Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:19.690Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs",
+            "fileType": ".cs",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:46.152Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs": [
+          {
+            "timestamp": "2025-03-15T02:25:35.728Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:18.631Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:45.422Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:28:28.972Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\Core\\Interp.cs": [
+          {
+            "timestamp": "2025-03-15T02:25:38.943Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Interp.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:19.293Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Interp.cs",
+            "fileType": ".cs",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:46.614Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Interp.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\Core\\Exceptions\\MASMException.cs": [
+          {
+            "timestamp": "2025-03-15T02:26:13.945Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Exceptions\\MASMException.cs",
+            "fileType": ".cs",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-15T02:26:15.981Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Core\\Exceptions\\MASMException.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 12
+      },
+      "changeFrequency": {
+        "13": 12
+      },
+      "topFiles": [
+        "d:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+        "d:\\SharpMasm\\SharpMASM\\Core\\Includemanager.cs",
+        "d:\\SharpMasm\\SharpMASM\\Core\\Interp.cs",
+        "d:\\SharpMasm\\SharpMASM\\Core\\Exceptions\\MASMException.cs"
+      ],
+      "averageChangeSize": 30.666666666666668
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
