@@ -1,0 +1,78 @@
+{
+  "date": "2025-03-17",
+  "projects": {
+    "SharpMASM": {
+      "totalLinesAdded": 280,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs": [
+          {
+            "timestamp": "2025-03-16T17:04:22.639Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
+            "fileType": ".cs",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-16T17:04:36.671Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
+            "fileType": ".cs",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "e:\\SharpMasm\\SharpMASM\\Program.cs": [
+          {
+            "timestamp": "2025-03-16T17:04:27.856Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 2
+      },
+      "changeFrequency": {
+        "4": 2
+      },
+      "topFiles": [
+        "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
+        "e:\\SharpMasm\\SharpMASM\\Program.cs"
+      ],
+      "averageChangeSize": 93.33333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    4
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
