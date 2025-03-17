@@ -2,7 +2,7 @@
   "date": "2025-03-17",
   "projects": {
     "SharpMASM": {
-      "totalLinesAdded": 6223,
+      "totalLinesAdded": 6233,
       "totalLinesRemoved": 276,
       "totalActiveTime": 130,
       "files": {
@@ -548,6 +548,20 @@
             "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
             "fileType": ".cs",
             "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T10:01:59.399Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "SharpMASM",
             "content": {
