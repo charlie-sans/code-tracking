@@ -3,8 +3,8 @@
   "projects": {
     "SharpMASM": {
       "totalLinesAdded": 5208,
-      "totalLinesRemoved": 22,
-      "totalActiveTime": 63,
+      "totalLinesRemoved": 27,
+      "totalActiveTime": 67,
       "files": {
         "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs": [
           {
@@ -403,6 +403,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T08:43:38.566Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\Functions.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "cs"
           }
         ],
