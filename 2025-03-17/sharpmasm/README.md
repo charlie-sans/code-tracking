@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 6130                                          |
-| **Lines Removed** (➖) | 248                                        |
-| **Net Change** (↕)    | 5882                |
-| **Active Time** (⌚)   | 125 minutes |
+| **Lines Removed** (➖) | 276                                        |
+| **Net Change** (↕)    | 5854                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
 - **instructions.cs** (+1144, -20)
 - **Program.cs** (+474, -5)
-- **Parsing.cs** (+1417, -192)
+- **Parsing.cs** (+1417, -220)
 - **Functions.cs** (+2213, -25)
 - **test_labels.masm** (+75, -0)
 - **test_counter.masm** (+58, -0)
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 6245
+".cs" : 6273
 ".masm" : 133
 ```
 
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "15h" : 12
 "16h" : 5
 "19h" : 16
-"20h" : 22
+"20h" : 23
 ```
 
 
-> **Last Updated:** 3/17/2025, 8:41:06 PM
+> **Last Updated:** 3/17/2025, 8:46:06 PM
