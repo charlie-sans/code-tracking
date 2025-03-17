@@ -2,9 +2,9 @@
   "date": "2025-03-17",
   "projects": {
     "SharpMASM": {
-      "totalLinesAdded": 1483,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 2187,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 23,
       "files": {
         "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs": [
           {
@@ -40,6 +40,48 @@
             "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
             "fileType": ".cs",
             "linesAdded": 218,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T04:40:28.585Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
+            "fileType": ".cs",
+            "linesAdded": 350,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T04:40:29.355Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T04:40:37.456Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\instructions.cs",
+            "fileType": ".cs",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "SharpMASM",
             "content": {
@@ -86,6 +128,34 @@
             "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
             "fileType": ".cs",
             "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T04:40:22.887Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 308,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-17T04:40:30.120Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\Core\\Parsing.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "SharpMASM",
             "content": {
@@ -153,6 +223,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-03-17T04:36:16.591Z",
+            "fileName": "e:\\SharpMasm\\SharpMASM\\test_labels.masm",
+            "fileType": ".masm",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "masm"
           }
         ]
