@@ -547,6 +547,150 @@
         "/media/cat/SharpMasm/SharpMASM/Parsing.cs"
       ],
       "averageChangeSize": 122
+    },
+    "jmasm": {
+      "totalLinesAdded": 1165,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 10,
+      "files": {
+        "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedManager.java": [
+          {
+            "timestamp": "2025-03-18T12:14:22.814Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedManager.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-18T12:18:18.823Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedManager.java",
+            "fileType": ".java",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/Config/MASMConfig.java": [
+          {
+            "timestamp": "2025-03-18T12:14:34.341Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Config/MASMConfig.java",
+            "fileType": ".java",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/common.java": [
+          {
+            "timestamp": "2025-03-18T12:14:48.926Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 396,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-18T12:18:25.127Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/resources/masm.properties": [
+          {
+            "timestamp": "2025-03-18T12:14:54.419Z",
+            "fileName": "/media/cat/jmasm/src/main/resources/masm.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-03-18T12:18:21.907Z",
+            "fileName": "/media/cat/jmasm/src/main/resources/masm.properties",
+            "fileType": ".properties",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/interp.java": [
+          {
+            "timestamp": "2025-03-18T12:16:14.400Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/interp.java",
+            "fileType": ".java",
+            "linesAdded": 592,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 8,
+        "properties": 2
+      },
+      "changeFrequency": {
+        "23": 10
+      },
+      "topFiles": [
+        "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedManager.java",
+        "/media/cat/jmasm/src/main/java/org/finite/common.java",
+        "/media/cat/jmasm/src/main/resources/masm.properties",
+        "/media/cat/jmasm/src/main/java/org/finite/Config/MASMConfig.java",
+        "/media/cat/jmasm/src/main/java/org/finite/interp.java"
+      ],
+      "averageChangeSize": 145.625
     }
   },
   "totalActiveTime": 2,
