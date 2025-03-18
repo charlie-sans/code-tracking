@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2044                                          |
-| **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 2024                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 2570                                          |
+| **Lines Removed** (➖) | 24                                        |
+| **Net Change** (↕)    | 2546                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
@@ -16,12 +16,13 @@
 - **Functions.cs** (+773, -5)
 - **MNICore.cs** (+163, -0)
 - **MNIModuleManager.cs** (+160, -0)
-- **StringOperationsModule.cs** (+88, -0)
+- **StringOperationsModule.cs** (+90, -0)
 - **IOModule.cs** (+47, -0)
-- **Common.cs** (+169, -0)
+- **Common.cs** (+173, -0)
 - **MappedMemory.cs** (+282, -8)
-- **FileOperationsModule.cs** (+1, -0)
-- **mni-example.masm** (+1, -0)
+- **FileOperationsModule.cs** (+82, -0)
+- **mni-example.masm** (+42, -0)
+- **instructions.cs** (+398, -4)
 
 ## Visualizations
 
@@ -30,8 +31,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".masm" : 16
-".cs" : 2048
+".masm" : 57
+".cs" : 2537
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "21h" : 3
 "22h" : 25
-"23h" : 1
+"23h" : 8
 ```
 
 
-> **Last Updated:** 18/03/2025, 23:02:18
+> **Last Updated:** 18/03/2025, 23:06:44
