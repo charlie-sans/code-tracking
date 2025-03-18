@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4270                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 4270                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Lines Added** (➕)   | 4276                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 4271                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **masm.properties** (+12, -0)
 - **interp.java** (+1184, -0)
 - **Functions.java** (+1940, -0)
+- **MemoryMappedFileManager.java** (+6, -5)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 4258
+".java" : 4269
 ".properties" : 12
 ```
 
@@ -34,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"23h" : 15
+"23h" : 18
 ```
 
 
-> **Last Updated:** 18/03/2025, 23:39:19
+> **Last Updated:** 18/03/2025, 23:44:34

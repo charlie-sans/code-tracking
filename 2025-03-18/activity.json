@@ -549,9 +549,9 @@
       "averageChangeSize": 122
     },
     "jmasm": {
-      "totalLinesAdded": 4270,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 4276,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 17,
       "files": {
         "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedManager.java": [
           {
@@ -772,6 +772,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedFileManager.java": [
+          {
+            "timestamp": "2025-03-18T12:42:37.121Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedFileManager.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-18T12:42:42.456Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedFileManager.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-18T12:43:07.396Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Memory/MemoryMappedFileManager.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
