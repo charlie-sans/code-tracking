@@ -142,9 +142,9 @@
       "averageChangeSize": 447.5
     },
     "SharpMASM": {
-      "totalLinesAdded": 530,
+      "totalLinesAdded": 786,
       "totalLinesRemoved": 161,
-      "totalActiveTime": 18,
+      "totalActiveTime": 25,
       "files": {
         "d:\\SharpMasm\\SharpMASM\\Program.cs": [
           {
@@ -346,6 +346,52 @@
             },
             "duration": 1,
             "language": "masm"
+          },
+          {
+            "timestamp": "2025-03-18T14:51:42.663Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\examples\\mni-example.masm",
+            "fileType": ".masm",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\Common.cs": [
+          {
+            "timestamp": "2025-03-18T14:51:11.869Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Common.cs",
+            "fileType": ".cs",
+            "linesAdded": 173,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\MNI\\Modules\\FileOperationsModule.cs": [
+          {
+            "timestamp": "2025-03-18T14:53:27.361Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\MNI\\Modules\\FileOperationsModule.cs",
+            "fileType": ".cs",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
           }
         ]
       },
