@@ -142,9 +142,9 @@
       "averageChangeSize": 447.5
     },
     "SharpMASM": {
-      "totalLinesAdded": 341,
+      "totalLinesAdded": 530,
       "totalLinesRemoved": 161,
-      "totalActiveTime": 11,
+      "totalActiveTime": 18,
       "files": {
         "d:\\SharpMasm\\SharpMASM\\Program.cs": [
           {
@@ -201,6 +201,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:43:34.407Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 129,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:43:50.074Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ],
@@ -288,6 +316,36 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\examples\\mni-example.masm": [
+          {
+            "timestamp": "2025-03-18T14:48:01.851Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\examples\\mni-example.masm",
+            "fileType": ".masm",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-03-18T14:48:07.210Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\examples\\mni-example.masm",
+            "fileType": ".masm",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ]
       },
