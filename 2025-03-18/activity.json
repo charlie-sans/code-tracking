@@ -2,9 +2,9 @@
   "date": "2025-03-18",
   "projects": {
     "SharpMASM": {
-      "totalLinesAdded": 1124,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 2042,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 36,
       "files": {
         "/media/cat/SharpMasm/SharpMASM/main.masm": [
           {
@@ -178,6 +178,20 @@
             },
             "duration": 2,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:51:39.136Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/Functions.cs",
+            "fileType": ".cs",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "/media/cat/SharpMasm/SharpMASM/MNI/MNICore.cs": [
@@ -193,6 +207,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:50:42.115Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MNI/MNICore.cs",
+            "fileType": ".cs",
+            "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "cs"
           }
         ],
@@ -210,6 +238,34 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:51:40.983Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MNI/MNIModuleManager.cs",
+            "fileType": ".cs",
+            "linesAdded": 155,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:56:51.837Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MNI/MNIModuleManager.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
           }
         ],
         "/media/cat/SharpMasm/SharpMASM/MNI/Modules/StringOperationsModule.cs": [
@@ -218,6 +274,20 @@
             "fileName": "/media/cat/SharpMasm/SharpMASM/MNI/Modules/StringOperationsModule.cs",
             "fileType": ".cs",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:51:41.803Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MNI/Modules/StringOperationsModule.cs",
+            "fileType": ".cs",
+            "linesAdded": 87,
             "linesRemoved": 0,
             "projectName": "SharpMASM",
             "content": {
@@ -235,6 +305,94 @@
             "fileType": ".cs",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:51:39.548Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MNI/Modules/IOModule.cs",
+            "fileType": ".cs",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "/media/cat/SharpMasm/SharpMASM/Common.cs": [
+          {
+            "timestamp": "2025-03-18T11:47:55.343Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/Common.cs",
+            "fileType": ".cs",
+            "linesAdded": 169,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "/media/cat/SharpMasm/SharpMASM/MappedMemory.cs": [
+          {
+            "timestamp": "2025-03-18T11:50:53.066Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MappedMemory.cs",
+            "fileType": ".cs",
+            "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:51:03.752Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MappedMemory.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:51:07.190Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MappedMemory.cs",
+            "fileType": ".cs",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T11:52:04.107Z",
+            "fileName": "/media/cat/SharpMasm/SharpMASM/MappedMemory.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "SharpMASM",
             "content": {
               "added": [],
