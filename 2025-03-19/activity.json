@@ -140,6 +140,56 @@
         "/media/cat/jmasm/src/main/java/org/finite/interp.java"
       ],
       "averageChangeSize": 447.5
+    },
+    "SharpMASM": {
+      "totalLinesAdded": 194,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "d:\\SharpMasm\\SharpMASM\\Program.cs": [
+          {
+            "timestamp": "2025-03-18T14:28:26.228Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 143,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ],
+        "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs": [
+          {
+            "timestamp": "2025-03-18T14:28:32.970Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs",
+            "fileType": ".cs",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 1
+      },
+      "changeFrequency": {
+        "1": 1
+      },
+      "topFiles": [
+        "d:\\SharpMasm\\SharpMASM\\Program.cs",
+        "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs"
+      ],
+      "averageChangeSize": 97
     }
   },
   "totalActiveTime": 3,
