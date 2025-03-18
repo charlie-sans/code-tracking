@@ -549,7 +549,7 @@
       "averageChangeSize": 122
     },
     "jmasm": {
-      "totalLinesAdded": 4285,
+      "totalLinesAdded": 4500,
       "totalLinesRemoved": 5,
       "totalActiveTime": 17,
       "files": {
@@ -830,6 +830,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/debug.java": [
+          {
+            "timestamp": "2025-03-18T12:54:25.420Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/debug.java",
+            "fileType": ".java",
+            "linesAdded": 215,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
