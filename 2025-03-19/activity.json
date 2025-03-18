@@ -142,9 +142,9 @@
       "averageChangeSize": 447.5
     },
     "SharpMASM": {
-      "totalLinesAdded": 194,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 341,
+      "totalLinesRemoved": 161,
+      "totalActiveTime": 11,
       "files": {
         "d:\\SharpMasm\\SharpMASM\\Program.cs": [
           {
@@ -160,6 +160,48 @@
             },
             "duration": 0,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:29:14.380Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:30:30.608Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 54,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:32:06.986Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
           }
         ],
         "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs": [
@@ -169,6 +211,76 @@
             "fileType": ".cs",
             "linesAdded": 51,
             "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:29:10.821Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs",
+            "fileType": ".cs",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:29:13.161Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:30:33.002Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs",
+            "fileType": ".cs",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:30:35.913Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "SharpMASM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-18T14:30:43.414Z",
+            "fileName": "d:\\SharpMasm\\SharpMASM\\CmdArgs.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 36,
             "projectName": "SharpMASM",
             "content": {
               "added": [],
