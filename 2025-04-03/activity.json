@@ -1,0 +1,99 @@
+{
+  "date": "2025-04-03",
+  "projects": {
+    "konstruct": {
+      "totalLinesAdded": 1055,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/media/cat/konstruct/LICENSE": [
+          {
+            "timestamp": "2025-04-02T18:26:45.934Z",
+            "fileName": "/media/cat/konstruct/LICENSE",
+            "fileType": "unknown",
+            "linesAdded": 662,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-04-02T18:27:31.063Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 385,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-02T18:27:31.149Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/konstruct/samples/hello.c": [
+          {
+            "timestamp": "2025-04-02T18:28:05.815Z",
+            "fileName": "/media/cat/konstruct/samples/hello.c",
+            "fileType": ".c",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0,
+        "json": 2,
+        "c": 1
+      },
+      "changeFrequency": {
+        "5": 3
+      },
+      "topFiles": [
+        "/home/charlie/.config/Code - Insiders/User/settings.json",
+        "/media/cat/konstruct/LICENSE",
+        "/media/cat/konstruct/samples/hello.c"
+      ],
+      "averageChangeSize": 263.75
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    5
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "c",
+    "unknown"
+  ]
+}
