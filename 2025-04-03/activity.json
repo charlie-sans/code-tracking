@@ -2,9 +2,9 @@
   "date": "2025-04-03",
   "projects": {
     "konstruct": {
-      "totalLinesAdded": 1327,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 3233,
+      "totalLinesRemoved": 131,
+      "totalActiveTime": 19,
       "files": {
         "/media/cat/konstruct/LICENSE": [
           {
@@ -170,6 +170,112 @@
             },
             "duration": 1,
             "language": "c"
+          }
+        ],
+        "/media/cat/konstruct/libc/stdio.c": [
+          {
+            "timestamp": "2025-04-02T18:41:33.833Z",
+            "fileName": "/media/cat/konstruct/libc/stdio.c",
+            "fileType": ".c",
+            "linesAdded": 727,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "/media/cat/konstruct/libc/fs/fs.c": [
+          {
+            "timestamp": "2025-04-02T18:44:41.293Z",
+            "fileName": "/media/cat/konstruct/libc/fs/fs.c",
+            "fileType": ".c",
+            "linesAdded": 903,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-04-02T18:45:27.754Z",
+            "fileName": "/media/cat/konstruct/libc/fs/fs.c",
+            "fileType": ".c",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "/media/cat/konstruct/libc/fs/bootdev.c": [
+          {
+            "timestamp": "2025-04-02T18:44:58.196Z",
+            "fileName": "/media/cat/konstruct/libc/fs/bootdev.c",
+            "fileType": ".c",
+            "linesAdded": 218,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-04-02T18:45:30.086Z",
+            "fileName": "/media/cat/konstruct/libc/fs/bootdev.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 88,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "c"
+          }
+        ],
+        "/media/cat/konstruct/globals.h": [
+          {
+            "timestamp": "2025-04-02T18:45:11.260Z",
+            "fileName": "/media/cat/konstruct/globals.h",
+            "fileType": ".h",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
+          },
+          {
+            "timestamp": "2025-04-02T18:45:30.130Z",
+            "fileName": "/media/cat/konstruct/globals.h",
+            "fileType": ".h",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
           }
         ]
       },
