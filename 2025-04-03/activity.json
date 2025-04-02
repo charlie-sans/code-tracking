@@ -2,9 +2,9 @@
   "date": "2025-04-03",
   "projects": {
     "konstruct": {
-      "totalLinesAdded": 1055,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 1125,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 8,
       "files": {
         "/media/cat/konstruct/LICENSE": [
           {
@@ -66,6 +66,80 @@
             },
             "duration": 1,
             "language": "c"
+          }
+        ],
+        "/media/cat/konstruct/.gitignore": [
+          {
+            "timestamp": "2025-04-02T18:33:34.842Z",
+            "fileName": "/media/cat/konstruct/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-04-02T18:33:38.925Z",
+            "fileName": "/media/cat/konstruct/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/media/cat/konstruct/font.h": [
+          {
+            "timestamp": "2025-04-02T18:34:18.719Z",
+            "fileName": "/media/cat/konstruct/font.h",
+            "fileType": ".h",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
+          },
+          {
+            "timestamp": "2025-04-02T18:35:35.476Z",
+            "fileName": "/media/cat/konstruct/font.h",
+            "fileType": ".h",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "h"
+          },
+          {
+            "timestamp": "2025-04-02T18:35:46.193Z",
+            "fileName": "/media/cat/konstruct/font.h",
+            "fileType": ".h",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "konstruct",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
           }
         ]
       },
