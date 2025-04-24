@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-24",
+  "projects": {
+    "C-Masm": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "d:\\C-Masm\\main.masm": [
+          {
+            "timestamp": "2025-04-24T01:38:21.040Z",
+            "fileName": "d:\\C-Masm\\main.masm",
+            "fileType": ".masm",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-24T01:38:24.889Z",
+            "fileName": "d:\\C-Masm\\main.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ]
+      },
+      "languageStats": {
+        "masm": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "d:\\C-Masm\\main.masm"
+      ],
+      "averageChangeSize": 2
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "masm"
+  ]
+}
