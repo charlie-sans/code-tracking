@@ -49,7 +49,7 @@
       "averageChangeSize": 2
     },
     "masm": {
-      "totalLinesAdded": 216,
+      "totalLinesAdded": 240,
       "totalLinesRemoved": 20,
       "totalActiveTime": 5,
       "files": {
@@ -136,6 +136,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-24T02:47:52.828Z",
+            "fileName": "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
