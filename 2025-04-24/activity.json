@@ -47,6 +47,98 @@
         "d:\\C-Masm\\main.masm"
       ],
       "averageChangeSize": 2
+    },
+    "masm": {
+      "totalLinesAdded": 116,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js": [
+          {
+            "timestamp": "2025-04-24T02:16:39.918Z",
+            "fileName": "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js",
+            "fileType": ".js",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-24T02:16:42.899Z",
+            "fileName": "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-24T02:16:46.812Z",
+            "fileName": "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js",
+            "fileType": ".js",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-24T02:17:31.798Z",
+            "fileName": "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\server\\server.js": [
+          {
+            "timestamp": "2025-04-24T02:17:17.769Z",
+            "fileName": "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\server\\server.js",
+            "fileType": ".js",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 4
+      },
+      "changeFrequency": {
+        "12": 4
+      },
+      "topFiles": [
+        "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\extension.js",
+        "c:\\Users\\GAMER\\source\\repos\\MicroLangTools\\masm\\server\\server.js"
+      ],
+      "averageChangeSize": 26.4
     }
   },
   "totalActiveTime": 1,
