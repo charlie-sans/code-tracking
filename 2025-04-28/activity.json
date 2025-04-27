@@ -1,0 +1,133 @@
+{
+  "date": "2025-04-28",
+  "projects": {
+    "C-Masm": {
+      "totalLinesAdded": 1013,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 6,
+      "files": {
+        "/media/cat/C-Masm/src/microasm_decoder.cpp": [
+          {
+            "timestamp": "2025-04-27T21:59:21.013Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_decoder.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 306,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-27T21:59:21.088Z",
+            "fileName": "/media/cat/C-Masm/CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-27T21:59:31.771Z",
+            "fileName": "/media/cat/C-Masm/CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-04-27T22:00:25.492Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 386,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/C-Masm/src/main.cpp": [
+          {
+            "timestamp": "2025-04-27T22:03:33.055Z",
+            "fileName": "/media/cat/C-Masm/src/main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/.gitignore": [
+          {
+            "timestamp": "2025-04-27T22:06:47.321Z",
+            "fileName": "/media/cat/C-Masm/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 0,
+        "txt": 1,
+        "json": 1
+      },
+      "changeFrequency": {
+        "7": 1,
+        "8": 1
+      },
+      "topFiles": [
+        "/media/cat/C-Masm/CMakeLists.txt",
+        "/media/cat/C-Masm/src/microasm_decoder.cpp",
+        "/home/charlie/.config/Code - Insiders/User/settings.json"
+      ],
+      "averageChangeSize": 185.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    7,
+    8
+  ],
+  "mostUsedLanguages": [
+    "txt",
+    "json",
+    "cpp"
+  ]
+}
