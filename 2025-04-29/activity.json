@@ -791,7 +791,7 @@
       "averageChangeSize": 153
     },
     "Wake-Lang": {
-      "totalLinesAdded": 170,
+      "totalLinesAdded": 182,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -841,6 +841,22 @@
             },
             "duration": 4,
             "language": "py"
+          }
+        ],
+        "/media/cat/Wake-Lang/main.wake": [
+          {
+            "timestamp": "2025-04-28T23:52:54.781Z",
+            "fileName": "/media/cat/Wake-Lang/main.wake",
+            "fileType": ".wake",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "wake"
           }
         ]
       },
