@@ -2,9 +2,9 @@
   "date": "2025-04-28",
   "projects": {
     "C-Masm": {
-      "totalLinesAdded": 1875,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 2066,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 13,
       "files": {
         "/media/cat/C-Masm/src/microasm_decoder.cpp": [
           {
@@ -142,6 +142,66 @@
             },
             "duration": 2,
             "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/.vscode/settings.json": [
+          {
+            "timestamp": "2025-04-28T02:49:04.394Z",
+            "fileName": "/media/cat/C-Masm/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/C-Masm/src/microasm_interpreter.h": [
+          {
+            "timestamp": "2025-04-28T02:49:49.931Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.h",
+            "fileType": ".h",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
+          },
+          {
+            "timestamp": "2025-04-28T02:49:50.882Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.h",
+            "fileType": ".h",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
+          },
+          {
+            "timestamp": "2025-04-28T02:49:51.768Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.h",
+            "fileType": ".h",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
           }
         ]
       },
