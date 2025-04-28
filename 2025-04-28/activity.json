@@ -118,9 +118,9 @@
       "averageChangeSize": 185.5
     },
     "Micro-Assembly": {
-      "totalLinesAdded": 19,
+      "totalLinesAdded": 26,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 8,
       "files": {
         "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm": [
           {
@@ -216,6 +216,34 @@
             "fileName": "/media/cat/Micro-Assembly/Examples/Wake/hello.wake",
             "fileType": ".wake",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "wake"
+          },
+          {
+            "timestamp": "2025-04-28T01:02:18.468Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Wake/hello.wake",
+            "fileType": ".wake",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "wake"
+          },
+          {
+            "timestamp": "2025-04-28T01:02:27.237Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Wake/hello.wake",
+            "fileType": ".wake",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Micro-Assembly",
             "content": {
