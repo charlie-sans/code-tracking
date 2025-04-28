@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "C-Masm": {
-      "totalLinesAdded": 1921,
-      "totalLinesRemoved": 36,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 1950,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 43,
       "files": {
         "/media/cat/C-Masm/src/microasm_interpreter.cpp": [
           {
@@ -218,6 +218,34 @@
             },
             "duration": 1,
             "language": "h"
+          },
+          {
+            "timestamp": "2025-04-28T22:31:06.355Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.h",
+            "fileType": ".h",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "h"
+          },
+          {
+            "timestamp": "2025-04-28T22:31:32.259Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.h",
+            "fileType": ".h",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
           }
         ],
         "/media/cat/C-Masm/.gitignore": [
@@ -324,6 +352,78 @@
             },
             "duration": 3,
             "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:27:19.110Z",
+            "fileName": "/media/cat/C-Masm/src/MNI.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:27:24.448Z",
+            "fileName": "/media/cat/C-Masm/src/MNI.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:27:43.985Z",
+            "fileName": "/media/cat/C-Masm/src/MNI.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:31:14.393Z",
+            "fileName": "/media/cat/C-Masm/src/MNI.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/src/MNI.h": [
+          {
+            "timestamp": "2025-04-28T22:31:07.829Z",
+            "fileName": "/media/cat/C-Masm/src/MNI.h",
+            "fileType": ".h",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "h"
           }
         ]
       },
