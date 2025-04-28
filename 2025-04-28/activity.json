@@ -2,9 +2,9 @@
   "date": "2025-04-28",
   "projects": {
     "C-Masm": {
-      "totalLinesAdded": 1013,
+      "totalLinesAdded": 1875,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 6,
+      "totalActiveTime": 9,
       "files": {
         "/media/cat/C-Masm/src/microasm_decoder.cpp": [
           {
@@ -98,6 +98,50 @@
             },
             "duration": 4,
             "language": "unknown"
+          }
+        ],
+        "/media/cat/C-Masm/src/microasm_interpreter.cpp": [
+          {
+            "timestamp": "2025-04-28T02:46:58.261Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 816,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T02:47:38.061Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T02:48:52.738Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
           }
         ]
       },
