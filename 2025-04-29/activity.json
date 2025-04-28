@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "C-Masm": {
-      "totalLinesAdded": 2908,
-      "totalLinesRemoved": 249,
-      "totalActiveTime": 58,
+      "totalLinesAdded": 18305,
+      "totalLinesRemoved": 351,
+      "totalActiveTime": 86,
       "files": {
         "/media/cat/C-Masm/src/microasm_interpreter.cpp": [
           {
@@ -272,6 +272,20 @@
             },
             "duration": 1,
             "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:17.700Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cpp"
           }
         ],
         "/media/cat/C-Masm/src/microasm_interpreter.h": [
@@ -330,6 +344,20 @@
             },
             "duration": 1,
             "language": "h"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:17.252Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_interpreter.h",
+            "fileType": ".h",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "h"
           }
         ],
         "/media/cat/C-Masm/.gitignore": [
@@ -354,6 +382,20 @@
             "fileName": "/media/cat/C-Masm/.vscode/settings.json",
             "fileType": ".json",
             "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:17.049Z",
+            "fileName": "/media/cat/C-Masm/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 103,
             "linesRemoved": 0,
             "projectName": "C-Masm",
             "content": {
@@ -552,6 +594,34 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:18.020Z",
+            "fileName": "/media/cat/C-Masm/imgui-debugger/CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:50.862Z",
+            "fileName": "/media/cat/C-Masm/imgui-debugger/CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "/media/cat/C-Masm/src/microasm_compiler.cpp": [
@@ -560,6 +630,128 @@
             "fileName": "/media/cat/C-Masm/src/microasm_compiler.cpp",
             "fileType": ".cpp",
             "linesAdded": 723,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/src/mni/strings/strings.cpp": [
+          {
+            "timestamp": "2025-04-28T22:48:32.888Z",
+            "fileName": "/media/cat/C-Masm/src/mni/strings/strings.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:30.222Z",
+            "fileName": "/media/cat/C-Masm/src/mni/strings/strings.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:37.434Z",
+            "fileName": "/media/cat/C-Masm/src/mni/strings/strings.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/src/microasm_capi.cpp": [
+          {
+            "timestamp": "2025-04-28T22:51:18.105Z",
+            "fileName": "/media/cat/C-Masm/src/microasm_capi.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/imgui-debugger/imgui.ini": [
+          {
+            "timestamp": "2025-04-28T22:51:17.618Z",
+            "fileName": "/media/cat/C-Masm/imgui-debugger/imgui.ini",
+            "fileType": ".ini",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ini"
+          },
+          {
+            "timestamp": "2025-04-28T22:51:57.092Z",
+            "fileName": "/media/cat/C-Masm/imgui-debugger/imgui.ini",
+            "fileType": ".ini",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          }
+        ],
+        "/media/cat/C-Masm/imgui-debugger/imgui_tables.cpp": [
+          {
+            "timestamp": "2025-04-28T22:51:17.908Z",
+            "fileName": "/media/cat/C-Masm/imgui-debugger/imgui_tables.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 4526,
+            "linesRemoved": 0,
+            "projectName": "C-Masm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cpp"
+          }
+        ],
+        "/media/cat/C-Masm/imgui-debugger/imgui_widgets.cpp": [
+          {
+            "timestamp": "2025-04-28T22:51:17.566Z",
+            "fileName": "/media/cat/C-Masm/imgui-debugger/imgui_widgets.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 10452,
             "linesRemoved": 0,
             "projectName": "C-Masm",
             "content": {
