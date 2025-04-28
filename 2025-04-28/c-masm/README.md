@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2799                                          |
+| **Lines Added** (➕)   | 4365                                          |
 | **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 2769                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Net Change** (↕)    | 4335                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -16,11 +16,11 @@
 - **settings.json** (+386, -0)
 - **main.cpp** (+191, -0)
 - **.gitignore** (+84, -0)
-- **microasm_interpreter.cpp** (+935, -24)
+- **microasm_interpreter.cpp** (+1846, -24)
 - **settings.json** (+97, -0)
 - **microasm_interpreter.h** (+94, -1)
 - **main.masm** (+5, -1)
-- **microasm_compiler.cpp** (+655, -0)
+- **microasm_compiler.cpp** (+1310, -0)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cpp" : 2111
+".cpp" : 3677
 ".txt" : 50
 ".json" : 483
 "unknown" : 84
@@ -46,7 +46,8 @@ title Coding activity by hour (count of changes)
 "08h" : 3
 "12h" : 7
 "13h" : 12
+"21h" : 2
 ```
 
 
-> **Last Updated:** 28/04/2025, 13:39:13
+> **Last Updated:** 28/04/2025, 21:27:43
