@@ -118,9 +118,9 @@
       "averageChangeSize": 185.5
     },
     "Micro-Assembly": {
-      "totalLinesAdded": 5,
+      "totalLinesAdded": 19,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 6,
       "files": {
         "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm": [
           {
@@ -150,6 +150,80 @@
             },
             "duration": 1,
             "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-28T00:59:58.659Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm",
+            "fileType": ".masm",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "masm"
+          }
+        ],
+        "/media/cat/Micro-Assembly/Examples/MicroHigh/hello.uh": [
+          {
+            "timestamp": "2025-04-28T01:01:20.030Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/MicroHigh/hello.uh",
+            "fileType": ".uh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-28T01:01:26.054Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/MicroHigh/hello.uh",
+            "fileType": ".uh",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "uh"
+          }
+        ],
+        "/media/cat/Micro-Assembly/Examples/Wake/hello.wake": [
+          {
+            "timestamp": "2025-04-28T01:01:34.968Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Wake/hello.wake",
+            "fileType": ".wake",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "wake"
+          },
+          {
+            "timestamp": "2025-04-28T01:01:49.451Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Wake/hello.wake",
+            "fileType": ".wake",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "wake"
           }
         ]
       },
