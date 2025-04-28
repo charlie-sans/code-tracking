@@ -116,6 +116,53 @@
         "/home/charlie/.config/Code - Insiders/User/settings.json"
       ],
       "averageChangeSize": 185.5
+    },
+    "Micro-Assembly": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm": [
+          {
+            "timestamp": "2025-04-28T00:00:16.997Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm",
+            "fileType": ".masm",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-28T00:00:37.774Z",
+            "fileName": "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm",
+            "fileType": ".masm",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Micro-Assembly",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ]
+      },
+      "languageStats": {
+        "masm": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "/media/cat/Micro-Assembly/Examples/Micro-Assembly/hello.masm"
+      ],
+      "averageChangeSize": 2.5
     }
   },
   "totalActiveTime": 3,
