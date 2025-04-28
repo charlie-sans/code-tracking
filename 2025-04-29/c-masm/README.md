@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18305                                          |
+| **Lines Added** (➕)   | 18311                                          |
 | **Lines Removed** (➖) | 351                                        |
-| **Net Change** (↕)    | 17954                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Net Change** (↕)    | 17960                |
+| **Active Time** (⌚)   | 90 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **MNI.h** (+17, -0)
 - **CMakeLists.txt** (+102, -51)
 - **microasm_compiler.cpp** (+723, -0)
-- **strings.cpp** (+42, -22)
+- **strings.cpp** (+48, -22)
 - **microasm_capi.cpp** (+198, -0)
 - **imgui.ini** (+20, -11)
 - **imgui_tables.cpp** (+4526, -0)
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cpp" : 18032
+".cpp" : 18038
 ".h" : 128
 "unknown" : 89
 ".json" : 218
@@ -47,8 +47,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 52
+"08h" : 53
 ```
 
 
-> **Last Updated:** 29/04/2025, 08:52:18
+> **Last Updated:** 29/04/2025, 08:57:17
