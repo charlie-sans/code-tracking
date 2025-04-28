@@ -789,6 +789,74 @@
         "/media/cat/C-Masm/src/microasm_interpreter.h"
       ],
       "averageChangeSize": 153
+    },
+    "Wake-Lang": {
+      "totalLinesAdded": 170,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-debug.py": [
+          {
+            "timestamp": "2025-04-28T23:07:48.943Z",
+            "fileName": "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-debug.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-report.txt": [
+          {
+            "timestamp": "2025-04-28T23:07:49.014Z",
+            "fileName": "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-report.txt",
+            "fileType": ".txt",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/media/cat/Wake-Lang/codegen.py": [
+          {
+            "timestamp": "2025-04-28T23:11:02.832Z",
+            "fileName": "/media/cat/Wake-Lang/codegen.py",
+            "fileType": ".py",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 4,
+        "txt": 1
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-debug.py",
+        "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-report.txt",
+        "/media/cat/Wake-Lang/codegen.py"
+      ],
+      "averageChangeSize": 56.666666666666664
     }
   },
   "totalActiveTime": 10,
