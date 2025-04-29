@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3                                          |
+| **Lines Added** (➕)   | 395                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 3                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 395                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
-- **test.uh** (+3, -0)
+- **test.uh** (+4, -0)
+- **compiler.py** (+354, -0)
+- **main.masm** (+37, -0)
 
 ## Visualizations
 
@@ -20,7 +22,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".uh" : 3
+".uh" : 4
+".py" : 354
+".masm" : 37
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 1
+"13h" : 3
 ```
 
 
-> **Last Updated:** 29/04/2025, 12:12:12
+> **Last Updated:** 29/04/2025, 13:12:12
