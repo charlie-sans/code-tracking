@@ -791,9 +791,9 @@
       "averageChangeSize": 153
     },
     "Wake-Lang": {
-      "totalLinesAdded": 182,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 1336,
+      "totalLinesRemoved": 452,
+      "totalActiveTime": 13,
       "files": {
         "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-debug.py": [
           {
@@ -841,6 +841,34 @@
             },
             "duration": 4,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T00:04:26.739Z",
+            "fileName": "/media/cat/Wake-Lang/codegen.py",
+            "fileType": ".py",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T00:04:40.266Z",
+            "fileName": "/media/cat/Wake-Lang/codegen.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/media/cat/Wake-Lang/main.wake": [
@@ -857,6 +885,110 @@
             },
             "duration": 0,
             "language": "wake"
+          }
+        ],
+        "/media/cat/Wake-Lang/lexer.py": [
+          {
+            "timestamp": "2025-04-29T00:03:30.159Z",
+            "fileName": "/media/cat/Wake-Lang/lexer.py",
+            "fileType": ".py",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T00:03:38.716Z",
+            "fileName": "/media/cat/Wake-Lang/lexer.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/media/cat/Wake-Lang/parser.py": [
+          {
+            "timestamp": "2025-04-29T00:03:52.608Z",
+            "fileName": "/media/cat/Wake-Lang/parser.py",
+            "fileType": ".py",
+            "linesAdded": 450,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T00:04:10.046Z",
+            "fileName": "/media/cat/Wake-Lang/parser.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T00:05:02.892Z",
+            "fileName": "/media/cat/Wake-Lang/parser.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 443,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T00:05:03.057Z",
+            "fileName": "/media/cat/Wake-Lang/parser.py",
+            "fileType": ".py",
+            "linesAdded": 443,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/media/cat/Wake-Lang/main.masm": [
+          {
+            "timestamp": "2025-04-29T00:05:57.863Z",
+            "fileName": "/media/cat/Wake-Lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ]
       },
