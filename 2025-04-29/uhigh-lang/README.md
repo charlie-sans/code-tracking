@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 785                                          |
+| **Lines Added** (➕)   | 789                                          |
 | **Lines Removed** (➖) | 38                                        |
-| **Net Change** (↕)    | 747                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 751                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **test.uh** (+4, -0)
 - **compiler.py** (+354, -0)
-- **main.masm** (+42, -32)
+- **main.masm** (+46, -32)
 - **main.uh** (+13, -6)
 - **.gitignore** (+1, -0)
 - **uhigh.py** (+371, -0)
@@ -27,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".uh" : 23
 ".py" : 725
-".masm" : 74
+".masm" : 78
 "unknown" : 1
 ```
 
@@ -38,7 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 1
 "13h" : 10
+"14h" : 2
 ```
 
 
-> **Last Updated:** 29/04/2025, 13:57:12
+> **Last Updated:** 29/04/2025, 14:12:12
