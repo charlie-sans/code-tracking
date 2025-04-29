@@ -1128,9 +1128,9 @@
       "averageChangeSize": 4
     },
     "uhigh-lang": {
-      "totalLinesAdded": 789,
-      "totalLinesRemoved": 38,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 794,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 16,
       "files": {
         "/media/cat/uhigh-lang/test.uh": [
           {
@@ -1292,6 +1292,48 @@
             },
             "duration": 1,
             "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-29T04:22:58.233Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-29T04:23:00.294Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-29T04:23:20.995Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "uh"
           }
         ],
         "/media/cat/uhigh-lang/.gitignore": [
@@ -1323,6 +1365,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-29T04:23:35.642Z",
+            "fileName": "/media/cat/uhigh-lang/src/uhigh.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
