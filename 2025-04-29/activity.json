@@ -1128,9 +1128,9 @@
       "averageChangeSize": 4
     },
     "uhigh-lang": {
-      "totalLinesAdded": 395,
+      "totalLinesAdded": 406,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 4,
       "files": {
         "/media/cat/uhigh-lang/test.uh": [
           {
@@ -1192,6 +1192,22 @@
             },
             "duration": 1,
             "language": "masm"
+          }
+        ],
+        "/media/cat/uhigh-lang/main.uh": [
+          {
+            "timestamp": "2025-04-29T03:13:11.578Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "uh"
           }
         ]
       },
