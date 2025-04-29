@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1338                                          |
-| **Lines Removed** (➖) | 301                                        |
-| **Net Change** (↕)    | 1037                |
-| **Active Time** (⌚)   | 60 minutes |
+| **Lines Added** (➕)   | 1383                                          |
+| **Lines Removed** (➖) | 348                                        |
+| **Net Change** (↕)    | 1035                |
+| **Active Time** (⌚)   | 68 minutes |
 
 
 ## Modified Files
 - **test.uh** (+4, -0)
 - **compiler.py** (+354, -0)
-- **main.masm** (+68, -32)
-- **main.uh** (+26, -9)
+- **main.masm** (+68, -55)
+- **main.uh** (+28, -21)
 - **.gitignore** (+1, -0)
-- **uhigh.py** (+389, -12)
+- **uhigh.py** (+432, -24)
 - **parser.py** (+496, -248)
 
 ## Visualizations
@@ -26,9 +26,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".uh" : 39
-".py" : 1499
-".masm" : 100
+".uh" : 53
+".py" : 1554
+".masm" : 123
 "unknown" : 1
 ```
 
@@ -39,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 1
 "13h" : 10
-"14h" : 31
+"14h" : 37
 ```
 
 
-> **Last Updated:** 29/04/2025, 14:42:12
+> **Last Updated:** 29/04/2025, 14:52:12
