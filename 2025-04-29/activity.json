@@ -792,7 +792,7 @@
     },
     "Wake-Lang": {
       "totalLinesAdded": 1336,
-      "totalLinesRemoved": 452,
+      "totalLinesRemoved": 455,
       "totalActiveTime": 13,
       "files": {
         "/media/cat/Wake-Lang/build/compiler.onefile-build/scons-debug.py": [
@@ -878,6 +878,20 @@
             "fileType": ".wake",
             "linesAdded": 12,
             "linesRemoved": 0,
+            "projectName": "Wake-Lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "wake"
+          },
+          {
+            "timestamp": "2025-04-29T00:12:06.154Z",
+            "fileName": "/media/cat/Wake-Lang/main.wake",
+            "fileType": ".wake",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "Wake-Lang",
             "content": {
               "added": [],
