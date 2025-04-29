@@ -1126,6 +1126,39 @@
         "/media/cat/stdlib/src/print.wake"
       ],
       "averageChangeSize": 4
+    },
+    "uhigh-lang": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/media/cat/uhigh-lang/test.uh": [
+          {
+            "timestamp": "2025-04-29T02:07:13.463Z",
+            "fileName": "/media/cat/uhigh-lang/test.uh",
+            "fileType": ".uh",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "uh"
+          }
+        ]
+      },
+      "languageStats": {
+        "uh": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/media/cat/uhigh-lang/test.uh"
+      ],
+      "averageChangeSize": 3
     }
   },
   "totalActiveTime": 10,
