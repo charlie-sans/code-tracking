@@ -1128,9 +1128,9 @@
       "averageChangeSize": 4
     },
     "uhigh-lang": {
-      "totalLinesAdded": 407,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 785,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 12,
       "files": {
         "/media/cat/uhigh-lang/test.uh": [
           {
@@ -1192,6 +1192,34 @@
             },
             "duration": 1,
             "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-29T03:52:16.614Z",
+            "fileName": "/media/cat/uhigh-lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-29T03:52:38.830Z",
+            "fileName": "/media/cat/uhigh-lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ],
         "/media/cat/uhigh-lang/main.uh": [
@@ -1222,6 +1250,20 @@
             },
             "duration": 2,
             "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-29T03:52:23.004Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "uh"
           }
         ],
         "/media/cat/uhigh-lang/.gitignore": [
@@ -1238,6 +1280,22 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "/media/cat/uhigh-lang/src/uhigh.py": [
+          {
+            "timestamp": "2025-04-29T03:55:52.860Z",
+            "fileName": "/media/cat/uhigh-lang/src/uhigh.py",
+            "fileType": ".py",
+            "linesAdded": 371,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
           }
         ]
       },
