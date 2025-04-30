@@ -65,9 +65,9 @@
       "averageChangeSize": 348.5
     },
     "uhigh-lang": {
-      "totalLinesAdded": 797,
+      "totalLinesAdded": 1632,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 6,
+      "totalActiveTime": 15,
       "files": {
         "/media/cat/uhigh-lang/main.uh": [
           {
@@ -144,6 +144,122 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:22:28.640Z",
+            "fileName": "/media/cat/uhigh-lang/src/uhigh.py",
+            "fileType": ".py",
+            "linesAdded": 426,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/media/cat/uhigh-lang/src/parser.py": [
+          {
+            "timestamp": "2025-04-30T01:19:31.893Z",
+            "fileName": "/media/cat/uhigh-lang/src/parser.py",
+            "fileType": ".py",
+            "linesAdded": 282,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:20:52.122Z",
+            "fileName": "/media/cat/uhigh-lang/src/parser.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:20:53.434Z",
+            "fileName": "/media/cat/uhigh-lang/src/parser.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:21:43.894Z",
+            "fileName": "/media/cat/uhigh-lang/src/parser.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:22:01.490Z",
+            "fileName": "/media/cat/uhigh-lang/src/parser.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/media/cat/uhigh-lang/src/lexer.py": [
+          {
+            "timestamp": "2025-04-30T01:22:51.310Z",
+            "fileName": "/media/cat/uhigh-lang/src/lexer.py",
+            "fileType": ".py",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:23:03.822Z",
+            "fileName": "/media/cat/uhigh-lang/src/lexer.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
