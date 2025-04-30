@@ -601,9 +601,9 @@
       "averageChangeSize": 348.5
     },
     "uhigh-lang": {
-      "totalLinesAdded": 3125,
-      "totalLinesRemoved": 534,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 3149,
+      "totalLinesRemoved": 626,
+      "totalActiveTime": 73,
       "files": {
         "/media/cat/uhigh-lang/main.uh": [
           {
@@ -917,6 +917,20 @@
             },
             "duration": 1,
             "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-30T07:57:39.771Z",
+            "fileName": "/media/cat/uhigh-lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
           }
         ],
         "/media/cat/uhigh-lang/src/uhigh.py": [
@@ -1156,6 +1170,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T07:56:54.612Z",
+            "fileName": "/media/cat/uhigh-lang/src/uhigh.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 92,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ],
