@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1649                                          |
-| **Lines Removed** (➖) | 10                                        |
-| **Net Change** (↕)    | 1639                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Lines Added** (➕)   | 1698                                          |
+| **Lines Removed** (➖) | 37                                        |
+| **Net Change** (↕)    | 1661                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
-- **main.uh** (+6, -1)
+- **main.uh** (+13, -1)
 - **settings.json** (+388, -0)
-- **main.masm** (+10, -0)
+- **main.masm** (+52, -27)
 - **uhigh.py** (+836, -7)
 - **parser.py** (+290, -2)
 - **lexer.py** (+119, -0)
@@ -25,9 +25,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".uh" : 7
+".uh" : 14
 ".json" : 388
-".masm" : 10
+".masm" : 79
 ".py" : 1254
 ```
 
@@ -36,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 17
+"11h" : 30
 ```
 
 
-> **Last Updated:** 30/04/2025, 11:29:28
+> **Last Updated:** 30/04/2025, 11:34:27
