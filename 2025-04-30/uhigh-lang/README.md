@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2165                                          |
+| **Lines Added** (➕)   | 2168                                          |
 | **Lines Removed** (➖) | 44                                        |
-| **Net Change** (↕)    | 2121                |
+| **Net Change** (↕)    | 2124                |
 | **Active Time** (⌚)   | 63 minutes |
 
 
@@ -17,6 +17,7 @@
 - **uhigh.py** (+868, -8)
 - **parser.py** (+291, -2)
 - **lexer.py** (+129, -5)
+- **settings.json** (+3, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".uh" : 25
-".json" : 776
+".json" : 779
 ".masm" : 105
 ".py" : 1303
 ```
@@ -37,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 40
-"13h" : 2
+"13h" : 3
 ```
 
 
-> **Last Updated:** 30/04/2025, 13:18:30
+> **Last Updated:** 30/04/2025, 14:03:30
