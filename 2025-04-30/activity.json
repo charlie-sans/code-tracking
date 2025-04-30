@@ -63,6 +63,107 @@
         "/media/cat/masm-lsp/server/src/server.ts"
       ],
       "averageChangeSize": 348.5
+    },
+    "uhigh-lang": {
+      "totalLinesAdded": 797,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 6,
+      "files": {
+        "/media/cat/uhigh-lang/main.uh": [
+          {
+            "timestamp": "2025-04-30T01:10:37.108Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-30T01:11:18.457Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "uh"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-04-30T01:11:16.431Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 388,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/media/cat/uhigh-lang/main.masm": [
+          {
+            "timestamp": "2025-04-30T01:13:04.473Z",
+            "fileName": "/media/cat/uhigh-lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "masm"
+          }
+        ],
+        "/media/cat/uhigh-lang/src/uhigh.py": [
+          {
+            "timestamp": "2025-04-30T01:14:26.088Z",
+            "fileName": "/media/cat/uhigh-lang/src/uhigh.py",
+            "fileType": ".py",
+            "linesAdded": 393,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "uh": 1,
+        "json": 1,
+        "masm": 2,
+        "py": 2
+      },
+      "changeFrequency": {
+        "11": 6
+      },
+      "topFiles": [
+        "/media/cat/uhigh-lang/main.uh",
+        "/home/charlie/.config/Code - Insiders/User/settings.json",
+        "/media/cat/uhigh-lang/main.masm",
+        "/media/cat/uhigh-lang/src/uhigh.py"
+      ],
+      "averageChangeSize": 159.6
     }
   },
   "totalActiveTime": 1,
