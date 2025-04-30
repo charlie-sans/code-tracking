@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3153                                          |
-| **Lines Removed** (➖) | 630                                        |
-| **Net Change** (↕)    | 2523                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Lines Added** (➕)   | 3197                                          |
+| **Lines Removed** (➖) | 666                                        |
+| **Net Change** (↕)    | 2531                |
+| **Active Time** (⌚)   | 97 minutes |
 
 
 ## Modified Files
 - **main.uh** (+24, -1)
 - **settings.json** (+776, -0)
-- **main.masm** (+101, -28)
-- **uhigh.py** (+1829, -594)
+- **main.masm** (+126, -52)
+- **uhigh.py** (+1848, -606)
 - **parser.py** (+291, -2)
 - **lexer.py** (+129, -5)
 - **settings.json** (+3, -0)
@@ -28,8 +28,8 @@ pie showData
 title Lines changed by file type
 ".uh" : 25
 ".json" : 779
-".masm" : 129
-".py" : 2850
+".masm" : 178
+".py" : 2881
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "11h" : 40
 "13h" : 3
 "17h" : 10
-"18h" : 4
+"18h" : 11
 ```
 
 
-> **Last Updated:** 30/04/2025, 18:13:50
+> **Last Updated:** 30/04/2025, 18:18:50
