@@ -658,6 +658,89 @@
         "/media/cat/uhigh-lang/src/uhigh.py"
       ],
       "averageChangeSize": 159.6
+    },
+    "finite.vercel.app": {
+      "totalLinesAdded": 462,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 4,
+      "files": {
+        "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js": [
+          {
+            "timestamp": "2025-04-30T01:54:51.281Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-30T01:54:53.163Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/home/charlie/git/finite.vercel.app/package.json": [
+          {
+            "timestamp": "2025-04-30T01:54:53.122Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/package.json",
+            "fileType": ".json",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/home/charlie/git/finite.vercel.app/src/pages/masm/masm.jsx": [
+          {
+            "timestamp": "2025-04-30T01:56:05.162Z",
+            "fileName": "/home/charlie/git/finite.vercel.app/src/pages/masm/masm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 243,
+            "linesRemoved": 0,
+            "projectName": "finite.vercel.app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1,
+        "json": 1,
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "11": 4
+      },
+      "topFiles": [
+        "/home/charlie/git/finite.vercel.app/src/pages/docs/data.js",
+        "/home/charlie/git/finite.vercel.app/package.json",
+        "/home/charlie/git/finite.vercel.app/src/pages/masm/masm.jsx"
+      ],
+      "averageChangeSize": 118.75
     }
   },
   "totalActiveTime": 1,
