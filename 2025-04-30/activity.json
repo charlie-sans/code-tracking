@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "masm-lsp": {
-      "totalLinesAdded": 3735,
-      "totalLinesRemoved": 71,
-      "totalActiveTime": 74,
+      "totalLinesAdded": 3862,
+      "totalLinesRemoved": 87,
+      "totalActiveTime": 78,
       "files": {
         "/media/cat/masm-lsp/server/src/server.ts": [
           {
@@ -507,6 +507,78 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/media/cat/masm-lsp/client/src/extension.ts": [
+          {
+            "timestamp": "2025-04-30T05:14:18.392Z",
+            "fileName": "/media/cat/masm-lsp/client/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:14:25.524Z",
+            "fileName": "/media/cat/masm-lsp/client/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:14:25.683Z",
+            "fileName": "/media/cat/masm-lsp/client/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:14:59.753Z",
+            "fileName": "/media/cat/masm-lsp/client/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:15:14.897Z",
+            "fileName": "/media/cat/masm-lsp/client/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "masm-lsp",
             "content": {
               "added": [],
