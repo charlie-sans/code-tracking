@@ -1643,6 +1643,249 @@
         "/home/charlie/git/finite.vercel.app/src/pages/masm/masm.jsx"
       ],
       "averageChangeSize": 118.75
+    },
+    "Assets": {
+      "totalLinesAdded": 266,
+      "totalLinesRemoved": 61,
+      "totalActiveTime": 15,
+      "files": {
+        "d:\\MicroChat\\Assets\\NetworkedController.cs": [
+          {
+            "timestamp": "2025-04-30T09:23:23.987Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:24:08.890Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:24:14.784Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:24:44.454Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:24:55.049Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:25:01.993Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:25:12.896Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:26:07.890Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:26:22.852Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:26:41.498Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:26:48.783Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:27:21.142Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:27:40.258Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:27:44.813Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:27:53.714Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-30T09:27:55.622Z",
+            "fileName": "d:\\MicroChat\\Assets\\NetworkedController.cs",
+            "fileType": ".cs",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 15
+      },
+      "changeFrequency": {
+        "19": 15
+      },
+      "topFiles": [
+        "d:\\MicroChat\\Assets\\NetworkedController.cs"
+      ],
+      "averageChangeSize": 20.4375
     }
   },
   "totalActiveTime": 1,
