@@ -3,8 +3,8 @@
   "projects": {
     "masm-lsp": {
       "totalLinesAdded": 3702,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 37,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 41,
       "files": {
         "/media/cat/masm-lsp/server/src/server.ts": [
           {
@@ -187,6 +187,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T04:49:26.054Z",
+            "fileName": "/media/cat/masm-lsp/server/src/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ],
