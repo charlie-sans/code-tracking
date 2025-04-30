@@ -65,9 +65,9 @@
       "averageChangeSize": 348.5
     },
     "uhigh-lang": {
-      "totalLinesAdded": 2131,
+      "totalLinesAdded": 2165,
       "totalLinesRemoved": 44,
-      "totalActiveTime": 62,
+      "totalActiveTime": 63,
       "files": {
         "/media/cat/uhigh-lang/main.uh": [
           {
@@ -152,6 +152,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "uh"
+          },
+          {
+            "timestamp": "2025-04-30T03:15:37.952Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "uh"
           }
         ],
@@ -346,6 +360,20 @@
             "fileType": ".masm",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          },
+          {
+            "timestamp": "2025-04-30T03:15:42.717Z",
+            "fileName": "/media/cat/uhigh-lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 25,
+            "linesRemoved": 0,
             "projectName": "uhigh-lang",
             "content": {
               "added": [],
