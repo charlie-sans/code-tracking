@@ -2,7 +2,7 @@
   "date": "2025-04-30",
   "projects": {
     "masm-lsp": {
-      "totalLinesAdded": 697,
+      "totalLinesAdded": 1085,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -34,6 +34,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-04-30T01:11:16.613Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 388,
+            "linesRemoved": 0,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
