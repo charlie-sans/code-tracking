@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "masm-lsp": {
-      "totalLinesAdded": 3715,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 3718,
+      "totalLinesRemoved": 70,
+      "totalActiveTime": 68,
       "files": {
         "/media/cat/masm-lsp/server/src/server.ts": [
           {
@@ -300,6 +300,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:02:56.532Z",
+            "fileName": "/media/cat/masm-lsp/server/src/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:04:05.574Z",
+            "fileName": "/media/cat/masm-lsp/server/src/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "/home/charlie/.config/Code - Insiders/User/settings.json": [
@@ -429,6 +457,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T05:04:05.222Z",
+            "fileName": "/media/cat/masm-lsp/server/src/validation.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
