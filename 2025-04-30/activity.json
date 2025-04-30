@@ -65,9 +65,9 @@
       "averageChangeSize": 348.5
     },
     "uhigh-lang": {
-      "totalLinesAdded": 1732,
-      "totalLinesRemoved": 39,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 2131,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 62,
       "files": {
         "/media/cat/uhigh-lang/main.uh": [
           {
@@ -168,6 +168,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-30T01:45:36.092Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 388,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
@@ -553,6 +567,20 @@
             },
             "duration": 5,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:45:55.063Z",
+            "fileName": "/media/cat/uhigh-lang/src/parser.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/media/cat/uhigh-lang/src/lexer.py": [
@@ -582,6 +610,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:47:27.906Z",
+            "fileName": "/media/cat/uhigh-lang/src/lexer.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T01:47:28.879Z",
+            "fileName": "/media/cat/uhigh-lang/src/lexer.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
