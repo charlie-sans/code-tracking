@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "masm-lsp": {
-      "totalLinesAdded": 3290,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 3306,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 17,
       "files": {
         "/media/cat/masm-lsp/server/src/server.ts": [
           {
@@ -125,6 +125,34 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T04:30:44.012Z",
+            "fileName": "/media/cat/masm-lsp/server/src/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "masm-lsp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T04:33:15.225Z",
+            "fileName": "/media/cat/masm-lsp/server/src/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "masm-lsp",
             "content": {
               "added": [],
