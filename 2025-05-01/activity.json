@@ -459,9 +459,9 @@
       "averageChangeSize": 279
     },
     "jmasm": {
-      "totalLinesAdded": 4475,
-      "totalLinesRemoved": 152,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 4965,
+      "totalLinesRemoved": 159,
+      "totalActiveTime": 35,
       "files": {
         "/media/cat/jmasm/src/test/java/org/finite/ArgumentParserTest.java": [
           {
@@ -646,6 +646,20 @@
         "/media/cat/jmasm/src/main/java/org/finite/Main.java": [
           {
             "timestamp": "2025-05-01T07:54:55.531Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Main.java",
+            "fileType": ".java",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T09:11:40.598Z",
             "fileName": "/media/cat/jmasm/src/main/java/org/finite/Main.java",
             "fileType": ".java",
             "linesAdded": 89,
@@ -906,6 +920,64 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 25,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "/media/cat/jmasm/src/main/java/org/finite/common.java": [
+          {
+            "timestamp": "2025-05-01T09:08:57.558Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 400,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T09:09:03.967Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T09:10:49.873Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T09:11:12.749Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/common.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "jmasm",
             "content": {
               "added": [],
