@@ -459,9 +459,9 @@
       "averageChangeSize": 279
     },
     "jmasm": {
-      "totalLinesAdded": 3251,
-      "totalLinesRemoved": 127,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 4475,
+      "totalLinesRemoved": 152,
+      "totalActiveTime": 30,
       "files": {
         "/media/cat/jmasm/src/test/java/org/finite/ArgumentParserTest.java": [
           {
@@ -626,6 +626,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T09:01:36.907Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/ModuleManager/ModuleInit.java",
+            "fileType": ".java",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ],
@@ -870,6 +884,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T08:59:13.673Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 1085,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T08:59:33.447Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
