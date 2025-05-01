@@ -459,9 +459,9 @@
       "averageChangeSize": 279
     },
     "jmasm": {
-      "totalLinesAdded": 3209,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 3251,
+      "totalLinesRemoved": 127,
+      "totalActiveTime": 26,
       "files": {
         "/media/cat/jmasm/src/test/java/org/finite/ArgumentParserTest.java": [
           {
@@ -842,6 +842,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T08:46:42.219Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 93,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-01T08:48:46.622Z",
+            "fileName": "/media/cat/jmasm/src/main/java/org/finite/Functions.java",
+            "fileType": ".java",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "jmasm",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]
