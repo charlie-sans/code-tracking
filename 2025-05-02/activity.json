@@ -220,6 +220,71 @@
         "/media/cat/jmasm/src/main/java/org/finite/Main.java"
       ],
       "averageChangeSize": 230.30769230769232
+    },
+    "uhigh-lang": {
+      "totalLinesAdded": 77,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/media/cat/uhigh-lang/main.uh": [
+          {
+            "timestamp": "2025-05-02T01:15:41.748Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "uh"
+          },
+          {
+            "timestamp": "2025-05-02T01:16:38.058Z",
+            "fileName": "/media/cat/uhigh-lang/main.uh",
+            "fileType": ".uh",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "uh"
+          }
+        ],
+        "/media/cat/uhigh-lang/main.masm": [
+          {
+            "timestamp": "2025-05-02T01:16:39.721Z",
+            "fileName": "/media/cat/uhigh-lang/main.masm",
+            "fileType": ".masm",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "masm"
+          }
+        ]
+      },
+      "languageStats": {
+        "uh": 1,
+        "masm": 1
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "/media/cat/uhigh-lang/main.uh",
+        "/media/cat/uhigh-lang/main.masm"
+      ],
+      "averageChangeSize": 25.666666666666668
     }
   },
   "totalActiveTime": 9,
