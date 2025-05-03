@@ -1,0 +1,96 @@
+{
+  "date": "2025-05-03",
+  "projects": {
+    "uhigh-lang": {
+      "totalLinesAdded": 405,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "/media/cat/uhigh-lang/main.py": [
+          {
+            "timestamp": "2025-05-03T02:58:09.423Z",
+            "fileName": "/media/cat/uhigh-lang/main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-03T02:58:17.485Z",
+            "fileName": "/media/cat/uhigh-lang/main.py",
+            "fileType": ".py",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/home/charlie/.config/Code - Insiders/User/settings.json": [
+          {
+            "timestamp": "2025-05-03T03:00:02.552Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 389,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-03T03:00:02.621Z",
+            "fileName": "/home/charlie/.config/Code - Insiders/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "uhigh-lang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1,
+        "json": 3
+      },
+      "changeFrequency": {
+        "12": 1,
+        "13": 3
+      },
+      "topFiles": [
+        "/media/cat/uhigh-lang/main.py",
+        "/home/charlie/.config/Code - Insiders/User/settings.json"
+      ],
+      "averageChangeSize": 101.25
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    13,
+    12
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "py"
+  ]
+}
