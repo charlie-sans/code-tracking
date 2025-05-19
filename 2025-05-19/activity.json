@@ -3,8 +3,8 @@
   "projects": {
     "FluxSDK-v0.4.0": {
       "totalLinesAdded": 68,
-      "totalLinesRemoved": 64,
-      "totalActiveTime": 9,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Users\\GAMER\\OneDrive\\Desktop\\FluxSDK-v0.4.0\\pulse.pg": [
           {
@@ -145,6 +145,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "pg"
+          },
+          {
+            "timestamp": "2025-05-19T00:56:30.066Z",
+            "fileName": "c:\\Users\\GAMER\\OneDrive\\Desktop\\FluxSDK-v0.4.0\\pulse.pg",
+            "fileType": ".pg",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FluxSDK-v0.4.0",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "pg"
           }
         ]
